@@ -1,0 +1,217 @@
+Dates	variable	value	ref	Date.fmt	Val.fmt	Ref.fmt	text	i	j
+2020-03-01	Observed	3	NA	Mar  1	3	"NA"	Mar  1: 3 observed cases	TRUE	FALSE
+2020-03-02	Observed	5	NA	Mar  2	5	"NA"	Mar  2: 5 observed cases	TRUE	FALSE
+2020-03-03	Observed	5	NA	Mar  3	5	"NA"	Mar  3: 5 observed cases	TRUE	FALSE
+2020-03-04	Observed	28	NA	Mar  4	28	"NA"	Mar  4: 28 observed cases	TRUE	FALSE
+2020-03-05	Observed	30	NA	Mar  5	30	"NA"	Mar  5: 30 observed cases	TRUE	FALSE
+2020-03-06	Observed	31	NA	Mar  6	31	"NA"	Mar  6: 31 observed cases	TRUE	FALSE
+2020-03-07	Observed	34	NA	Mar  7	34	"NA"	Mar  7: 34 observed cases	TRUE	FALSE
+2020-03-08	Observed	39	NA	Mar  8	39	"NA"	Mar  8: 39 observed cases	TRUE	FALSE
+2020-03-09	Observed	43	NA	Mar  9	43	"NA"	Mar  9: 43 observed cases	TRUE	FALSE
+2020-03-10	Observed	56	NA	Mar 10	56	"NA"	Mar 10: 56 observed cases	TRUE	FALSE
+2020-03-11	Observed	62	NA	Mar 11	62	"NA"	Mar 11: 62 observed cases	TRUE	FALSE
+2020-03-12	Observed	73	NA	Mar 12	73	"NA"	Mar 12: 73 observed cases	TRUE	FALSE
+2020-03-13	Observed	82	NA	Mar 13	82	"NA"	Mar 13: 82 observed cases	TRUE	FALSE
+2020-03-14	Observed	102	NA	Mar 14	102	"NA"	Mar 14: 102 observed cases	TRUE	FALSE
+2020-03-15	Observed	113	NA	Mar 15	113	"NA"	Mar 15: 113 observed cases	TRUE	FALSE
+2020-03-16	Observed	119	NA	Mar 16	119	"NA"	Mar 16: 119 observed cases	TRUE	FALSE
+2020-03-17	Observed	142	NA	Mar 17	142	"NA"	Mar 17: 142 observed cases	TRUE	FALSE
+2020-03-18	Observed	156	NA	Mar 18	156	"NA"	Mar 18: 156 observed cases	TRUE	FALSE
+2020-03-19	Observed	194	NA	Mar 19	194	"NA"	Mar 19: 194 observed cases	TRUE	FALSE
+2020-03-20	Observed	244	NA	Mar 20	244	"NA"	Mar 20: 244 observed cases	TRUE	FALSE
+2020-03-21	Observed	330	NA	Mar 21	330	"NA"	Mar 21: 330 observed cases	TRUE	FALSE
+2020-03-22	Observed	396	NA	Mar 22	396	"NA"	Mar 22: 396 observed cases	TRUE	FALSE
+2020-03-23	Observed	499	NA	Mar 23	499	"NA"	Mar 23: 499 observed cases	TRUE	FALSE
+2020-03-24	Observed	536	NA	Mar 24	536	"NA"	Mar 24: 536 observed cases	TRUE	FALSE
+2020-03-25	Observed	657	NA	Mar 25	657	"NA"	Mar 25: 657 observed cases	TRUE	FALSE
+2020-03-26	Observed	727	NA	Mar 26	727	"NA"	Mar 26: 727 observed cases	TRUE	FALSE
+2020-03-27	Observed	887	NA	Mar 27	887	"NA"	Mar 27: 887 observed cases	TRUE	FALSE
+2020-03-28	Observed	987	NA	Mar 28	987	"NA"	Mar 28: 987 observed cases	TRUE	FALSE
+2020-03-29	Observed	1024	NA	Mar 29	1,024	"NA"	Mar 29: 1,024 observed cases	TRUE	FALSE
+2020-03-30	Observed	1251	NA	Mar 30	1,251	"NA"	Mar 30: 1,251 observed cases	TRUE	FALSE
+2020-03-31	No intervention	1267	9663	Mar 31	1,267	9,663	Mar 31: 1,267 projected cases<br>Projection upper CI: 9,663 cases<br>	TRUE	FALSE
+2020-03-31	No intervention upper credible interval	9663	1267	Mar 31	9,663	1,267	Mar 31: 1,267 projected cases<br>Projection upper CI: 9,663 cases<br>	FALSE	FALSE
+2020-03-31	Social distancing	1241	9552	Mar 31	1,241	9,552	Mar 31: 1,241 projected cases<br>Projection upper CI: 9,552 cases<br>	TRUE	FALSE
+2020-03-31	Social distancing upper credible interval	9552	1241	Mar 31	9,552	1,241	Mar 31: 1,241 projected cases<br>Projection upper CI: 9,552 cases<br>	FALSE	FALSE
+2020-03-31	Lockdown with moderate release	1240	9602	Mar 31	1,240	9,602	Mar 31: 1,240 projected cases<br>Projection upper CI: 9,602 cases<br>	TRUE	FALSE
+2020-03-31	Lockdown upper credible interval	9602	9552	Mar 31	9,602	9,552	Mar 31: 9,552 projected cases<br>Projection upper CI: 9,602 cases<br>	FALSE	TRUE
+2020-04-01	No intervention	1432	10672	Apr  1	1,432	10,672	Apr  1: 1,432 projected cases<br>Projection upper CI: 10,672 cases<br>	TRUE	FALSE
+2020-04-01	No intervention upper credible interval	10672	1432	Apr  1	10,672	1,432	Apr  1: 1,432 projected cases<br>Projection upper CI: 10,672 cases<br>	FALSE	FALSE
+2020-04-01	Social distancing	1375	10387	Apr  1	1,375	10,387	Apr  1: 1,375 projected cases<br>Projection upper CI: 10,387 cases<br>	TRUE	FALSE
+2020-04-01	Social distancing upper credible interval	10387	1375	Apr  1	10,387	1,375	Apr  1: 1,375 projected cases<br>Projection upper CI: 10,387 cases<br>	FALSE	FALSE
+2020-04-01	Lockdown with moderate release	1372	10344	Apr  1	1,372	10,344	Apr  1: 1,372 projected cases<br>Projection upper CI: 10,344 cases<br>	TRUE	FALSE
+2020-04-01	Lockdown upper credible interval	10344	10387	Apr  1	10,344	10,387	Apr  1: 10,387 projected cases<br>Projection upper CI: 10,344 cases<br>	FALSE	TRUE
+2020-04-02	No intervention	1630	12050	Apr  2	1,630	12,050	Apr  2: 1,630 projected cases<br>Projection upper CI: 12,050 cases<br>	TRUE	FALSE
+2020-04-02	No intervention upper credible interval	12050	1630	Apr  2	12,050	1,630	Apr  2: 1,630 projected cases<br>Projection upper CI: 12,050 cases<br>	FALSE	FALSE
+2020-04-02	Social distancing	1522	11454	Apr  2	1,522	11,454	Apr  2: 1,522 projected cases<br>Projection upper CI: 11,454 cases<br>	TRUE	FALSE
+2020-04-02	Social distancing upper credible interval	11454	1522	Apr  2	11,454	1,522	Apr  2: 1,522 projected cases<br>Projection upper CI: 11,454 cases<br>	FALSE	FALSE
+2020-04-02	Lockdown with moderate release	1517	11435	Apr  2	1,517	11,435	Apr  2: 1,517 projected cases<br>Projection upper CI: 11,435 cases<br>	TRUE	FALSE
+2020-04-02	Lockdown upper credible interval	11435	11454	Apr  2	11,435	11,454	Apr  2: 11,454 projected cases<br>Projection upper CI: 11,435 cases<br>	FALSE	TRUE
+2020-04-03	No intervention	1869	13465	Apr  3	1,869	13,465	Apr  3: 1,869 projected cases<br>Projection upper CI: 13,465 cases<br>	TRUE	FALSE
+2020-04-03	No intervention upper credible interval	13465	1869	Apr  3	13,465	1,869	Apr  3: 1,869 projected cases<br>Projection upper CI: 13,465 cases<br>	FALSE	FALSE
+2020-04-03	Social distancing	1689	12578	Apr  3	1,689	12,578	Apr  3: 1,689 projected cases<br>Projection upper CI: 12,578 cases<br>	TRUE	FALSE
+2020-04-03	Social distancing upper credible interval	12578	1689	Apr  3	12,578	1,689	Apr  3: 1,689 projected cases<br>Projection upper CI: 12,578 cases<br>	FALSE	FALSE
+2020-04-03	Lockdown with moderate release	1682	12564	Apr  3	1,682	12,564	Apr  3: 1,682 projected cases<br>Projection upper CI: 12,564 cases<br>	TRUE	FALSE
+2020-04-03	Lockdown upper credible interval	12564	12578	Apr  3	12,564	12,578	Apr  3: 12,578 projected cases<br>Projection upper CI: 12,564 cases<br>	FALSE	TRUE
+2020-04-04	No intervention	2159	15449	Apr  4	2,159	15,449	Apr  4: 2,159 projected cases<br>Projection upper CI: 15,449 cases<br>	TRUE	FALSE
+2020-04-04	No intervention upper credible interval	15449	2159	Apr  4	15,449	2,159	Apr  4: 2,159 projected cases<br>Projection upper CI: 15,449 cases<br>	FALSE	FALSE
+2020-04-04	Social distancing	1877	13908	Apr  4	1,877	13,908	Apr  4: 1,877 projected cases<br>Projection upper CI: 13,908 cases<br>	TRUE	FALSE
+2020-04-04	Social distancing upper credible interval	13908	1877	Apr  4	13,908	1,877	Apr  4: 1,877 projected cases<br>Projection upper CI: 13,908 cases<br>	FALSE	FALSE
+2020-04-04	Lockdown with moderate release	1868	13876	Apr  4	1,868	13,876	Apr  4: 1,868 projected cases<br>Projection upper CI: 13,876 cases<br>	TRUE	FALSE
+2020-04-04	Lockdown upper credible interval	13876	13908	Apr  4	13,876	13,908	Apr  4: 13,908 projected cases<br>Projection upper CI: 13,876 cases<br>	FALSE	TRUE
+2020-04-05	No intervention	2526	17913	Apr  5	2,526	17,913	Apr  5: 2,526 projected cases<br>Projection upper CI: 17,913 cases<br>	TRUE	FALSE
+2020-04-05	No intervention upper credible interval	17913	2526	Apr  5	17,913	2,526	Apr  5: 2,526 projected cases<br>Projection upper CI: 17,913 cases<br>	FALSE	FALSE
+2020-04-05	Social distancing	2086	15229	Apr  5	2,086	15,229	Apr  5: 2,086 projected cases<br>Projection upper CI: 15,229 cases<br>	TRUE	FALSE
+2020-04-05	Social distancing upper credible interval	15229	2086	Apr  5	15,229	2,086	Apr  5: 2,086 projected cases<br>Projection upper CI: 15,229 cases<br>	FALSE	FALSE
+2020-04-05	Lockdown with moderate release	2078	15289	Apr  5	2,078	15,289	Apr  5: 2,078 projected cases<br>Projection upper CI: 15,289 cases<br>	TRUE	FALSE
+2020-04-05	Lockdown upper credible interval	15289	15229	Apr  5	15,289	15,229	Apr  5: 15,229 projected cases<br>Projection upper CI: 15,289 cases<br>	FALSE	TRUE
+2020-04-06	No intervention	2994	21197	Apr  6	2,994	21,197	Apr  6: 2,994 projected cases<br>Projection upper CI: 21,197 cases<br>	TRUE	FALSE
+2020-04-06	No intervention upper credible interval	21197	2994	Apr  6	21,197	2,994	Apr  6: 2,994 projected cases<br>Projection upper CI: 21,197 cases<br>	FALSE	FALSE
+2020-04-06	Social distancing	2321	17131	Apr  6	2,321	17,131	Apr  6: 2,321 projected cases<br>Projection upper CI: 17,131 cases<br>	TRUE	FALSE
+2020-04-06	Social distancing upper credible interval	17131	2321	Apr  6	17,131	2,321	Apr  6: 2,321 projected cases<br>Projection upper CI: 17,131 cases<br>	FALSE	FALSE
+2020-04-06	Lockdown with moderate release	2315	17110	Apr  6	2,315	17,110	Apr  6: 2,315 projected cases<br>Projection upper CI: 17,110 cases<br>	TRUE	FALSE
+2020-04-06	Lockdown upper credible interval	17110	17131	Apr  6	17,110	17,131	Apr  6: 17,131 projected cases<br>Projection upper CI: 17,110 cases<br>	FALSE	TRUE
+2020-04-07	No intervention	3607	25155	Apr  7	3,607	25,155	Apr  7: 3,607 projected cases<br>Projection upper CI: 25,155 cases<br>	TRUE	FALSE
+2020-04-07	No intervention upper credible interval	25155	3607	Apr  7	25,155	3,607	Apr  7: 3,607 projected cases<br>Projection upper CI: 25,155 cases<br>	FALSE	FALSE
+2020-04-07	Social distancing	2592	19098	Apr  7	2,592	19,098	Apr  7: 2,592 projected cases<br>Projection upper CI: 19,098 cases<br>	TRUE	FALSE
+2020-04-07	Social distancing upper credible interval	19098	2592	Apr  7	19,098	2,592	Apr  7: 2,592 projected cases<br>Projection upper CI: 19,098 cases<br>	FALSE	FALSE
+2020-04-07	Lockdown with moderate release	2585	19002	Apr  7	2,585	19,002	Apr  7: 2,585 projected cases<br>Projection upper CI: 19,002 cases<br>	TRUE	FALSE
+2020-04-07	Lockdown upper credible interval	19002	19098	Apr  7	19,002	19,098	Apr  7: 19,098 projected cases<br>Projection upper CI: 19,002 cases<br>	FALSE	TRUE
+2020-04-08	No intervention	4438	30668	Apr  8	4,438	30,668	Apr  8: 4,438 projected cases<br>Projection upper CI: 30,668 cases<br>	TRUE	FALSE
+2020-04-08	No intervention upper credible interval	30668	4438	Apr  8	30,668	4,438	Apr  8: 4,438 projected cases<br>Projection upper CI: 30,668 cases<br>	FALSE	FALSE
+2020-04-08	Social distancing	2898	21285	Apr  8	2,898	21,285	Apr  8: 2,898 projected cases<br>Projection upper CI: 21,285 cases<br>	TRUE	FALSE
+2020-04-08	Social distancing upper credible interval	21285	2898	Apr  8	21,285	2,898	Apr  8: 2,898 projected cases<br>Projection upper CI: 21,285 cases<br>	FALSE	FALSE
+2020-04-08	Lockdown with moderate release	2889	21232	Apr  8	2,889	21,232	Apr  8: 2,889 projected cases<br>Projection upper CI: 21,232 cases<br>	TRUE	FALSE
+2020-04-08	Lockdown upper credible interval	21232	21285	Apr  8	21,232	21,285	Apr  8: 21,285 projected cases<br>Projection upper CI: 21,232 cases<br>	FALSE	TRUE
+2020-04-09	No intervention	5576	37941	Apr  9	5,576	37,941	Apr  9: 5,576 projected cases<br>Projection upper CI: 37,941 cases<br>	TRUE	FALSE
+2020-04-09	No intervention upper credible interval	37941	5576	Apr  9	37,941	5,576	Apr  9: 5,576 projected cases<br>Projection upper CI: 37,941 cases<br>	FALSE	FALSE
+2020-04-09	Social distancing	3258	23948	Apr  9	3,258	23,948	Apr  9: 3,258 projected cases<br>Projection upper CI: 23,948 cases<br>	TRUE	FALSE
+2020-04-09	Social distancing upper credible interval	23948	3258	Apr  9	23,948	3,258	Apr  9: 3,258 projected cases<br>Projection upper CI: 23,948 cases<br>	FALSE	FALSE
+2020-04-09	Lockdown with moderate release	3218	23757	Apr  9	3,218	23,757	Apr  9: 3,218 projected cases<br>Projection upper CI: 23,757 cases<br>	TRUE	FALSE
+2020-04-09	Lockdown upper credible interval	23757	23948	Apr  9	23,757	23,948	Apr  9: 23,948 projected cases<br>Projection upper CI: 23,757 cases<br>	FALSE	TRUE
+2020-04-10	No intervention	7179	47864	Apr 10	7,179	47,864	Apr 10: 7,179 projected cases<br>Projection upper CI: 47,864 cases<br>	TRUE	FALSE
+2020-04-10	No intervention upper credible interval	47864	7179	Apr 10	47,864	7,179	Apr 10: 7,179 projected cases<br>Projection upper CI: 47,864 cases<br>	FALSE	FALSE
+2020-04-10	Social distancing	3682	26873	Apr 10	3,682	26,873	Apr 10: 3,682 projected cases<br>Projection upper CI: 26,873 cases<br>	TRUE	FALSE
+2020-04-10	Social distancing upper credible interval	26873	3682	Apr 10	26,873	3,682	Apr 10: 3,682 projected cases<br>Projection upper CI: 26,873 cases<br>	FALSE	FALSE
+2020-04-10	Lockdown with moderate release	3570	26242	Apr 10	3,570	26,242	Apr 10: 3,570 projected cases<br>Projection upper CI: 26,242 cases<br>	TRUE	FALSE
+2020-04-10	Lockdown upper credible interval	26242	26873	Apr 10	26,242	26,873	Apr 10: 26,873 projected cases<br>Projection upper CI: 26,242 cases<br>	FALSE	TRUE
+2020-04-11	No intervention	9457	60661	Apr 11	9,457	60,661	Apr 11: 9,457 projected cases<br>Projection upper CI: 60,661 cases<br>	TRUE	FALSE
+2020-04-11	No intervention upper credible interval	60661	9457	Apr 11	60,661	9,457	Apr 11: 9,457 projected cases<br>Projection upper CI: 60,661 cases<br>	FALSE	FALSE
+2020-04-11	Social distancing	4190	30684	Apr 11	4,190	30,684	Apr 11: 4,190 projected cases<br>Projection upper CI: 30,684 cases<br>	TRUE	FALSE
+2020-04-11	Social distancing upper credible interval	30684	4190	Apr 11	30,684	4,190	Apr 11: 4,190 projected cases<br>Projection upper CI: 30,684 cases<br>	FALSE	FALSE
+2020-04-11	Lockdown with moderate release	3933	28743	Apr 11	3,933	28,743	Apr 11: 3,933 projected cases<br>Projection upper CI: 28,743 cases<br>	TRUE	FALSE
+2020-04-11	Lockdown upper credible interval	28743	30684	Apr 11	28,743	30,684	Apr 11: 30,684 projected cases<br>Projection upper CI: 28,743 cases<br>	FALSE	TRUE
+2020-04-12	No intervention	12694	78441	Apr 12	12,694	78,441	Apr 12: 12,694 projected cases<br>Projection upper CI: 78,441 cases<br>	TRUE	FALSE
+2020-04-12	No intervention upper credible interval	78441	12694	Apr 12	78,441	12,694	Apr 12: 12,694 projected cases<br>Projection upper CI: 78,441 cases<br>	FALSE	FALSE
+2020-04-12	Social distancing	4802	34758	Apr 12	4,802	34,758	Apr 12: 4,802 projected cases<br>Projection upper CI: 34,758 cases<br>	TRUE	FALSE
+2020-04-12	Social distancing upper credible interval	34758	4802	Apr 12	34,758	4,802	Apr 12: 4,802 projected cases<br>Projection upper CI: 34,758 cases<br>	FALSE	FALSE
+2020-04-12	Lockdown with moderate release	4300	31460	Apr 12	4,300	31,460	Apr 12: 4,300 projected cases<br>Projection upper CI: 31,460 cases<br>	TRUE	FALSE
+2020-04-12	Lockdown upper credible interval	31460	34758	Apr 12	31,460	34,758	Apr 12: 34,758 projected cases<br>Projection upper CI: 31,460 cases<br>	FALSE	TRUE
+2020-04-13	No intervention	17256	103033	Apr 13	17,256	103,033	Apr 13: 17,256 projected cases<br>Projection upper CI: 103,033 cases<br>	TRUE	FALSE
+2020-04-13	No intervention upper credible interval	103033	17256	Apr 13	103,033	17,256	Apr 13: 17,256 projected cases<br>Projection upper CI: 103,033 cases<br>	FALSE	FALSE
+2020-04-13	Social distancing	5553	39347	Apr 13	5,553	39,347	Apr 13: 5,553 projected cases<br>Projection upper CI: 39,347 cases<br>	TRUE	FALSE
+2020-04-13	Social distancing upper credible interval	39347	5553	Apr 13	39,347	5,553	Apr 13: 5,553 projected cases<br>Projection upper CI: 39,347 cases<br>	FALSE	FALSE
+2020-04-13	Lockdown with moderate release	4657	33814	Apr 13	4,657	33,814	Apr 13: 4,657 projected cases<br>Projection upper CI: 33,814 cases<br>	TRUE	FALSE
+2020-04-13	Lockdown upper credible interval	33814	39347	Apr 13	33,814	39,347	Apr 13: 39,347 projected cases<br>Projection upper CI: 33,814 cases<br>	FALSE	TRUE
+2020-04-14	No intervention	23543	134153	Apr 14	23,543	134,153	Apr 14: 23,543 projected cases<br>Projection upper CI: 134,153 cases<br>	TRUE	FALSE
+2020-04-14	No intervention upper credible interval	134153	23543	Apr 14	134,153	23,543	Apr 14: 23,543 projected cases<br>Projection upper CI: 134,153 cases<br>	FALSE	FALSE
+2020-04-14	Social distancing	6485	45022	Apr 14	6,485	45,022	Apr 14: 6,485 projected cases<br>Projection upper CI: 45,022 cases<br>	TRUE	FALSE
+2020-04-14	Social distancing upper credible interval	45022	6485	Apr 14	45,022	6,485	Apr 14: 6,485 projected cases<br>Projection upper CI: 45,022 cases<br>	FALSE	FALSE
+2020-04-14	Lockdown with moderate release	4999	36418	Apr 14	4,999	36,418	Apr 14: 4,999 projected cases<br>Projection upper CI: 36,418 cases<br>	TRUE	FALSE
+2020-04-14	Lockdown upper credible interval	36418	45022	Apr 14	36,418	45,022	Apr 14: 45,022 projected cases<br>Projection upper CI: 36,418 cases<br>	FALSE	TRUE
+2020-04-15	No intervention	32005	178683	Apr 15	32,005	178,683	Apr 15: 32,005 projected cases<br>Projection upper CI: 178,683 cases<br>	TRUE	FALSE
+2020-04-15	No intervention upper credible interval	178683	32005	Apr 15	178,683	32,005	Apr 15: 32,005 projected cases<br>Projection upper CI: 178,683 cases<br>	FALSE	FALSE
+2020-04-15	Social distancing	7638	52609	Apr 15	7,638	52,609	Apr 15: 7,638 projected cases<br>Projection upper CI: 52,609 cases<br>	TRUE	FALSE
+2020-04-15	Social distancing upper credible interval	52609	7638	Apr 15	52,609	7,638	Apr 15: 7,638 projected cases<br>Projection upper CI: 52,609 cases<br>	FALSE	FALSE
+2020-04-15	Lockdown with moderate release	5310	38612	Apr 15	5,310	38,612	Apr 15: 5,310 projected cases<br>Projection upper CI: 38,612 cases<br>	TRUE	FALSE
+2020-04-15	Lockdown upper credible interval	38612	52609	Apr 15	38,612	52,609	Apr 15: 52,609 projected cases<br>Projection upper CI: 38,612 cases<br>	FALSE	TRUE
+2020-04-16	No intervention	43093	235983	Apr 16	43,093	235,983	Apr 16: 43,093 projected cases<br>Projection upper CI: 235,983 cases<br>	TRUE	FALSE
+2020-04-16	No intervention upper credible interval	235983	43093	Apr 16	235,983	43,093	Apr 16: 43,093 projected cases<br>Projection upper CI: 235,983 cases<br>	FALSE	FALSE
+2020-04-16	Social distancing	9070	60536	Apr 16	9,070	60,536	Apr 16: 9,070 projected cases<br>Projection upper CI: 60,536 cases<br>	TRUE	FALSE
+2020-04-16	Social distancing upper credible interval	60536	9070	Apr 16	60,536	9,070	Apr 16: 9,070 projected cases<br>Projection upper CI: 60,536 cases<br>	FALSE	FALSE
+2020-04-16	Lockdown with moderate release	5632	40488	Apr 16	5,632	40,488	Apr 16: 5,632 projected cases<br>Projection upper CI: 40,488 cases<br>	TRUE	FALSE
+2020-04-16	Lockdown upper credible interval	40488	60536	Apr 16	40,488	60,536	Apr 16: 60,536 projected cases<br>Projection upper CI: 40,488 cases<br>	FALSE	TRUE
+2020-04-17	No intervention	57292	315014	Apr 17	57,292	315,014	Apr 17: 57,292 projected cases<br>Projection upper CI: 315,014 cases<br>	TRUE	FALSE
+2020-04-17	No intervention upper credible interval	315014	57292	Apr 17	315,014	57,292	Apr 17: 57,292 projected cases<br>Projection upper CI: 315,014 cases<br>	FALSE	FALSE
+2020-04-17	Social distancing	10855	70656	Apr 17	10,855	70,656	Apr 17: 10,855 projected cases<br>Projection upper CI: 70,656 cases<br>	TRUE	FALSE
+2020-04-17	Social distancing upper credible interval	70656	10855	Apr 17	70,656	10,855	Apr 17: 10,855 projected cases<br>Projection upper CI: 70,656 cases<br>	FALSE	FALSE
+2020-04-17	Lockdown with moderate release	5955	42628	Apr 17	5,955	42,628	Apr 17: 5,955 projected cases<br>Projection upper CI: 42,628 cases<br>	TRUE	FALSE
+2020-04-17	Lockdown upper credible interval	42628	70656	Apr 17	42,628	70,656	Apr 17: 70,656 projected cases<br>Projection upper CI: 42,628 cases<br>	FALSE	TRUE
+2020-04-18	No intervention	75066	420773	Apr 18	75,066	420,773	Apr 18: 75,066 projected cases<br>Projection upper CI: 420,773 cases<br>	TRUE	FALSE
+2020-04-18	No intervention upper credible interval	420773	75066	Apr 18	420,773	75,066	Apr 18: 75,066 projected cases<br>Projection upper CI: 420,773 cases<br>	FALSE	FALSE
+2020-04-18	Social distancing	13060	82275	Apr 18	13,060	82,275	Apr 18: 13,060 projected cases<br>Projection upper CI: 82,275 cases<br>	TRUE	FALSE
+2020-04-18	Social distancing upper credible interval	82275	13060	Apr 18	82,275	13,060	Apr 18: 13,060 projected cases<br>Projection upper CI: 82,275 cases<br>	FALSE	FALSE
+2020-04-18	Lockdown with moderate release	6294	45323	Apr 18	6,294	45,323	Apr 18: 6,294 projected cases<br>Projection upper CI: 45,323 cases<br>	TRUE	FALSE
+2020-04-18	Lockdown upper credible interval	45323	82275	Apr 18	45,323	82,275	Apr 18: 82,275 projected cases<br>Projection upper CI: 45,323 cases<br>	FALSE	TRUE
+2020-04-19	No intervention	96887	564219	Apr 19	96,887	564,219	Apr 19: 96,887 projected cases<br>Projection upper CI: 564,219 cases<br>	TRUE	FALSE
+2020-04-19	No intervention upper credible interval	564219	96887	Apr 19	564,219	96,887	Apr 19: 96,887 projected cases<br>Projection upper CI: 564,219 cases<br>	FALSE	FALSE
+2020-04-19	Social distancing	15782	96428	Apr 19	15,782	96,428	Apr 19: 15,782 projected cases<br>Projection upper CI: 96,428 cases<br>	TRUE	FALSE
+2020-04-19	Social distancing upper credible interval	96428	15782	Apr 19	96,428	15,782	Apr 19: 15,782 projected cases<br>Projection upper CI: 96,428 cases<br>	FALSE	FALSE
+2020-04-19	Lockdown with moderate release	6641	47471	Apr 19	6,641	47,471	Apr 19: 6,641 projected cases<br>Projection upper CI: 47,471 cases<br>	TRUE	FALSE
+2020-04-19	Lockdown upper credible interval	47471	96428	Apr 19	47,471	96,428	Apr 19: 96,428 projected cases<br>Projection upper CI: 47,471 cases<br>	FALSE	TRUE
+2020-04-20	No intervention	123137	752304	Apr 20	123,137	752,304	Apr 20: 123,137 projected cases<br>Projection upper CI: 752,304 cases<br>	TRUE	FALSE
+2020-04-20	No intervention upper credible interval	752304	123137	Apr 20	752,304	123,137	Apr 20: 123,137 projected cases<br>Projection upper CI: 752,304 cases<br>	FALSE	FALSE
+2020-04-20	Social distancing	19111	113091	Apr 20	19,111	113,091	Apr 20: 19,111 projected cases<br>Projection upper CI: 113,091 cases<br>	TRUE	FALSE
+2020-04-20	Social distancing upper credible interval	113091	19111	Apr 20	113,091	19,111	Apr 20: 19,111 projected cases<br>Projection upper CI: 113,091 cases<br>	FALSE	FALSE
+2020-04-20	Lockdown with moderate release	6999	49662	Apr 20	6,999	49,662	Apr 20: 6,999 projected cases<br>Projection upper CI: 49,662 cases<br>	TRUE	FALSE
+2020-04-20	Lockdown upper credible interval	49662	113091	Apr 20	49,662	113,091	Apr 20: 113,091 projected cases<br>Projection upper CI: 49,662 cases<br>	FALSE	TRUE
+2020-04-21	No intervention	154124	1004123	Apr 21	154,124	1,004,123	Apr 21: 154,124 projected cases<br>Projection upper CI: 1,004,123 cases<br>	TRUE	FALSE
+2020-04-21	No intervention upper credible interval	1004123	154124	Apr 21	1,004,123	154,124	Apr 21: 154,124 projected cases<br>Projection upper CI: 1,004,123 cases<br>	FALSE	FALSE
+2020-04-21	Social distancing	23155	133031	Apr 21	23,155	133,031	Apr 21: 23,155 projected cases<br>Projection upper CI: 133,031 cases<br>	TRUE	FALSE
+2020-04-21	Social distancing upper credible interval	133031	23155	Apr 21	133,031	23,155	Apr 21: 23,155 projected cases<br>Projection upper CI: 133,031 cases<br>	FALSE	FALSE
+2020-04-21	Lockdown with moderate release	7365	52106	Apr 21	7,365	52,106	Apr 21: 7,365 projected cases<br>Projection upper CI: 52,106 cases<br>	TRUE	FALSE
+2020-04-21	Lockdown upper credible interval	52106	133031	Apr 21	52,106	133,031	Apr 21: 133,031 projected cases<br>Projection upper CI: 52,106 cases<br>	FALSE	TRUE
+2020-04-22	No intervention	190046	1339243	Apr 22	190,046	1,339,243	Apr 22: 190,046 projected cases<br>Projection upper CI: 1,339,243 cases<br>	TRUE	FALSE
+2020-04-22	No intervention upper credible interval	1339243	190046	Apr 22	1,339,243	190,046	Apr 22: 190,046 projected cases<br>Projection upper CI: 1,339,243 cases<br>	FALSE	FALSE
+2020-04-22	Social distancing	28018	157041	Apr 22	28,018	157,041	Apr 22: 28,018 projected cases<br>Projection upper CI: 157,041 cases<br>	TRUE	FALSE
+2020-04-22	Social distancing upper credible interval	157041	28018	Apr 22	157,041	28,018	Apr 22: 28,018 projected cases<br>Projection upper CI: 157,041 cases<br>	FALSE	FALSE
+2020-04-22	Lockdown with moderate release	7748	55000	Apr 22	7,748	55,000	Apr 22: 7,748 projected cases<br>Projection upper CI: 55,000 cases<br>	TRUE	FALSE
+2020-04-22	Lockdown upper credible interval	55000	157041	Apr 22	55,000	157,041	Apr 22: 157,041 projected cases<br>Projection upper CI: 55,000 cases<br>	FALSE	TRUE
+2020-04-23	No intervention	231005	1765465	Apr 23	231,005	1,765,465	Apr 23: 231,005 projected cases<br>Projection upper CI: 1,765,465 cases<br>	TRUE	FALSE
+2020-04-23	No intervention upper credible interval	1765465	231005	Apr 23	1,765,465	231,005	Apr 23: 231,005 projected cases<br>Projection upper CI: 1,765,465 cases<br>	FALSE	FALSE
+2020-04-23	Social distancing	33805	185214	Apr 23	33,805	185,214	Apr 23: 33,805 projected cases<br>Projection upper CI: 185,214 cases<br>	TRUE	FALSE
+2020-04-23	Social distancing upper credible interval	185214	33805	Apr 23	185,214	33,805	Apr 23: 33,805 projected cases<br>Projection upper CI: 185,214 cases<br>	FALSE	FALSE
+2020-04-23	Lockdown with moderate release	8144	56605	Apr 23	8,144	56,605	Apr 23: 8,144 projected cases<br>Projection upper CI: 56,605 cases<br>	TRUE	FALSE
+2020-04-23	Lockdown upper credible interval	56605	185214	Apr 23	56,605	185,214	Apr 23: 185,214 projected cases<br>Projection upper CI: 56,605 cases<br>	FALSE	TRUE
+2020-04-24	No intervention	277005	2305763	Apr 24	277,005	2,305,763	Apr 24: 277,005 projected cases<br>Projection upper CI: 2,305,763 cases<br>	TRUE	FALSE
+2020-04-24	No intervention upper credible interval	2305763	277005	Apr 24	2,305,763	277,005	Apr 24: 277,005 projected cases<br>Projection upper CI: 2,305,763 cases<br>	FALSE	FALSE
+2020-04-24	Social distancing	40621	219991	Apr 24	40,621	219,991	Apr 24: 40,621 projected cases<br>Projection upper CI: 219,991 cases<br>	TRUE	FALSE
+2020-04-24	Social distancing upper credible interval	219991	40621	Apr 24	219,991	40,621	Apr 24: 40,621 projected cases<br>Projection upper CI: 219,991 cases<br>	FALSE	FALSE
+2020-04-24	Lockdown with moderate release	8553	59415	Apr 24	8,553	59,415	Apr 24: 8,553 projected cases<br>Projection upper CI: 59,415 cases<br>	TRUE	FALSE
+2020-04-24	Lockdown upper credible interval	59415	219991	Apr 24	59,415	219,991	Apr 24: 219,991 projected cases<br>Projection upper CI: 59,415 cases<br>	FALSE	TRUE
+2020-04-25	No intervention	327985	2985077	Apr 25	327,985	2,985,077	Apr 25: 327,985 projected cases<br>Projection upper CI: 2,985,077 cases<br>	TRUE	FALSE
+2020-04-25	No intervention upper credible interval	2985077	327985	Apr 25	2,985,077	327,985	Apr 25: 327,985 projected cases<br>Projection upper CI: 2,985,077 cases<br>	FALSE	FALSE
+2020-04-25	Social distancing	48532	260193	Apr 25	48,532	260,193	Apr 25: 48,532 projected cases<br>Projection upper CI: 260,193 cases<br>	TRUE	FALSE
+2020-04-25	Social distancing upper credible interval	260193	48532	Apr 25	260,193	48,532	Apr 25: 48,532 projected cases<br>Projection upper CI: 260,193 cases<br>	FALSE	FALSE
+2020-04-25	Lockdown with moderate release	8977	62215	Apr 25	8,977	62,215	Apr 25: 8,977 projected cases<br>Projection upper CI: 62,215 cases<br>	TRUE	FALSE
+2020-04-25	Lockdown upper credible interval	62215	260193	Apr 25	62,215	260,193	Apr 25: 260,193 projected cases<br>Projection upper CI: 62,215 cases<br>	FALSE	TRUE
+2020-04-26	No intervention	383831	3788962	Apr 26	383,831	3,788,962	Apr 26: 383,831 projected cases<br>Projection upper CI: 3,788,962 cases<br>	TRUE	FALSE
+2020-04-26	No intervention upper credible interval	3788962	383831	Apr 26	3,788,962	383,831	Apr 26: 383,831 projected cases<br>Projection upper CI: 3,788,962 cases<br>	FALSE	FALSE
+2020-04-26	Social distancing	57642	308579	Apr 26	57,642	308,579	Apr 26: 57,642 projected cases<br>Projection upper CI: 308,579 cases<br>	TRUE	FALSE
+2020-04-26	Social distancing upper credible interval	308579	57642	Apr 26	308,579	57,642	Apr 26: 57,642 projected cases<br>Projection upper CI: 308,579 cases<br>	FALSE	FALSE
+2020-04-26	Lockdown with moderate release	9425	64661	Apr 26	9,425	64,661	Apr 26: 9,425 projected cases<br>Projection upper CI: 64,661 cases<br>	TRUE	FALSE
+2020-04-26	Lockdown upper credible interval	64661	308579	Apr 26	64,661	308,579	Apr 26: 308,579 projected cases<br>Projection upper CI: 64,661 cases<br>	FALSE	TRUE
+2020-04-27	No intervention	444357	4732318	Apr 27	444,357	4,732,318	Apr 27: 444,357 projected cases<br>Projection upper CI: 4,732,318 cases<br>	TRUE	FALSE
+2020-04-27	No intervention upper credible interval	4732318	444357	Apr 27	4,732,318	444,357	Apr 27: 444,357 projected cases<br>Projection upper CI: 4,732,318 cases<br>	FALSE	FALSE
+2020-04-27	Social distancing	67985	365783	Apr 27	67,985	365,783	Apr 27: 67,985 projected cases<br>Projection upper CI: 365,783 cases<br>	TRUE	FALSE
+2020-04-27	Social distancing upper credible interval	365783	67985	Apr 27	365,783	67,985	Apr 27: 67,985 projected cases<br>Projection upper CI: 365,783 cases<br>	FALSE	FALSE
+2020-04-27	Lockdown with moderate release	9889	67383	Apr 27	9,889	67,383	Apr 27: 9,889 projected cases<br>Projection upper CI: 67,383 cases<br>	TRUE	FALSE
+2020-04-27	Lockdown upper credible interval	67383	365783	Apr 27	67,383	365,783	Apr 27: 365,783 projected cases<br>Projection upper CI: 67,383 cases<br>	FALSE	TRUE
+2020-04-28	No intervention	509433	5773103	Apr 28	509,433	5,773,103	Apr 28: 509,433 projected cases<br>Projection upper CI: 5,773,103 cases<br>	TRUE	FALSE
+2020-04-28	No intervention upper credible interval	5773103	509433	Apr 28	5,773,103	509,433	Apr 28: 509,433 projected cases<br>Projection upper CI: 5,773,103 cases<br>	FALSE	FALSE
+2020-04-28	Social distancing	79630	436189	Apr 28	79,630	436,189	Apr 28: 79,630 projected cases<br>Projection upper CI: 436,189 cases<br>	TRUE	FALSE
+2020-04-28	Social distancing upper credible interval	436189	79630	Apr 28	436,189	79,630	Apr 28: 79,630 projected cases<br>Projection upper CI: 436,189 cases<br>	FALSE	FALSE
+2020-04-28	Lockdown with moderate release	10373	69938	Apr 28	10,373	69,938	Apr 28: 10,373 projected cases<br>Projection upper CI: 69,938 cases<br>	TRUE	FALSE
+2020-04-28	Lockdown upper credible interval	69938	436189	Apr 28	69,938	436,189	Apr 28: 436,189 projected cases<br>Projection upper CI: 69,938 cases<br>	FALSE	TRUE
+2020-04-29	No intervention	578796	6893132	Apr 29	578,796	6,893,132	Apr 29: 578,796 projected cases<br>Projection upper CI: 6,893,132 cases<br>	TRUE	FALSE
+2020-04-29	No intervention upper credible interval	6893132	578796	Apr 29	6,893,132	578,796	Apr 29: 578,796 projected cases<br>Projection upper CI: 6,893,132 cases<br>	FALSE	FALSE
+2020-04-29	Social distancing	92593	519256	Apr 29	92,593	519,256	Apr 29: 92,593 projected cases<br>Projection upper CI: 519,256 cases<br>	TRUE	FALSE
+2020-04-29	Social distancing upper credible interval	519256	92593	Apr 29	519,256	92,593	Apr 29: 92,593 projected cases<br>Projection upper CI: 519,256 cases<br>	FALSE	FALSE
+2020-04-29	Lockdown with moderate release	10878	72885	Apr 29	10,878	72,885	Apr 29: 10,878 projected cases<br>Projection upper CI: 72,885 cases<br>	TRUE	FALSE
+2020-04-29	Lockdown upper credible interval	72885	519256	Apr 29	72,885	519,256	Apr 29: 519,256 projected cases<br>Projection upper CI: 72,885 cases<br>	FALSE	TRUE
+2020-04-30	No intervention	652185	8104558	Apr 30	652,185	8,104,558	Apr 30: 652,185 projected cases<br>Projection upper CI: 8,104,558 cases<br>	TRUE	FALSE
+2020-04-30	No intervention upper credible interval	8104558	652185	Apr 30	8,104,558	652,185	Apr 30: 652,185 projected cases<br>Projection upper CI: 8,104,558 cases<br>	FALSE	FALSE
+2020-04-30	Social distancing	106920	613994	Apr 30	106,920	613,994	Apr 30: 106,920 projected cases<br>Projection upper CI: 613,994 cases<br>	TRUE	FALSE
+2020-04-30	Social distancing upper credible interval	613994	106920	Apr 30	613,994	106,920	Apr 30: 106,920 projected cases<br>Projection upper CI: 613,994 cases<br>	FALSE	FALSE
+2020-04-30	Lockdown with moderate release	11428	75613	Apr 30	11,428	75,613	Apr 30: 11,428 projected cases<br>Projection upper CI: 75,613 cases<br>	TRUE	FALSE
+2020-04-30	Lockdown upper credible interval	75613	613994	Apr 30	75,613	613,994	Apr 30: 613,994 projected cases<br>Projection upper CI: 75,613 cases<br>	FALSE	TRUE
