@@ -1,0 +1,116 @@
+Dates,variable,value,upper_ci,color,type,date.fmt,val.fmt,ci.fmt,j,text
+2020-03-01,True,3,NA,Observed,solid,Mar  1,3,"NA",FALSE,Mar  1: 3 observed cases
+2020-03-02,True,5,NA,Observed,solid,Mar  2,5,"NA",FALSE,Mar  2: 5 observed cases
+2020-03-03,True,5,NA,Observed,solid,Mar  3,5,"NA",FALSE,Mar  3: 5 observed cases
+2020-03-04,True,28,NA,Observed,solid,Mar  4,28,"NA",FALSE,Mar  4: 28 observed cases
+2020-03-05,True,30,NA,Observed,solid,Mar  5,30,"NA",FALSE,Mar  5: 30 observed cases
+2020-03-06,True,31,NA,Observed,solid,Mar  6,31,"NA",FALSE,Mar  6: 31 observed cases
+2020-03-07,True,34,NA,Observed,solid,Mar  7,34,"NA",FALSE,Mar  7: 34 observed cases
+2020-03-08,True,39,NA,Observed,solid,Mar  8,39,"NA",FALSE,Mar  8: 39 observed cases
+2020-03-09,True,43,NA,Observed,solid,Mar  9,43,"NA",FALSE,Mar  9: 43 observed cases
+2020-03-10,True,56,NA,Observed,solid,Mar 10,56,"NA",FALSE,Mar 10: 56 observed cases
+2020-03-11,True,62,NA,Observed,solid,Mar 11,62,"NA",FALSE,Mar 11: 62 observed cases
+2020-03-12,True,73,NA,Observed,solid,Mar 12,73,"NA",FALSE,Mar 12: 73 observed cases
+2020-03-13,True,82,NA,Observed,solid,Mar 13,82,"NA",FALSE,Mar 13: 82 observed cases
+2020-03-14,True,102,NA,Observed,solid,Mar 14,102,"NA",FALSE,Mar 14: 102 observed cases
+2020-03-15,True,113,NA,Observed,solid,Mar 15,113,"NA",FALSE,Mar 15: 113 observed cases
+2020-03-16,True,119,NA,Observed,solid,Mar 16,119,"NA",FALSE,Mar 16: 119 observed cases
+2020-03-17,True,142,NA,Observed,solid,Mar 17,142,"NA",FALSE,Mar 17: 142 observed cases
+2020-03-18,True,156,NA,Observed,solid,Mar 18,156,"NA",FALSE,Mar 18: 156 observed cases
+2020-03-19,True,194,NA,Observed,solid,Mar 19,194,"NA",FALSE,Mar 19: 194 observed cases
+2020-03-20,True,244,NA,Observed,solid,Mar 20,244,"NA",FALSE,Mar 20: 244 observed cases
+2020-03-21,True,330,NA,Observed,solid,Mar 21,330,"NA",FALSE,Mar 21: 330 observed cases
+2020-03-22,True,396,NA,Observed,solid,Mar 22,396,"NA",FALSE,Mar 22: 396 observed cases
+2020-03-23,True,499,NA,Observed,solid,Mar 23,499,"NA",FALSE,Mar 23: 499 observed cases
+2020-03-24,True,536,NA,Observed,solid,Mar 24,536,"NA",FALSE,Mar 24: 536 observed cases
+2020-03-25,True,657,NA,Observed,solid,Mar 25,657,"NA",FALSE,Mar 25: 657 observed cases
+2020-03-26,True,727,NA,Observed,solid,Mar 26,727,"NA",FALSE,Mar 26: 727 observed cases
+2020-03-27,True,887,NA,Observed,solid,Mar 27,887,"NA",FALSE,Mar 27: 887 observed cases
+2020-03-28,True,987,NA,Observed,solid,Mar 28,987,"NA",FALSE,Mar 28: 987 observed cases
+2020-03-29,True,1024,NA,Observed,solid,Mar 29,"1,024","NA",FALSE,"Mar 29: 1,024 observed cases"
+2020-03-30,True,1251,NA,Observed,solid,Mar 30,"1,251","NA",FALSE,"Mar 30: 1,251 observed cases"
+2020-03-31,True,1397,NA,Observed,solid,Mar 31,"1,397","NA",FALSE,"Mar 31: 1,397 observed cases"
+2020-04-01,True,1998,NA,Observed,solid,Apr  1,"1,998","NA",FALSE,"Apr  1: 1,998 observed cases"
+2020-04-02,True,2543,NA,Observed,solid,Apr  2,"2,543","NA",FALSE,"Apr  2: 2,543 observed cases"
+2020-04-03,True,2567,NA,Observed,solid,Apr  3,"2,567","NA",FALSE,"Apr  3: 2,567 observed cases"
+2020-04-04,mod_2,2764,19908,Social distancing,solid,Apr  4,"2,764","19,908",FALSE,"Apr  4: 2,764 projected cases<br>Projection upper CI: 19,908 cases<br>"
+2020-04-04,mod_3,2816,20439,No intervention,solid,Apr  4,"2,816","20,439",FALSE,"Apr  4: 2,816 projected cases<br>Projection upper CI: 20,439 cases<br>"
+2020-04-04,mod_4,2759,20121,Lockdown with moderate return,solid,Apr  4,"2,759","20,121",TRUE,"Apr  4: 2,759 projected cases<br>Projection upper CI: 20,121 cases<br>"
+2020-04-05,mod_2,3072,21894,Social distancing,solid,Apr  5,"3,072","21,894",FALSE,"Apr  5: 3,072 projected cases<br>Projection upper CI: 21,894 cases<br>"
+2020-04-05,mod_3,3185,22527,No intervention,solid,Apr  5,"3,185","22,527",FALSE,"Apr  5: 3,185 projected cases<br>Projection upper CI: 22,527 cases<br>"
+2020-04-05,mod_4,3074,21836,Lockdown with moderate return,solid,Apr  5,"3,074","21,836",TRUE,"Apr  5: 3,074 projected cases<br>Projection upper CI: 21,836 cases<br>"
+2020-04-06,mod_2,3410,23816,Social distancing,solid,Apr  6,"3,410","23,816",FALSE,"Apr  6: 3,410 projected cases<br>Projection upper CI: 23,816 cases<br>"
+2020-04-06,mod_3,3604,24813,No intervention,solid,Apr  6,"3,604","24,813",FALSE,"Apr  6: 3,604 projected cases<br>Projection upper CI: 24,813 cases<br>"
+2020-04-06,mod_4,3410,23806,Lockdown with moderate return,solid,Apr  6,"3,410","23,806",TRUE,"Apr  6: 3,410 projected cases<br>Projection upper CI: 23,806 cases<br>"
+2020-04-07,mod_2,3783,26261,Social distancing,solid,Apr  7,"3,783","26,261",FALSE,"Apr  7: 3,783 projected cases<br>Projection upper CI: 26,261 cases<br>"
+2020-04-07,mod_3,4087,27723,No intervention,solid,Apr  7,"4,087","27,723",FALSE,"Apr  7: 4,087 projected cases<br>Projection upper CI: 27,723 cases<br>"
+2020-04-07,mod_4,3781,26215,Lockdown with moderate return,solid,Apr  7,"3,781","26,215",TRUE,"Apr  7: 3,781 projected cases<br>Projection upper CI: 26,215 cases<br>"
+2020-04-08,mod_2,4184,28716,Social distancing,solid,Apr  8,"4,184","28,716",FALSE,"Apr  8: 4,184 projected cases<br>Projection upper CI: 28,716 cases<br>"
+2020-04-08,mod_3,4651,31001,No intervention,solid,Apr  8,"4,651","31,001",FALSE,"Apr  8: 4,651 projected cases<br>Projection upper CI: 31,001 cases<br>"
+2020-04-08,mod_4,4182,28837,Lockdown with moderate return,solid,Apr  8,"4,182","28,837",TRUE,"Apr  8: 4,182 projected cases<br>Projection upper CI: 28,837 cases<br>"
+2020-04-09,mod_2,4628,31423,Social distancing,solid,Apr  9,"4,628","31,423",FALSE,"Apr  9: 4,628 projected cases<br>Projection upper CI: 31,423 cases<br>"
+2020-04-09,mod_3,5319,34988,No intervention,solid,Apr  9,"5,319","34,988",FALSE,"Apr  9: 5,319 projected cases<br>Projection upper CI: 34,988 cases<br>"
+2020-04-09,mod_4,4595,31704,Lockdown with moderate return,solid,Apr  9,"4,595","31,704",TRUE,"Apr  9: 4,595 projected cases<br>Projection upper CI: 31,704 cases<br>"
+2020-04-10,mod_2,5139,34819,Social distancing,solid,Apr 10,"5,139","34,819",FALSE,"Apr 10: 5,139 projected cases<br>Projection upper CI: 34,819 cases<br>"
+2020-04-10,mod_3,6118,40051,No intervention,solid,Apr 10,"6,118","40,051",FALSE,"Apr 10: 6,118 projected cases<br>Projection upper CI: 40,051 cases<br>"
+2020-04-10,mod_4,5018,34368,Lockdown with moderate return,solid,Apr 10,"5,018","34,368",TRUE,"Apr 10: 5,018 projected cases<br>Projection upper CI: 34,368 cases<br>"
+2020-04-11,mod_2,5720,38900,Social distancing,solid,Apr 11,"5,720","38,900",FALSE,"Apr 11: 5,720 projected cases<br>Projection upper CI: 38,900 cases<br>"
+2020-04-11,mod_3,7084,46576,No intervention,solid,Apr 11,"7,084","46,576",FALSE,"Apr 11: 7,084 projected cases<br>Projection upper CI: 46,576 cases<br>"
+2020-04-11,mod_4,5433,37349,Lockdown with moderate return,solid,Apr 11,"5,433","37,349",TRUE,"Apr 11: 5,433 projected cases<br>Projection upper CI: 37,349 cases<br>"
+2020-04-12,mod_2,6387,43756,Social distancing,solid,Apr 12,"6,387","43,756",FALSE,"Apr 12: 6,387 projected cases<br>Projection upper CI: 43,756 cases<br>"
+2020-04-12,mod_3,8257,54194,No intervention,solid,Apr 12,"8,257","54,194",FALSE,"Apr 12: 8,257 projected cases<br>Projection upper CI: 54,194 cases<br>"
+2020-04-12,mod_4,5839,40075,Lockdown with moderate return,solid,Apr 12,"5,839","40,075",TRUE,"Apr 12: 5,839 projected cases<br>Projection upper CI: 40,075 cases<br>"
+2020-04-13,mod_2,7165,48721,Social distancing,solid,Apr 13,"7,165","48,721",FALSE,"Apr 13: 7,165 projected cases<br>Projection upper CI: 48,721 cases<br>"
+2020-04-13,mod_3,9721,63992,No intervention,solid,Apr 13,"9,721","63,992",FALSE,"Apr 13: 9,721 projected cases<br>Projection upper CI: 63,992 cases<br>"
+2020-04-13,mod_4,6224,43118,Lockdown with moderate return,solid,Apr 13,"6,224","43,118",TRUE,"Apr 13: 6,224 projected cases<br>Projection upper CI: 43,118 cases<br>"
+2020-04-14,mod_2,8088,55393,Social distancing,solid,Apr 14,"8,088","55,393",FALSE,"Apr 14: 8,088 projected cases<br>Projection upper CI: 55,393 cases<br>"
+2020-04-14,mod_3,11560,75649,No intervention,solid,Apr 14,"11,560","75,649",FALSE,"Apr 14: 11,560 projected cases<br>Projection upper CI: 75,649 cases<br>"
+2020-04-14,mod_4,6574,45389,Lockdown with moderate return,solid,Apr 14,"6,574","45,389",TRUE,"Apr 14: 6,574 projected cases<br>Projection upper CI: 45,389 cases<br>"
+2020-04-15,mod_2,9191,62354,Social distancing,solid,Apr 15,"9,191","62,354",FALSE,"Apr 15: 9,191 projected cases<br>Projection upper CI: 62,354 cases<br>"
+2020-04-15,mod_3,13915,91011,No intervention,solid,Apr 15,"13,915","91,011",FALSE,"Apr 15: 13,915 projected cases<br>Projection upper CI: 91,011 cases<br>"
+2020-04-15,mod_4,6890,48256,Lockdown with moderate return,solid,Apr 15,"6,890","48,256",TRUE,"Apr 15: 6,890 projected cases<br>Projection upper CI: 48,256 cases<br>"
+2020-04-16,mod_2,10529,71853,Social distancing,solid,Apr 16,"10,529","71,853",FALSE,"Apr 16: 10,529 projected cases<br>Projection upper CI: 71,853 cases<br>"
+2020-04-16,mod_3,16949,111728,No intervention,solid,Apr 16,"16,949","111,728",FALSE,"Apr 16: 16,949 projected cases<br>Projection upper CI: 111,728 cases<br>"
+2020-04-16,mod_4,7192,50529,Lockdown with moderate return,solid,Apr 16,"7,192","50,529",TRUE,"Apr 16: 7,192 projected cases<br>Projection upper CI: 50,529 cases<br>"
+2020-04-17,mod_2,12170,82088,Social distancing,solid,Apr 17,"12,170","82,088",FALSE,"Apr 17: 12,170 projected cases<br>Projection upper CI: 82,088 cases<br>"
+2020-04-17,mod_3,20893,135861,No intervention,solid,Apr 17,"20,893","135,861",FALSE,"Apr 17: 20,893 projected cases<br>Projection upper CI: 135,861 cases<br>"
+2020-04-17,mod_4,7492,52760,Lockdown with moderate return,solid,Apr 17,"7,492","52,760",TRUE,"Apr 17: 7,492 projected cases<br>Projection upper CI: 52,760 cases<br>"
+2020-04-18,mod_2,14199,94845,Social distancing,solid,Apr 18,"14,199","94,845",FALSE,"Apr 18: 14,199 projected cases<br>Projection upper CI: 94,845 cases<br>"
+2020-04-18,mod_3,26070,169111,No intervention,solid,Apr 18,"26,070","169,111",FALSE,"Apr 18: 26,070 projected cases<br>Projection upper CI: 169,111 cases<br>"
+2020-04-18,mod_4,7797,54949,Lockdown with moderate return,solid,Apr 18,"7,797","54,949",TRUE,"Apr 18: 7,797 projected cases<br>Projection upper CI: 54,949 cases<br>"
+2020-04-19,mod_2,16730,110092,Social distancing,solid,Apr 19,"16,730","110,092",FALSE,"Apr 19: 16,730 projected cases<br>Projection upper CI: 110,092 cases<br>"
+2020-04-19,mod_3,32853,211557,No intervention,solid,Apr 19,"32,853","211,557",FALSE,"Apr 19: 32,853 projected cases<br>Projection upper CI: 211,557 cases<br>"
+2020-04-19,mod_4,8100,57243,Lockdown with moderate return,solid,Apr 19,"8,100","57,243",TRUE,"Apr 19: 8,100 projected cases<br>Projection upper CI: 57,243 cases<br>"
+2020-04-20,mod_2,19878,128346,Social distancing,solid,Apr 20,"19,878","128,346",FALSE,"Apr 20: 19,878 projected cases<br>Projection upper CI: 128,346 cases<br>"
+2020-04-20,mod_3,41677,266455,No intervention,solid,Apr 20,"41,677","266,455",FALSE,"Apr 20: 41,677 projected cases<br>Projection upper CI: 266,455 cases<br>"
+2020-04-20,mod_4,8416,59718,Lockdown with moderate return,solid,Apr 20,"8,416","59,718",TRUE,"Apr 20: 8,416 projected cases<br>Projection upper CI: 59,718 cases<br>"
+2020-04-21,mod_2,23779,149965,Social distancing,solid,Apr 21,"23,779","149,965",FALSE,"Apr 21: 23,779 projected cases<br>Projection upper CI: 149,965 cases<br>"
+2020-04-21,mod_3,53068,333817,No intervention,solid,Apr 21,"53,068","333,817",FALSE,"Apr 21: 53,068 projected cases<br>Projection upper CI: 333,817 cases<br>"
+2020-04-21,mod_4,8724,62261,Lockdown with moderate return,solid,Apr 21,"8,724","62,261",TRUE,"Apr 21: 8,724 projected cases<br>Projection upper CI: 62,261 cases<br>"
+2020-04-22,mod_2,28637,176768,Social distancing,solid,Apr 22,"28,637","176,768",FALSE,"Apr 22: 28,637 projected cases<br>Projection upper CI: 176,768 cases<br>"
+2020-04-22,mod_3,67586,424337,No intervention,solid,Apr 22,"67,586","424,337",FALSE,"Apr 22: 67,586 projected cases<br>Projection upper CI: 424,337 cases<br>"
+2020-04-22,mod_4,9040,64054,Lockdown with moderate return,solid,Apr 22,"9,040","64,054",TRUE,"Apr 22: 9,040 projected cases<br>Projection upper CI: 64,054 cases<br>"
+2020-04-23,mod_2,34608,209129,Social distancing,solid,Apr 23,"34,608","209,129",FALSE,"Apr 23: 34,608 projected cases<br>Projection upper CI: 209,129 cases<br>"
+2020-04-23,mod_3,85826,536695,No intervention,solid,Apr 23,"85,826","536,695",FALSE,"Apr 23: 85,826 projected cases<br>Projection upper CI: 536,695 cases<br>"
+2020-04-23,mod_4,9354,67239,Lockdown with moderate return,solid,Apr 23,"9,354","67,239",TRUE,"Apr 23: 9,354 projected cases<br>Projection upper CI: 67,239 cases<br>"
+2020-04-24,mod_2,41932,249104,Social distancing,solid,Apr 24,"41,932","249,104",FALSE,"Apr 24: 41,932 projected cases<br>Projection upper CI: 249,104 cases<br>"
+2020-04-24,mod_3,108363,686924,No intervention,solid,Apr 24,"108,363","686,924",FALSE,"Apr 24: 108,363 projected cases<br>Projection upper CI: 686,924 cases<br>"
+2020-04-24,mod_4,9680,69766,Lockdown with moderate return,solid,Apr 24,"9,680","69,766",TRUE,"Apr 24: 9,680 projected cases<br>Projection upper CI: 69,766 cases<br>"
+2020-04-25,mod_2,50877,296192,Social distancing,solid,Apr 25,"50,877","296,192",FALSE,"Apr 25: 50,877 projected cases<br>Projection upper CI: 296,192 cases<br>"
+2020-04-25,mod_3,135757,868994,No intervention,solid,Apr 25,"135,757","868,994",FALSE,"Apr 25: 135,757 projected cases<br>Projection upper CI: 868,994 cases<br>"
+2020-04-25,mod_4,10004,71797,Lockdown with moderate return,solid,Apr 25,"10,004","71,797",TRUE,"Apr 25: 10,004 projected cases<br>Projection upper CI: 71,797 cases<br>"
+2020-04-26,mod_2,61655,353869,Social distancing,solid,Apr 26,"61,655","353,869",FALSE,"Apr 26: 61,655 projected cases<br>Projection upper CI: 353,869 cases<br>"
+2020-04-26,mod_3,168595,1109983,No intervention,solid,Apr 26,"168,595","1,109,983",FALSE,"Apr 26: 168,595 projected cases<br>Projection upper CI: 1,109,983 cases<br>"
+2020-04-26,mod_4,10344,74216,Lockdown with moderate return,solid,Apr 26,"10,344","74,216",TRUE,"Apr 26: 10,344 projected cases<br>Projection upper CI: 74,216 cases<br>"
+2020-04-27,mod_2,74528,420706,Social distancing,solid,Apr 27,"74,528","420,706",FALSE,"Apr 27: 74,528 projected cases<br>Projection upper CI: 420,706 cases<br>"
+2020-04-27,mod_3,207265,1413647,No intervention,solid,Apr 27,"207,265","1,413,647",FALSE,"Apr 27: 207,265 projected cases<br>Projection upper CI: 1,413,647 cases<br>"
+2020-04-27,mod_4,10690,76731,Lockdown with moderate return,solid,Apr 27,"10,690","76,731",TRUE,"Apr 27: 10,690 projected cases<br>Projection upper CI: 76,731 cases<br>"
+2020-04-28,mod_2,89759,502285,Social distancing,solid,Apr 28,"89,759","502,285",FALSE,"Apr 28: 89,759 projected cases<br>Projection upper CI: 502,285 cases<br>"
+2020-04-28,mod_3,252314,1803659,No intervention,solid,Apr 28,"252,314","1,803,659",FALSE,"Apr 28: 252,314 projected cases<br>Projection upper CI: 1,803,659 cases<br>"
+2020-04-28,mod_4,11044,79311,Lockdown with moderate return,solid,Apr 28,"11,044","79,311",TRUE,"Apr 28: 11,044 projected cases<br>Projection upper CI: 79,311 cases<br>"
+2020-04-29,mod_2,107549,608578,Social distancing,solid,Apr 29,"107,549","608,578",FALSE,"Apr 29: 107,549 projected cases<br>Projection upper CI: 608,578 cases<br>"
+2020-04-29,mod_3,303989,2283050,No intervention,solid,Apr 29,"303,989","2,283,050",FALSE,"Apr 29: 303,989 projected cases<br>Projection upper CI: 2,283,050 cases<br>"
+2020-04-29,mod_4,11413,82223,Lockdown with moderate return,solid,Apr 29,"11,413","82,223",TRUE,"Apr 29: 11,413 projected cases<br>Projection upper CI: 82,223 cases<br>"
+2020-04-30,mod_2,128107,727601,Social distancing,solid,Apr 30,"128,107","727,601",FALSE,"Apr 30: 128,107 projected cases<br>Projection upper CI: 727,601 cases<br>"
+2020-04-30,mod_3,362595,2876230,No intervention,solid,Apr 30,"362,595","2,876,230",FALSE,"Apr 30: 362,595 projected cases<br>Projection upper CI: 2,876,230 cases<br>"
+2020-04-30,mod_4,11811,84964,Lockdown with moderate return,solid,Apr 30,"11,811","84,964",TRUE,"Apr 30: 11,811 projected cases<br>Projection upper CI: 84,964 cases<br>"
