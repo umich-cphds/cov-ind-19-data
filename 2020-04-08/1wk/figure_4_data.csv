@@ -37,495 +37,493 @@ Dates,variable,value,upper_ci,color,type
 2020-04-05,True,3588,NA,Observed,solid
 2020-04-06,True,4778,NA,Observed,solid
 2020-04-07,True,5311,NA,Observed,solid
-2020-04-08,mod_2,5151,36206,Social distancing,solid
-2020-04-08,mod_3,5454,36395,No intervention,solid
-2020-04-08,mod_4,4871,34565,Lockdown with moderate release,solid
-2020-04-09,mod_2,5590,38849,Social distancing,solid
-2020-04-09,mod_3,6163,40317,No intervention,solid
-2020-04-09,mod_4,5085,36543,Lockdown with moderate release,solid
-2020-04-10,mod_2,6054,41554,Social distancing,solid
-2020-04-10,mod_3,6989,44396,No intervention,solid
-2020-04-10,mod_4,5304,38036,Lockdown with moderate release,solid
-2020-04-11,mod_2,6557,44890,Social distancing,solid
-2020-04-11,mod_3,7942,49589,No intervention,solid
-2020-04-11,mod_4,5507,39168,Lockdown with moderate release,solid
-2020-04-12,mod_2,7093,47467,Social distancing,solid
-2020-04-12,mod_3,9065,55923,No intervention,solid
-2020-04-12,mod_4,5704,41071,Lockdown with moderate release,solid
-2020-04-13,mod_2,7664,51340,Social distancing,solid
-2020-04-13,mod_3,10385,62963,No intervention,solid
-2020-04-13,mod_4,5898,42856,Lockdown with moderate release,solid
-2020-04-14,mod_2,8286,55058,Social distancing,solid
-2020-04-14,mod_3,11965,73439,No intervention,solid
-2020-04-14,mod_4,6088,43897,Lockdown with moderate release,solid
-2020-04-15,mod_2,8972,59587,Social distancing,solid
-2020-04-15,mod_3,13889,84897,No intervention,solid
-2020-04-15,mod_4,6276,45400,Lockdown with moderate release,solid
-2020-04-16,mod_2,9720,64612,Social distancing,solid
-2020-04-16,mod_3,16267,100506,No intervention,solid
-2020-04-16,mod_4,6452,47023,Lockdown with moderate release,solid
-2020-04-17,mod_2,10552,69996,Social distancing,solid
-2020-04-17,mod_3,19251,119378,No intervention,solid
-2020-04-17,mod_4,6635,48874,Lockdown with moderate release,solid
-2020-04-18,mod_2,11480,76927,Social distancing,solid
-2020-04-18,mod_3,23039,143459,No intervention,solid
-2020-04-18,mod_4,6815,49738,Lockdown with moderate release,solid
-2020-04-19,mod_2,12514,83493,Social distancing,solid
-2020-04-19,mod_3,27956,173146,No intervention,solid
-2020-04-19,mod_4,6986,51382,Lockdown with moderate release,solid
-2020-04-20,mod_2,13697,91920,Social distancing,solid
-2020-04-20,mod_3,34423,212957,No intervention,solid
-2020-04-20,mod_4,7157,52962,Lockdown with moderate release,solid
-2020-04-21,mod_2,15051,100353,Social distancing,solid
-2020-04-21,mod_3,42914,263469,No intervention,solid
-2020-04-21,mod_4,7329,54456,Lockdown with moderate release,solid
-2020-04-22,mod_2,16611,111384,Social distancing,solid
-2020-04-22,mod_3,54164,328097,No intervention,solid
-2020-04-22,mod_4,7493,56279,Lockdown with moderate release,solid
-2020-04-23,mod_2,18440,122846,Social distancing,solid
-2020-04-23,mod_3,68947,415389,No intervention,solid
-2020-04-23,mod_4,7660,57591,Lockdown with moderate release,solid
-2020-04-24,mod_2,20591,136671,Social distancing,solid
-2020-04-24,mod_3,88190,526208,No intervention,solid
-2020-04-24,mod_4,7850,59591,Lockdown with moderate release,solid
-2020-04-25,mod_2,23141,151460,Social distancing,solid
-2020-04-25,mod_3,112938,668467,No intervention,solid
-2020-04-25,mod_4,8048,61067,Lockdown with moderate release,solid
-2020-04-26,mod_2,26216,168728,Social distancing,solid
-2020-04-26,mod_3,144297,848327,No intervention,solid
-2020-04-26,mod_4,8244,62922,Lockdown with moderate release,solid
-2020-04-27,mod_2,29915,188405,Social distancing,solid
-2020-04-27,mod_3,183347,1083879,No intervention,solid
-2020-04-27,mod_4,8451,65118,Lockdown with moderate release,solid
-2020-04-28,mod_2,34351,210326,Social distancing,solid
-2020-04-28,mod_3,231243,1393923,No intervention,solid
-2020-04-28,mod_4,8677,67740,Lockdown with moderate release,solid
-2020-04-29,mod_2,39673,237695,Social distancing,solid
-2020-04-29,mod_3,289064,1779184,No intervention,solid
-2020-04-29,mod_4,8914,70210,Lockdown with moderate release,solid
-2020-04-30,mod_2,46023,266551,Social distancing,solid
-2020-04-30,mod_3,357849,2299442,No intervention,solid
-2020-04-30,mod_4,9181,72245,Lockdown with moderate release,solid
-2020-05-01,mod_2,53624,300890,Social distancing,solid
-2020-05-01,mod_3,438581,2945468,No intervention,solid
-2020-05-01,mod_4,9472,74570,Lockdown with moderate release,solid
-2020-05-02,mod_2,62594,342953,Social distancing,solid
-2020-05-02,mod_3,532237,3767288,No intervention,solid
-2020-05-02,mod_4,9799,78091,Lockdown with moderate release,solid
-2020-05-03,mod_2,73093,389178,Social distancing,solid
-2020-05-03,mod_3,639441,4795667,No intervention,solid
-2020-05-03,mod_4,10163,81490,Lockdown with moderate release,solid
-2020-05-04,mod_2,85270,440719,Social distancing,solid
-2020-05-04,mod_3,760706,6062818,No intervention,solid
-2020-05-04,mod_4,10568,85010,Lockdown with moderate release,solid
-2020-05-05,mod_2,99259,502387,Social distancing,solid
-2020-05-05,mod_3,896476,7638441,No intervention,solid
-2020-05-05,mod_4,11030,88716,Lockdown with moderate release,solid
-2020-05-06,mod_2,115127,571868,Social distancing,solid
-2020-05-06,mod_3,1046951,9554906,No intervention,solid
-2020-05-06,mod_4,11573,92834,Lockdown with moderate release,solid
-2020-05-07,mod_2,133032,649909,Social distancing,solid
-2020-05-07,mod_3,1212240,11741371,No intervention,solid
-2020-05-07,mod_4,12215,98151,Lockdown with moderate release,solid
-2020-05-08,mod_2,153055,740893,Social distancing,solid
-2020-05-08,mod_3,1392197,14344327,No intervention,solid
-2020-05-08,mod_4,12972,103731,Lockdown with moderate release,solid
-2020-05-09,mod_2,175301,850964,Social distancing,solid
-2020-05-09,mod_3,1586522,17177618,No intervention,solid
-2020-05-09,mod_4,13890,109663,Lockdown with moderate release,solid
-2020-05-10,mod_2,199817,973921,Social distancing,solid
-2020-05-10,mod_3,1794850,20181654,No intervention,solid
-2020-05-10,mod_4,15009,117044,Lockdown with moderate release,solid
-2020-05-11,mod_2,226767,1120408,Social distancing,solid
-2020-05-11,mod_3,2016667,23534050,No intervention,solid
-2020-05-11,mod_4,16385,123966,Lockdown with moderate release,solid
-2020-05-12,mod_2,256160,1279759,Social distancing,solid
-2020-05-12,mod_3,2251367,27144962,No intervention,solid
-2020-05-12,mod_4,18098,133801,Lockdown with moderate release,solid
-2020-05-13,mod_2,288036,1457450,Social distancing,solid
-2020-05-13,mod_3,2498311,30952393,No intervention,solid
-2020-05-13,mod_4,20243,143490,Lockdown with moderate release,solid
-2020-05-14,mod_2,322550,1682384,Social distancing,solid
-2020-05-14,mod_3,2756632,34834188,No intervention,solid
-2020-05-14,mod_4,22875,154366,Lockdown with moderate release,solid
-2020-05-15,mod_2,359665,1933769,Social distancing,solid
-2020-05-15,mod_3,3025624,38913740,No intervention,solid
-2020-05-15,mod_4,26091,168250,Lockdown with moderate release,solid
-2020-05-16,mod_2,399451,2202108,Social distancing,solid
-2020-05-16,mod_3,3304407,43079431,No intervention,solid
-2020-05-16,mod_4,29980,180699,Lockdown with moderate release,solid
-2020-05-17,mod_2,441945,2534206,Social distancing,solid
-2020-05-17,mod_3,3592210,47091787,No intervention,solid
-2020-05-17,mod_4,34647,197847,Lockdown with moderate release,solid
-2020-05-18,mod_2,487170,2895729,Social distancing,solid
-2020-05-18,mod_3,3888294,51061732,No intervention,solid
-2020-05-18,mod_4,40229,214934,Lockdown with moderate release,solid
-2020-05-19,mod_2,535127,3302948,Social distancing,solid
-2020-05-19,mod_3,4191773,54792277,No intervention,solid
-2020-05-19,mod_4,46843,236033,Lockdown with moderate release,solid
-2020-05-20,mod_2,585701,3775317,Social distancing,solid
-2020-05-20,mod_3,4501925,58291569,No intervention,solid
-2020-05-20,mod_4,54618,259261,Lockdown with moderate release,solid
-2020-05-21,mod_2,638948,4312088,Social distancing,solid
-2020-05-21,mod_3,4817851,61715340,No intervention,solid
-2020-05-21,mod_4,63683,284695,Lockdown with moderate release,solid
-2020-05-22,mod_2,694842,4905555,Social distancing,solid
-2020-05-22,mod_3,5138940,64818672,No intervention,solid
-2020-05-22,mod_4,74156,315625,Lockdown with moderate release,solid
-2020-05-23,mod_2,753287,5543508,Social distancing,solid
-2020-05-23,mod_3,5464456,67697883,No intervention,solid
-2020-05-23,mod_4,86099,346986,Lockdown with moderate release,solid
-2020-05-24,mod_2,814203,6287620,Social distancing,solid
-2020-05-24,mod_3,5793802,70322373,No intervention,solid
-2020-05-24,mod_4,99600,385604,Lockdown with moderate release,solid
-2020-05-25,mod_2,877579,7061027,Social distancing,solid
-2020-05-25,mod_3,6126306,72566888,No intervention,solid
-2020-05-25,mod_4,114759,426705,Lockdown with moderate release,solid
-2020-05-26,mod_2,943327,7920109,Social distancing,solid
-2020-05-26,mod_3,6461262,74826253,No intervention,solid
-2020-05-26,mod_4,131627,476460,Lockdown with moderate release,solid
-2020-05-27,mod_2,1011347,8875659,Social distancing,solid
-2020-05-27,mod_3,6798350,76695912,No intervention,solid
-2020-05-27,mod_4,150213,529255,Lockdown with moderate release,solid
-2020-05-28,mod_2,1081572,9873810,Social distancing,solid
-2020-05-28,mod_3,7136678,78428790,No intervention,solid
-2020-05-28,mod_4,170650,589227,Lockdown with moderate release,solid
-2020-05-29,mod_2,1154011,11004953,Social distancing,solid
-2020-05-29,mod_3,7476093,79994652,No intervention,solid
-2020-05-29,mod_4,192884,664569,Lockdown with moderate release,solid
-2020-05-30,mod_2,1228380,12144316,Social distancing,solid
-2020-05-30,mod_3,7816035,81503391,No intervention,solid
-2020-05-30,mod_4,217020,743330,Lockdown with moderate release,solid
-2020-05-31,mod_2,1304703,13400230,Social distancing,solid
-2020-05-31,mod_3,8155779,82702363,No intervention,solid
-2020-05-31,mod_4,243102,836419,Lockdown with moderate release,solid
-2020-06-01,mod_2,1382970,14789046,Social distancing,solid
-2020-06-01,mod_3,8495019,83851613,No intervention,solid
-2020-06-01,mod_4,271055,933566,Lockdown with moderate release,solid
-2020-06-02,mod_2,1462989,16160225,Social distancing,solid
-2020-06-02,mod_3,8833619,84874076,No intervention,solid
-2020-06-02,mod_4,300914,1054236,Lockdown with moderate release,solid
-2020-06-03,mod_2,1544797,17698757,Social distancing,solid
-2020-06-03,mod_3,9170903,85843001,No intervention,solid
-2020-06-03,mod_4,332635,1179880,Lockdown with moderate release,solid
-2020-06-04,mod_2,1628156,19261793,Social distancing,solid
-2020-06-04,mod_3,9506762,86623746,No intervention,solid
-2020-06-04,mod_4,366173,1335653,Lockdown with moderate release,solid
-2020-06-05,mod_2,1713006,20836641,Social distancing,solid
-2020-06-05,mod_3,9840733,87451432,No intervention,solid
-2020-06-05,mod_4,401484,1499836,Lockdown with moderate release,solid
-2020-06-06,mod_2,1799409,22540809,Social distancing,solid
-2020-06-06,mod_3,10172429,88220701,No intervention,solid
-2020-06-06,mod_4,438558,1692209,Lockdown with moderate release,solid
-2020-06-07,mod_2,1887130,24264961,Social distancing,solid
-2020-06-07,mod_3,10501833,88837219,No intervention,solid
-2020-06-07,mod_4,477341,1897728,Lockdown with moderate release,solid
-2020-06-08,mod_2,1976079,26066293,Social distancing,solid
-2020-06-08,mod_3,10828486,89397032,No intervention,solid
-2020-06-08,mod_4,517736,2134856,Lockdown with moderate release,solid
-2020-06-09,mod_2,2066279,27873008,Social distancing,solid
-2020-06-09,mod_3,11152447,89962075,No intervention,solid
-2020-06-09,mod_4,559795,2401095,Lockdown with moderate release,solid
-2020-06-10,mod_2,2157477,29793228,Social distancing,solid
-2020-06-10,mod_3,11473135,90354175,No intervention,solid
-2020-06-10,mod_4,603297,2707629,Lockdown with moderate release,solid
-2020-06-11,mod_2,2249885,31652542,Social distancing,solid
-2020-06-11,mod_3,11790690,90806643,No intervention,solid
-2020-06-11,mod_4,648231,3026515,Lockdown with moderate release,solid
-2020-06-12,mod_2,2343141,33625887,Social distancing,solid
-2020-06-12,mod_3,12104603,91256929,No intervention,solid
-2020-06-12,mod_4,694579,3414947,Lockdown with moderate release,solid
-2020-06-13,mod_2,2437355,35453436,Social distancing,solid
-2020-06-13,mod_3,12415231,91645393,No intervention,solid
-2020-06-13,mod_4,742246,3801142,Lockdown with moderate release,solid
-2020-06-14,mod_2,2532314,37360406,Social distancing,solid
-2020-06-14,mod_3,12722182,92026485,No intervention,solid
-2020-06-14,mod_4,791028,4257455,Lockdown with moderate release,solid
-2020-06-15,mod_2,2628104,39155354,Social distancing,solid
-2020-06-15,mod_3,13025308,92333206,No intervention,solid
-2020-06-15,mod_4,840977,4766276,Lockdown with moderate release,solid
-2020-06-16,mod_2,2724445,41007419,Social distancing,solid
-2020-06-16,mod_3,13324529,92586537,No intervention,solid
-2020-06-16,mod_4,891974,5303080,Lockdown with moderate release,solid
-2020-06-17,mod_2,2821220,42886394,Social distancing,solid
-2020-06-17,mod_3,13619917,92860041,No intervention,solid
-2020-06-17,mod_4,943978,5910057,Lockdown with moderate release,solid
-2020-06-18,mod_2,2918503,44407311,Social distancing,solid
-2020-06-18,mod_3,13911209,93120629,No intervention,solid
-2020-06-18,mod_4,996852,6605399,Lockdown with moderate release,solid
-2020-06-19,mod_2,3016217,46060791,Social distancing,solid
-2020-06-19,mod_3,14198543,93368428,No intervention,solid
-2020-06-19,mod_4,1050525,7264815,Lockdown with moderate release,solid
-2020-06-20,mod_2,3114249,47538212,Social distancing,solid
-2020-06-20,mod_3,14482059,93502040,No intervention,solid
-2020-06-20,mod_4,1104866,8056750,Lockdown with moderate release,solid
-2020-06-21,mod_2,3212494,49056203,Social distancing,solid
-2020-06-21,mod_3,14761347,93721352,No intervention,solid
-2020-06-21,mod_4,1159891,8830564,Lockdown with moderate release,solid
-2020-06-22,mod_2,3311080,50394874,Social distancing,solid
-2020-06-22,mod_3,15036577,93907176,No intervention,solid
-2020-06-22,mod_4,1215483,9748672,Lockdown with moderate release,solid
-2020-06-23,mod_2,3409871,51826831,Social distancing,solid
-2020-06-23,mod_3,15307549,94135288,No intervention,solid
-2020-06-23,mod_4,1271493,10675102,Lockdown with moderate release,solid
-2020-06-24,mod_2,3508552,53036149,Social distancing,solid
-2020-06-24,mod_3,15574497,94302655,No intervention,solid
-2020-06-24,mod_4,1327957,11697286,Lockdown with moderate release,solid
-2020-06-25,mod_2,3607398,54131033,Social distancing,solid
-2020-06-25,mod_3,15837383,94418966,No intervention,solid
-2020-06-25,mod_4,1384727,12738440,Lockdown with moderate release,solid
-2020-06-26,mod_2,3706099,55219848,Social distancing,solid
-2020-06-26,mod_3,16096025,94512530,No intervention,solid
-2020-06-26,mod_4,1441772,13865522,Lockdown with moderate release,solid
-2020-06-27,mod_2,3804660,56273957,Social distancing,solid
-2020-06-27,mod_3,16350291,94624210,No intervention,solid
-2020-06-27,mod_4,1499015,15039165,Lockdown with moderate release,solid
-2020-06-28,mod_2,3903164,57206489,Social distancing,solid
-2020-06-28,mod_3,16600698,94764773,No intervention,solid
-2020-06-28,mod_4,1556493,16279565,Lockdown with moderate release,solid
-2020-06-29,mod_2,4001435,58099099,Social distancing,solid
-2020-06-29,mod_3,16846741,94865238,No intervention,solid
-2020-06-29,mod_4,1614011,17531285,Lockdown with moderate release,solid
-2020-06-30,mod_2,4099404,59026955,Social distancing,solid
-2020-06-30,mod_3,17088922,94936170,No intervention,solid
-2020-06-30,mod_4,1671532,18918862,Lockdown with moderate release,solid
-2020-07-01,mod_2,4197162,59731503,Social distancing,solid
-2020-07-01,mod_3,17326946,94996046,No intervention,solid
-2020-07-01,mod_4,1729121,20295710,Lockdown with moderate release,solid
-2020-07-02,mod_2,4294561,60495253,Social distancing,solid
-2020-07-02,mod_3,17560688,95056921,No intervention,solid
-2020-07-02,mod_4,1786538,21826393,Lockdown with moderate release,solid
-2020-07-03,mod_2,4391656,61222690,Social distancing,solid
-2020-07-03,mod_3,17790436,95155525,No intervention,solid
-2020-07-03,mod_4,1843954,23322265,Lockdown with moderate release,solid
-2020-07-04,mod_2,4488338,61974035,Social distancing,solid
-2020-07-04,mod_3,18016070,95198652,No intervention,solid
-2020-07-04,mod_4,1901256,24888641,Lockdown with moderate release,solid
-2020-07-05,mod_2,4584478,62552565,Social distancing,solid
-2020-07-05,mod_3,18237772,95240797,No intervention,solid
-2020-07-05,mod_4,1958477,26496736,Lockdown with moderate release,solid
-2020-07-06,mod_2,4680226,63157296,Social distancing,solid
-2020-07-06,mod_3,18455464,95320511,No intervention,solid
-2020-07-06,mod_4,2015513,28214171,Lockdown with moderate release,solid
-2020-07-07,mod_2,4775596,63774295,Social distancing,solid
-2020-07-07,mod_3,18669395,95333158,No intervention,solid
-2020-07-07,mod_4,2072261,29885915,Lockdown with moderate release,solid
-2020-07-08,mod_2,4870394,64279085,Social distancing,solid
-2020-07-08,mod_3,18879449,95361533,No intervention,solid
-2020-07-08,mod_4,2128775,31662512,Lockdown with moderate release,solid
-2020-07-09,mod_2,4964481,64806086,Social distancing,solid
-2020-07-09,mod_3,19085773,95405365,No intervention,solid
-2020-07-09,mod_4,2185103,33562009,Lockdown with moderate release,solid
-2020-07-10,mod_2,5058145,65283702,Social distancing,solid
-2020-07-10,mod_3,19288139,95439230,No intervention,solid
-2020-07-10,mod_4,2241072,35441715,Lockdown with moderate release,solid
-2020-07-11,mod_2,5151206,65695936,Social distancing,solid
-2020-07-11,mod_3,19486763,95433269,No intervention,solid
-2020-07-11,mod_4,2296732,37235933,Lockdown with moderate release,solid
-2020-07-12,mod_2,5243723,66183551,Social distancing,solid
-2020-07-12,mod_3,19681601,95467057,No intervention,solid
-2020-07-12,mod_4,2352090,38927417,Lockdown with moderate release,solid
-2020-07-13,mod_2,5335612,66629680,Social distancing,solid
-2020-07-13,mod_3,19872976,95452895,No intervention,solid
-2020-07-13,mod_4,2407108,40649501,Lockdown with moderate release,solid
-2020-07-14,mod_2,5426803,67028228,Social distancing,solid
-2020-07-14,mod_3,20060790,95420150,No intervention,solid
-2020-07-14,mod_4,2461683,42494052,Lockdown with moderate release,solid
-2020-07-15,mod_2,5517324,67482108,Social distancing,solid
-2020-07-15,mod_3,20244970,95438593,No intervention,solid
-2020-07-15,mod_4,2515855,44293344,Lockdown with moderate release,solid
-2020-07-16,mod_2,5607066,67825846,Social distancing,solid
-2020-07-16,mod_3,20425694,95432209,No intervention,solid
-2020-07-16,mod_4,2569539,46002702,Lockdown with moderate release,solid
-2020-07-17,mod_2,5696091,68148716,Social distancing,solid
-2020-07-17,mod_3,20602986,95404904,No intervention,solid
-2020-07-17,mod_4,2622883,47574232,Lockdown with moderate release,solid
-2020-07-18,mod_2,5784468,68501269,Social distancing,solid
-2020-07-18,mod_3,20776818,95338919,No intervention,solid
-2020-07-18,mod_4,2675748,49375189,Lockdown with moderate release,solid
-2020-07-19,mod_2,5871981,68733075,Social distancing,solid
-2020-07-19,mod_3,20947484,95370306,No intervention,solid
-2020-07-19,mod_4,2728097,50888046,Lockdown with moderate release,solid
-2020-07-20,mod_2,5958764,69044003,Social distancing,solid
-2020-07-20,mod_3,21114701,95321083,No intervention,solid
-2020-07-20,mod_4,2780012,52456940,Lockdown with moderate release,solid
-2020-07-21,mod_2,6044950,69245447,Social distancing,solid
-2020-07-21,mod_3,21278619,95308493,No intervention,solid
-2020-07-21,mod_4,2831495,53878309,Lockdown with moderate release,solid
-2020-07-22,mod_2,6130312,69519345,Social distancing,solid
-2020-07-22,mod_3,21439480,95238008,No intervention,solid
-2020-07-22,mod_4,2882498,55193128,Lockdown with moderate release,solid
-2020-07-23,mod_2,6214968,69790395,Social distancing,solid
-2020-07-23,mod_3,21597275,95220766,No intervention,solid
-2020-07-23,mod_4,2933007,56459501,Lockdown with moderate release,solid
-2020-07-24,mod_2,6298966,70021169,Social distancing,solid
-2020-07-24,mod_3,21752098,95187842,No intervention,solid
-2020-07-24,mod_4,2982927,57729232,Lockdown with moderate release,solid
-2020-07-25,mod_2,6382141,70259591,Social distancing,solid
-2020-07-25,mod_3,21903743,95208686,No intervention,solid
-2020-07-25,mod_4,3032336,58845345,Lockdown with moderate release,solid
-2020-07-26,mod_2,6464586,70464581,Social distancing,solid
-2020-07-26,mod_3,22052527,95092118,No intervention,solid
-2020-07-26,mod_4,3081163,60023949,Lockdown with moderate release,solid
-2020-07-27,mod_2,6546148,70668358,Social distancing,solid
-2020-07-27,mod_3,22198681,95017330,No intervention,solid
-2020-07-27,mod_4,3129526,61055153,Lockdown with moderate release,solid
-2020-07-28,mod_2,6626981,70897952,Social distancing,solid
-2020-07-28,mod_3,22341884,94977574,No intervention,solid
-2020-07-28,mod_4,3177400,61999847,Lockdown with moderate release,solid
-2020-07-29,mod_2,6706931,71060202,Social distancing,solid
-2020-07-29,mod_3,22482364,94933245,No intervention,solid
-2020-07-29,mod_4,3224659,62847159,Lockdown with moderate release,solid
-2020-07-30,mod_2,6786126,71225913,Social distancing,solid
-2020-07-30,mod_3,22619956,94898873,No intervention,solid
-2020-07-30,mod_4,3271395,63660449,Lockdown with moderate release,solid
-2020-07-31,mod_2,6864756,71355534,Social distancing,solid
-2020-07-31,mod_3,22754887,94760718,No intervention,solid
-2020-07-31,mod_4,3317623,64416143,Lockdown with moderate release,solid
-2020-08-01,mod_2,6942426,71500641,Social distancing,solid
-2020-08-01,mod_3,22887476,94728300,No intervention,solid
-2020-08-01,mod_4,3363373,65271932,Lockdown with moderate release,solid
-2020-08-02,mod_2,7019291,71658551,Social distancing,solid
-2020-08-02,mod_3,23017464,94663320,No intervention,solid
-2020-08-02,mod_4,3408645,66017057,Lockdown with moderate release,solid
-2020-08-03,mod_2,7095478,71815396,Social distancing,solid
-2020-08-03,mod_3,23144854,94593437,No intervention,solid
-2020-08-03,mod_4,3453414,66798475,Lockdown with moderate release,solid
-2020-08-04,mod_2,7170833,71908800,Social distancing,solid
-2020-08-04,mod_3,23269763,94571944,No intervention,solid
-2020-08-04,mod_4,3497605,67424501,Lockdown with moderate release,solid
-2020-08-05,mod_2,7245404,72099383,Social distancing,solid
-2020-08-05,mod_3,23392472,94474686,No intervention,solid
-2020-08-05,mod_4,3541138,68058170,Lockdown with moderate release,solid
-2020-08-06,mod_2,7319231,72230485,Social distancing,solid
-2020-08-06,mod_3,23512432,94444386,No intervention,solid
-2020-08-06,mod_4,3584221,68665527,Lockdown with moderate release,solid
-2020-08-07,mod_2,7392162,72318159,Social distancing,solid
-2020-08-07,mod_3,23630517,94371654,No intervention,solid
-2020-08-07,mod_4,3626763,69141852,Lockdown with moderate release,solid
-2020-08-08,mod_2,7464356,72490144,Social distancing,solid
-2020-08-08,mod_3,23746040,94365096,No intervention,solid
-2020-08-08,mod_4,3668832,69656549,Lockdown with moderate release,solid
-2020-08-09,mod_2,7535820,72655815,Social distancing,solid
-2020-08-09,mod_3,23859478,94271801,No intervention,solid
-2020-08-09,mod_4,3710366,70117608,Lockdown with moderate release,solid
-2020-08-10,mod_2,7606481,72726984,Social distancing,solid
-2020-08-10,mod_3,23970967,94229810,No intervention,solid
-2020-08-10,mod_4,3751450,70567954,Lockdown with moderate release,solid
-2020-08-11,mod_2,7676184,72853412,Social distancing,solid
-2020-08-11,mod_3,24080342,94137328,No intervention,solid
-2020-08-11,mod_4,3791935,70949839,Lockdown with moderate release,solid
-2020-08-12,mod_2,7745408,72928043,Social distancing,solid
-2020-08-12,mod_3,24187419,94079713,No intervention,solid
-2020-08-12,mod_4,3831770,71367511,Lockdown with moderate release,solid
-2020-08-13,mod_2,7813612,73040214,Social distancing,solid
-2020-08-13,mod_3,24292683,94042181,No intervention,solid
-2020-08-13,mod_4,3871174,71662443,Lockdown with moderate release,solid
-2020-08-14,mod_2,7881118,73124019,Social distancing,solid
-2020-08-14,mod_3,24396183,93969306,No intervention,solid
-2020-08-14,mod_4,3910088,72031323,Lockdown with moderate release,solid
-2020-08-15,mod_2,7947835,73234030,Social distancing,solid
-2020-08-15,mod_3,24497458,93882395,No intervention,solid
-2020-08-15,mod_4,3948475,72259343,Lockdown with moderate release,solid
-2020-08-16,mod_2,8013837,73274930,Social distancing,solid
-2020-08-16,mod_3,24596659,93815188,No intervention,solid
-2020-08-16,mod_4,3986360,72598734,Lockdown with moderate release,solid
-2020-08-17,mod_2,8079071,73335877,Social distancing,solid
-2020-08-17,mod_3,24694431,93743207,No intervention,solid
-2020-08-17,mod_4,4023638,72928180,Lockdown with moderate release,solid
-2020-08-18,mod_2,8143556,73401646,Social distancing,solid
-2020-08-18,mod_3,24790121,93682058,No intervention,solid
-2020-08-18,mod_4,4060483,73204380,Lockdown with moderate release,solid
-2020-08-19,mod_2,8207107,73464018,Social distancing,solid
-2020-08-19,mod_3,24883955,93623020,No intervention,solid
-2020-08-19,mod_4,4096869,73440522,Lockdown with moderate release,solid
-2020-08-20,mod_2,8270083,73566001,Social distancing,solid
-2020-08-20,mod_3,24976323,93566268,No intervention,solid
-2020-08-20,mod_4,4132650,73671782,Lockdown with moderate release,solid
-2020-08-21,mod_2,8332386,73570011,Social distancing,solid
-2020-08-21,mod_3,25066624,93522404,No intervention,solid
-2020-08-21,mod_4,4167929,73978774,Lockdown with moderate release,solid
-2020-08-22,mod_2,8393893,73665824,Social distancing,solid
-2020-08-22,mod_3,25155497,93398004,No intervention,solid
-2020-08-22,mod_4,4202783,74175652,Lockdown with moderate release,solid
-2020-08-23,mod_2,8454699,73738669,Social distancing,solid
-2020-08-23,mod_3,25242643,93324270,No intervention,solid
-2020-08-23,mod_4,4237044,74358970,Lockdown with moderate release,solid
-2020-08-24,mod_2,8514687,73766273,Social distancing,solid
-2020-08-24,mod_3,25328164,93224534,No intervention,solid
-2020-08-24,mod_4,4270943,74581904,Lockdown with moderate release,solid
-2020-08-25,mod_2,8573927,73830767,Social distancing,solid
-2020-08-25,mod_3,25412293,93181062,No intervention,solid
-2020-08-25,mod_4,4304275,74772672,Lockdown with moderate release,solid
-2020-08-26,mod_2,8632462,73882563,Social distancing,solid
-2020-08-26,mod_3,25494778,93123286,No intervention,solid
-2020-08-26,mod_4,4337181,74899458,Lockdown with moderate release,solid
-2020-08-27,mod_2,8690429,73900912,Social distancing,solid
-2020-08-27,mod_3,25575830,93006084,No intervention,solid
-2020-08-27,mod_4,4369491,75026823,Lockdown with moderate release,solid
-2020-08-28,mod_2,8747526,73942675,Social distancing,solid
-2020-08-28,mod_3,25655231,92933392,No intervention,solid
-2020-08-28,mod_4,4401399,75275553,Lockdown with moderate release,solid
-2020-08-29,mod_2,8803976,74012660,Social distancing,solid
-2020-08-29,mod_3,25733409,92894352,No intervention,solid
-2020-08-29,mod_4,4432929,75447892,Lockdown with moderate release,solid
-2020-08-30,mod_2,8859669,74006931,Social distancing,solid
-2020-08-30,mod_3,25810288,92776747,No intervention,solid
-2020-08-30,mod_4,4463981,75587575,Lockdown with moderate release,solid
-2020-08-31,mod_2,8914909,74055617,Social distancing,solid
-2020-08-31,mod_3,25885598,92688709,No intervention,solid
-2020-08-31,mod_4,4494476,75667035,Lockdown with moderate release,solid
-2020-09-01,mod_2,8969373,74096926,Social distancing,solid
-2020-09-01,mod_3,25959695,92631824,No intervention,solid
-2020-09-01,mod_4,4524532,75807477,Lockdown with moderate release,solid
-2020-09-02,mod_2,9023334,74136235,Social distancing,solid
-2020-09-02,mod_3,26032237,92555934,No intervention,solid
-2020-09-02,mod_4,4554230,75938668,Lockdown with moderate release,solid
-2020-09-03,mod_2,9076514,74168719,Social distancing,solid
-2020-09-03,mod_3,26103801,92484060,No intervention,solid
-2020-09-03,mod_4,4583484,76096846,Lockdown with moderate release,solid
-2020-09-04,mod_2,9129109,74148813,Social distancing,solid
-2020-09-04,mod_3,26173869,92450518,No intervention,solid
-2020-09-04,mod_4,4612355,76245015,Lockdown with moderate release,solid
-2020-09-05,mod_2,9180756,74222837,Social distancing,solid
-2020-09-05,mod_3,26242926,92343749,No intervention,solid
-2020-09-05,mod_4,4640879,76362503,Lockdown with moderate release,solid
-2020-09-06,mod_2,9232029,74215298,Social distancing,solid
-2020-09-06,mod_3,26310389,92272866,No intervention,solid
-2020-09-06,mod_4,4668883,76383408,Lockdown with moderate release,solid
-2020-09-07,mod_2,9282522,74237046,Social distancing,solid
-2020-09-07,mod_3,26376722,92178183,No intervention,solid
-2020-09-07,mod_4,4696482,76535542,Lockdown with moderate release,solid
-2020-09-08,mod_2,9332507,74262113,Social distancing,solid
-2020-09-08,mod_3,26441916,92085959,No intervention,solid
-2020-09-08,mod_4,4723735,76612054,Lockdown with moderate release,solid
-2020-09-09,mod_2,9381920,74252986,Social distancing,solid
-2020-09-09,mod_3,26506006,92029441,No intervention,solid
-2020-09-09,mod_4,4750612,76789150,Lockdown with moderate release,solid
-2020-09-10,mod_2,9430658,74292825,Social distancing,solid
-2020-09-10,mod_3,26569197,91967820,No intervention,solid
-2020-09-10,mod_4,4777053,76862287,Lockdown with moderate release,solid
-2020-09-11,mod_2,9478681,74303655,Social distancing,solid
-2020-09-11,mod_3,26631116,91916811,No intervention,solid
-2020-09-11,mod_4,4803187,76945315,Lockdown with moderate release,solid
-2020-09-12,mod_2,9526332,74321820,Social distancing,solid
-2020-09-12,mod_3,26691766,91846128,No intervention,solid
-2020-09-12,mod_4,4828949,76972420,Lockdown with moderate release,solid
-2020-09-13,mod_2,9573313,74334761,Social distancing,solid
-2020-09-13,mod_3,26751839,91771985,No intervention,solid
-2020-09-13,mod_4,4854314,77056176,Lockdown with moderate release,solid
-2020-09-14,mod_2,9619577,74313066,Social distancing,solid
-2020-09-14,mod_3,26810792,91729164,No intervention,solid
-2020-09-14,mod_4,4879425,77127930,Lockdown with moderate release,solid
-2020-09-15,mod_2,9665388,74378074,Social distancing,solid
-2020-09-15,mod_3,26868577,91629885,No intervention,solid
-2020-09-15,mod_4,4904064,77217666,Lockdown with moderate release,solid
-2020-09-16,mod_2,9710482,74420201,Social distancing,solid
-2020-09-16,mod_3,26925164,91576201,No intervention,solid
-2020-09-16,mod_4,4928458,77242734,Lockdown with moderate release,solid
-2020-09-17,mod_2,NA,NA,Social distancing,solid
-2020-09-17,mod_3,NA,NA,No intervention,solid
-2020-09-17,mod_4,NA,NA,Lockdown with moderate release,solid
+2020-04-08,True,5916,NA,Observed,solid
+2020-04-09,mod_2,5228,35777,Social distancing,solid
+2020-04-09,mod_3,5459,36576,No intervention,solid
+2020-04-09,mod_4,4921,34080,Lockdown with moderate release,solid
+2020-04-10,mod_2,5737,38850,Social distancing,solid
+2020-04-10,mod_3,6178,40314,No intervention,solid
+2020-04-10,mod_4,5156,36083,Lockdown with moderate release,solid
+2020-04-11,mod_2,6283,41862,Social distancing,solid
+2020-04-11,mod_3,6994,44427,No intervention,solid
+2020-04-11,mod_4,5385,38113,Lockdown with moderate release,solid
+2020-04-12,mod_2,6884,45768,Social distancing,solid
+2020-04-12,mod_3,7941,49500,No intervention,solid
+2020-04-12,mod_4,5606,39490,Lockdown with moderate release,solid
+2020-04-13,mod_2,7533,49602,Social distancing,solid
+2020-04-13,mod_3,9062,56050,No intervention,solid
+2020-04-13,mod_4,5818,41486,Lockdown with moderate release,solid
+2020-04-14,mod_2,8251,53889,Social distancing,solid
+2020-04-14,mod_3,10401,63929,No intervention,solid
+2020-04-14,mod_4,6032,43095,Lockdown with moderate release,solid
+2020-04-15,mod_2,9040,59158,Social distancing,solid
+2020-04-15,mod_3,12005,73778,No intervention,solid
+2020-04-15,mod_4,6237,44706,Lockdown with moderate release,solid
+2020-04-16,mod_2,9918,64932,Social distancing,solid
+2020-04-16,mod_3,13951,86405,No intervention,solid
+2020-04-16,mod_4,6436,46157,Lockdown with moderate release,solid
+2020-04-17,mod_2,10907,71142,Social distancing,solid
+2020-04-17,mod_3,16344,101137,No intervention,solid
+2020-04-17,mod_4,6642,48013,Lockdown with moderate release,solid
+2020-04-18,mod_2,12021,78514,Social distancing,solid
+2020-04-18,mod_3,19347,120739,No intervention,solid
+2020-04-18,mod_4,6832,49652,Lockdown with moderate release,solid
+2020-04-19,mod_2,13293,86922,Social distancing,solid
+2020-04-19,mod_3,23149,145226,No intervention,solid
+2020-04-19,mod_4,7023,51411,Lockdown with moderate release,solid
+2020-04-20,mod_2,14752,97634,Social distancing,solid
+2020-04-20,mod_3,28043,175639,No intervention,solid
+2020-04-20,mod_4,7210,52960,Lockdown with moderate release,solid
+2020-04-21,mod_2,16441,108861,Social distancing,solid
+2020-04-21,mod_3,34467,215771,No intervention,solid
+2020-04-21,mod_4,7395,54602,Lockdown with moderate release,solid
+2020-04-22,mod_2,18395,122139,Social distancing,solid
+2020-04-22,mod_3,42915,268566,No intervention,solid
+2020-04-22,mod_4,7577,55936,Lockdown with moderate release,solid
+2020-04-23,mod_2,20699,137487,Social distancing,solid
+2020-04-23,mod_3,54117,337532,No intervention,solid
+2020-04-23,mod_4,7755,58090,Lockdown with moderate release,solid
+2020-04-24,mod_2,23431,156561,Social distancing,solid
+2020-04-24,mod_3,68943,426716,No intervention,solid
+2020-04-24,mod_4,7946,59849,Lockdown with moderate release,solid
+2020-04-25,mod_2,26703,178065,Social distancing,solid
+2020-04-25,mod_3,88381,544359,No intervention,solid
+2020-04-25,mod_4,8149,61499,Lockdown with moderate release,solid
+2020-04-26,mod_2,30626,204131,Social distancing,solid
+2020-04-26,mod_3,113573,692802,No intervention,solid
+2020-04-26,mod_4,8358,63499,Lockdown with moderate release,solid
+2020-04-27,mod_2,35341,232420,Social distancing,solid
+2020-04-27,mod_3,145672,885323,No intervention,solid
+2020-04-27,mod_4,8571,65854,Lockdown with moderate release,solid
+2020-04-28,mod_2,41043,267902,Social distancing,solid
+2020-04-28,mod_3,185940,1139457,No intervention,solid
+2020-04-28,mod_4,8797,68150,Lockdown with moderate release,solid
+2020-04-29,mod_2,47945,309054,Social distancing,solid
+2020-04-29,mod_3,235660,1463417,No intervention,solid
+2020-04-29,mod_4,9048,69765,Lockdown with moderate release,solid
+2020-04-30,mod_2,56261,357358,Social distancing,solid
+2020-04-30,mod_3,296066,1863899,No intervention,solid
+2020-04-30,mod_4,9326,73226,Lockdown with moderate release,solid
+2020-05-01,mod_2,66251,413630,Social distancing,solid
+2020-05-01,mod_3,368258,2405528,No intervention,solid
+2020-05-01,mod_4,9618,76046,Lockdown with moderate release,solid
+2020-05-02,mod_2,78202,479978,Social distancing,solid
+2020-05-02,mod_3,453263,3070528,No intervention,solid
+2020-05-02,mod_4,9940,79038,Lockdown with moderate release,solid
+2020-05-03,mod_2,92388,558264,Social distancing,solid
+2020-05-03,mod_3,551880,3945459,No intervention,solid
+2020-05-03,mod_4,10299,82241,Lockdown with moderate release,solid
+2020-05-04,mod_2,109135,648842,Social distancing,solid
+2020-05-04,mod_3,664838,5005402,No intervention,solid
+2020-05-04,mod_4,10693,86456,Lockdown with moderate release,solid
+2020-05-05,mod_2,128691,760532,Social distancing,solid
+2020-05-05,mod_3,792417,6350311,No intervention,solid
+2020-05-05,mod_4,11125,89907,Lockdown with moderate release,solid
+2020-05-06,mod_2,151347,885639,Social distancing,solid
+2020-05-06,mod_3,935064,8037598,No intervention,solid
+2020-05-06,mod_4,11635,93920,Lockdown with moderate release,solid
+2020-05-07,mod_2,177404,1032732,Social distancing,solid
+2020-05-07,mod_3,1092947,10018381,No intervention,solid
+2020-05-07,mod_4,12212,100020,Lockdown with moderate release,solid
+2020-05-08,mod_2,207127,1210609,Social distancing,solid
+2020-05-08,mod_3,1265975,12409772,No intervention,solid
+2020-05-08,mod_4,12895,105319,Lockdown with moderate release,solid
+2020-05-09,mod_2,240767,1424997,Social distancing,solid
+2020-05-09,mod_3,1454166,15063417,No intervention,solid
+2020-05-09,mod_4,13697,111498,Lockdown with moderate release,solid
+2020-05-10,mod_2,278537,1670908,Social distancing,solid
+2020-05-10,mod_3,1657233,18007804,No intervention,solid
+2020-05-10,mod_4,14660,117870,Lockdown with moderate release,solid
+2020-05-11,mod_2,320593,1952338,Social distancing,solid
+2020-05-11,mod_3,1874628,21287619,No intervention,solid
+2020-05-11,mod_4,15831,126709,Lockdown with moderate release,solid
+2020-05-12,mod_2,367141,2288843,Social distancing,solid
+2020-05-12,mod_3,2105967,24859781,No intervention,solid
+2020-05-12,mod_4,17246,136252,Lockdown with moderate release,solid
+2020-05-13,mod_2,418365,2656789,Social distancing,solid
+2020-05-13,mod_3,2350536,28601199,No intervention,solid
+2020-05-13,mod_4,19010,147064,Lockdown with moderate release,solid
+2020-05-14,mod_2,474238,3120448,Social distancing,solid
+2020-05-14,mod_3,2607776,32500636,No intervention,solid
+2020-05-14,mod_4,21238,159408,Lockdown with moderate release,solid
+2020-05-15,mod_2,534965,3654196,Social distancing,solid
+2020-05-15,mod_3,2876774,36396426,No intervention,solid
+2020-05-15,mod_4,23997,173909,Lockdown with moderate release,solid
+2020-05-16,mod_2,600370,4241473,Social distancing,solid
+2020-05-16,mod_3,3156900,40587908,No intervention,solid
+2020-05-16,mod_4,27379,189168,Lockdown with moderate release,solid
+2020-05-17,mod_2,670522,4950033,Social distancing,solid
+2020-05-17,mod_3,3447058,44782860,No intervention,solid
+2020-05-17,mod_4,31536,205665,Lockdown with moderate release,solid
+2020-05-18,mod_2,745430,5746638,Social distancing,solid
+2020-05-18,mod_3,3746709,48824254,No intervention,solid
+2020-05-18,mod_4,36586,227469,Lockdown with moderate release,solid
+2020-05-19,mod_2,824975,6667049,Social distancing,solid
+2020-05-19,mod_3,4055006,52947972,No intervention,solid
+2020-05-19,mod_4,42695,251478,Lockdown with moderate release,solid
+2020-05-20,mod_2,909104,7679856,Social distancing,solid
+2020-05-20,mod_3,4371010,56748712,No intervention,solid
+2020-05-20,mod_4,49983,280567,Lockdown with moderate release,solid
+2020-05-21,mod_2,997725,8846903,Social distancing,solid
+2020-05-21,mod_3,4693911,60484893,No intervention,solid
+2020-05-21,mod_4,58603,310450,Lockdown with moderate release,solid
+2020-05-22,mod_2,1090736,10131911,Social distancing,solid
+2020-05-22,mod_3,5022868,63918798,No intervention,solid
+2020-05-22,mod_4,68704,348643,Lockdown with moderate release,solid
+2020-05-23,mod_2,1187940,11526385,Social distancing,solid
+2020-05-23,mod_3,5357063,67087438,No intervention,solid
+2020-05-23,mod_4,80461,388906,Lockdown with moderate release,solid
+2020-05-24,mod_2,1289371,13006286,Social distancing,solid
+2020-05-24,mod_3,5695495,70003026,No intervention,solid
+2020-05-24,mod_4,93959,435537,Lockdown with moderate release,solid
+2020-05-25,mod_2,1394696,14661299,Social distancing,solid
+2020-05-25,mod_3,6037833,72542919,No intervention,solid
+2020-05-25,mod_4,109383,489784,Lockdown with moderate release,solid
+2020-05-26,mod_2,1503926,16396360,Social distancing,solid
+2020-05-26,mod_3,6383192,74910304,No intervention,solid
+2020-05-26,mod_4,126809,547765,Lockdown with moderate release,solid
+2020-05-27,mod_2,1616952,18207097,Social distancing,solid
+2020-05-27,mod_3,6730864,77098444,No intervention,solid
+2020-05-27,mod_4,146458,618111,Lockdown with moderate release,solid
+2020-05-28,mod_2,1733420,20154116,Social distancing,solid
+2020-05-28,mod_3,7080327,79096107,No intervention,solid
+2020-05-28,mod_4,168302,700773,Lockdown with moderate release,solid
+2020-05-29,mod_2,1853120,22188655,Social distancing,solid
+2020-05-29,mod_3,7430788,80817326,No intervention,solid
+2020-05-29,mod_4,192469,782225,Lockdown with moderate release,solid
+2020-05-30,mod_2,1976008,24414579,Social distancing,solid
+2020-05-30,mod_3,7781896,82405519,No intervention,solid
+2020-05-30,mod_4,219145,893598,Lockdown with moderate release,solid
+2020-05-31,mod_2,2101874,26677640,Social distancing,solid
+2020-05-31,mod_3,8132913,83819137,No intervention,solid
+2020-05-31,mod_4,248339,1010612,Lockdown with moderate release,solid
+2020-06-01,mod_2,2230484,29095906,Social distancing,solid
+2020-06-01,mod_3,8483540,85038877,No intervention,solid
+2020-06-01,mod_4,280085,1148961,Lockdown with moderate release,solid
+2020-06-02,mod_2,2361670,31473145,Social distancing,solid
+2020-06-02,mod_3,8833270,86260561,No intervention,solid
+2020-06-02,mod_4,314522,1304977,Lockdown with moderate release,solid
+2020-06-03,mod_2,2495049,33982130,Social distancing,solid
+2020-06-03,mod_3,9181687,87275986,No intervention,solid
+2020-06-03,mod_4,351592,1479276,Lockdown with moderate release,solid
+2020-06-04,mod_2,2630696,36370982,Social distancing,solid
+2020-06-04,mod_3,9528520,88227105,No intervention,solid
+2020-06-04,mod_4,391317,1687599,Lockdown with moderate release,solid
+2020-06-05,mod_2,2768310,38794937,Social distancing,solid
+2020-06-05,mod_3,9873256,89058262,No intervention,solid
+2020-06-05,mod_4,433687,1902491,Lockdown with moderate release,solid
+2020-06-06,mod_2,2907687,41322688,Social distancing,solid
+2020-06-06,mod_3,10216032,89819304,No intervention,solid
+2020-06-06,mod_4,478700,2174550,Lockdown with moderate release,solid
+2020-06-07,mod_2,3048610,43872379,Social distancing,solid
+2020-06-07,mod_3,10556234,90544213,No intervention,solid
+2020-06-07,mod_4,526214,2474603,Lockdown with moderate release,solid
+2020-06-08,mod_2,3190933,46200852,Social distancing,solid
+2020-06-08,mod_3,10893633,91122485,No intervention,solid
+2020-06-08,mod_4,576095,2819027,Lockdown with moderate release,solid
+2020-06-09,mod_2,3334673,48525872,Social distancing,solid
+2020-06-09,mod_3,11227930,91695507,No intervention,solid
+2020-06-09,mod_4,628254,3200570,Lockdown with moderate release,solid
+2020-06-10,mod_2,3479329,50763308,Social distancing,solid
+2020-06-10,mod_3,11559001,92274992,No intervention,solid
+2020-06-10,mod_4,682602,3627290,Lockdown with moderate release,solid
+2020-06-11,mod_2,3625001,52875862,Social distancing,solid
+2020-06-11,mod_3,11886863,92743755,No intervention,solid
+2020-06-11,mod_4,738954,4115872,Lockdown with moderate release,solid
+2020-06-12,mod_2,3771390,54947691,Social distancing,solid
+2020-06-12,mod_3,12211093,93200765,No intervention,solid
+2020-06-12,mod_4,797171,4655207,Lockdown with moderate release,solid
+2020-06-13,mod_2,3918483,56980140,Social distancing,solid
+2020-06-13,mod_3,12531558,93542424,No intervention,solid
+2020-06-13,mod_4,857200,5260953,Lockdown with moderate release,solid
+2020-06-14,mod_2,4066005,58779752,Social distancing,solid
+2020-06-14,mod_3,12848174,93880122,No intervention,solid
+2020-06-14,mod_4,918768,5952107,Lockdown with moderate release,solid
+2020-06-15,mod_2,4213940,60474459,Social distancing,solid
+2020-06-15,mod_3,13160953,94247278,No intervention,solid
+2020-06-15,mod_4,981768,6714030,Lockdown with moderate release,solid
+2020-06-16,mod_2,4362174,62130427,Social distancing,solid
+2020-06-16,mod_3,13469601,94562400,No intervention,solid
+2020-06-16,mod_4,1046148,7499597,Lockdown with moderate release,solid
+2020-06-17,mod_2,4510409,63640073,Social distancing,solid
+2020-06-17,mod_3,13774219,94881029,No intervention,solid
+2020-06-17,mod_4,1111724,8376027,Lockdown with moderate release,solid
+2020-06-18,mod_2,4658730,64960877,Social distancing,solid
+2020-06-18,mod_3,14074577,95101854,No intervention,solid
+2020-06-18,mod_4,1178382,9351055,Lockdown with moderate release,solid
+2020-06-19,mod_2,4806858,66227899,Social distancing,solid
+2020-06-19,mod_3,14370827,95342336,No intervention,solid
+2020-06-19,mod_4,1246047,10393435,Lockdown with moderate release,solid
+2020-06-20,mod_2,4954843,67465473,Social distancing,solid
+2020-06-20,mod_3,14662526,95552493,No intervention,solid
+2020-06-20,mod_4,1314662,11490730,Lockdown with moderate release,solid
+2020-06-21,mod_2,5102394,68476680,Social distancing,solid
+2020-06-21,mod_3,14950001,95717070,No intervention,solid
+2020-06-21,mod_4,1384047,12685113,Lockdown with moderate release,solid
+2020-06-22,mod_2,5249547,69520832,Social distancing,solid
+2020-06-22,mod_3,15233213,95846552,No intervention,solid
+2020-06-22,mod_4,1454181,13856920,Lockdown with moderate release,solid
+2020-06-23,mod_2,5396306,70463223,Social distancing,solid
+2020-06-23,mod_3,15511720,96089042,No intervention,solid
+2020-06-23,mod_4,1525085,15220058,Lockdown with moderate release,solid
+2020-06-24,mod_2,5542558,71411686,Social distancing,solid
+2020-06-24,mod_3,15785679,96152386,No intervention,solid
+2020-06-24,mod_4,1596538,16578827,Lockdown with moderate release,solid
+2020-06-25,mod_2,5688118,72295712,Social distancing,solid
+2020-06-25,mod_3,16055348,96317772,No intervention,solid
+2020-06-25,mod_4,1668510,18082954,Lockdown with moderate release,solid
+2020-06-26,mod_2,5832706,73057336,Social distancing,solid
+2020-06-26,mod_3,16320684,96456166,No intervention,solid
+2020-06-26,mod_4,1740842,19551427,Lockdown with moderate release,solid
+2020-06-27,mod_2,5976683,73810431,Social distancing,solid
+2020-06-27,mod_3,16581587,96607884,No intervention,solid
+2020-06-27,mod_4,1813504,21111294,Lockdown with moderate release,solid
+2020-06-28,mod_2,6119723,74540503,Social distancing,solid
+2020-06-28,mod_3,16838149,96692903,No intervention,solid
+2020-06-28,mod_4,1886394,22808898,Lockdown with moderate release,solid
+2020-06-29,mod_2,6261749,75142991,Social distancing,solid
+2020-06-29,mod_3,17090079,96780049,No intervention,solid
+2020-06-29,mod_4,1959509,24598767,Lockdown with moderate release,solid
+2020-06-30,mod_2,6402923,75730320,Social distancing,solid
+2020-06-30,mod_3,17337590,96860684,No intervention,solid
+2020-06-30,mod_4,2032658,26389884,Lockdown with moderate release,solid
+2020-07-01,mod_2,6543082,76297738,Social distancing,solid
+2020-07-01,mod_3,17580851,96932725,No intervention,solid
+2020-07-01,mod_4,2105859,28344659,Lockdown with moderate release,solid
+2020-07-02,mod_2,6682130,76928454,Social distancing,solid
+2020-07-02,mod_3,17819615,97020084,No intervention,solid
+2020-07-02,mod_4,2178971,30368260,Lockdown with moderate release,solid
+2020-07-03,mod_2,6820214,77444667,Social distancing,solid
+2020-07-03,mod_3,18054559,97083531,No intervention,solid
+2020-07-03,mod_4,2252043,32394260,Lockdown with moderate release,solid
+2020-07-04,mod_2,6956954,77949591,Social distancing,solid
+2020-07-04,mod_3,18284999,97099159,No intervention,solid
+2020-07-04,mod_4,2324855,34440855,Lockdown with moderate release,solid
+2020-07-05,mod_2,7092650,78391233,Social distancing,solid
+2020-07-05,mod_3,18511265,97157735,No intervention,solid
+2020-07-05,mod_4,2397372,36558528,Lockdown with moderate release,solid
+2020-07-06,mod_2,7227053,78753799,Social distancing,solid
+2020-07-06,mod_3,18733351,97158082,No intervention,solid
+2020-07-06,mod_4,2469542,38703545,Lockdown with moderate release,solid
+2020-07-07,mod_2,7360358,79137821,Social distancing,solid
+2020-07-07,mod_3,18951651,97212432,No intervention,solid
+2020-07-07,mod_4,2541370,40827818,Lockdown with moderate release,solid
+2020-07-08,mod_2,7492214,79615615,Social distancing,solid
+2020-07-08,mod_3,19166061,97209968,No intervention,solid
+2020-07-08,mod_4,2612822,42937907,Lockdown with moderate release,solid
+2020-07-09,mod_2,7622771,79997688,Social distancing,solid
+2020-07-09,mod_3,19376337,97305679,No intervention,solid
+2020-07-09,mod_4,2683818,45073220,Lockdown with moderate release,solid
+2020-07-10,mod_2,7752079,80353154,Social distancing,solid
+2020-07-10,mod_3,19582914,97272435,No intervention,solid
+2020-07-10,mod_4,2754220,47184569,Lockdown with moderate release,solid
+2020-07-11,mod_2,7879919,80590482,Social distancing,solid
+2020-07-11,mod_3,19785559,97237022,No intervention,solid
+2020-07-11,mod_4,2823968,49111874,Lockdown with moderate release,solid
+2020-07-12,mod_2,8006333,80844561,Social distancing,solid
+2020-07-12,mod_3,19984579,97210676,No intervention,solid
+2020-07-12,mod_4,2893157,51146298,Lockdown with moderate release,solid
+2020-07-13,mod_2,8131333,81096214,Social distancing,solid
+2020-07-13,mod_3,20179903,97213018,No intervention,solid
+2020-07-13,mod_4,2961745,53132328,Lockdown with moderate release,solid
+2020-07-14,mod_2,8255040,81336098,Social distancing,solid
+2020-07-14,mod_3,20371460,97214332,No intervention,solid
+2020-07-14,mod_4,3029825,55099535,Lockdown with moderate release,solid
+2020-07-15,mod_2,8377309,81639182,Social distancing,solid
+2020-07-15,mod_3,20559602,97237809,No intervention,solid
+2020-07-15,mod_4,3097127,56942279,Lockdown with moderate release,solid
+2020-07-16,mod_2,8498117,81848984,Social distancing,solid
+2020-07-16,mod_3,20744399,97215596,No intervention,solid
+2020-07-16,mod_4,3163702,58749944,Lockdown with moderate release,solid
+2020-07-17,mod_2,8617418,82030739,Social distancing,solid
+2020-07-17,mod_3,20925340,97198404,No intervention,solid
+2020-07-17,mod_4,3229551,60541341,Lockdown with moderate release,solid
+2020-07-18,mod_2,8735335,82254174,Social distancing,solid
+2020-07-18,mod_3,21103168,97153124,No intervention,solid
+2020-07-18,mod_4,3294630,62204059,Lockdown with moderate release,solid
+2020-07-19,mod_2,8851961,82420098,Social distancing,solid
+2020-07-19,mod_3,21277708,97174342,No intervention,solid
+2020-07-19,mod_4,3359091,63730573,Lockdown with moderate release,solid
+2020-07-20,mod_2,8967062,82597053,Social distancing,solid
+2020-07-20,mod_3,21448878,97137464,No intervention,solid
+2020-07-20,mod_4,3422652,65247193,Lockdown with moderate release,solid
+2020-07-21,mod_2,9080509,82806733,Social distancing,solid
+2020-07-21,mod_3,21616831,97098548,No intervention,solid
+2020-07-21,mod_4,3485628,66487134,Lockdown with moderate release,solid
+2020-07-22,mod_2,9192709,82978410,Social distancing,solid
+2020-07-22,mod_3,21781580,97072635,No intervention,solid
+2020-07-22,mod_4,3547630,67747247,Lockdown with moderate release,solid
+2020-07-23,mod_2,9303277,83195624,Social distancing,solid
+2020-07-23,mod_3,21943230,97037955,No intervention,solid
+2020-07-23,mod_4,3608823,69019062,Lockdown with moderate release,solid
+2020-07-24,mod_2,9412388,83319655,Social distancing,solid
+2020-07-24,mod_3,22101483,96978599,No intervention,solid
+2020-07-24,mod_4,3669113,70048826,Lockdown with moderate release,solid
+2020-07-25,mod_2,9519967,83476690,Social distancing,solid
+2020-07-25,mod_3,22257132,96942519,No intervention,solid
+2020-07-25,mod_4,3728668,71186785,Lockdown with moderate release,solid
+2020-07-26,mod_2,9626043,83664140,Social distancing,solid
+2020-07-26,mod_3,22409684,96868449,No intervention,solid
+2020-07-26,mod_4,3787502,71988558,Lockdown with moderate release,solid
+2020-07-27,mod_2,9730749,83792387,Social distancing,solid
+2020-07-27,mod_3,22559526,96854755,No intervention,solid
+2020-07-27,mod_4,3845518,73011580,Lockdown with moderate release,solid
+2020-07-28,mod_2,9834012,83923839,Social distancing,solid
+2020-07-28,mod_3,22706301,96813516,No intervention,solid
+2020-07-28,mod_4,3902654,73881747,Lockdown with moderate release,solid
+2020-07-29,mod_2,9936011,84037471,Social distancing,solid
+2020-07-29,mod_3,22850444,96757857,No intervention,solid
+2020-07-29,mod_4,3958972,74689047,Lockdown with moderate release,solid
+2020-07-30,mod_2,10036565,84086499,Social distancing,solid
+2020-07-30,mod_3,22991795,96711776,No intervention,solid
+2020-07-30,mod_4,4014523,75396083,Lockdown with moderate release,solid
+2020-07-31,mod_2,10135772,84168800,Social distancing,solid
+2020-07-31,mod_3,23130556,96653927,No intervention,solid
+2020-07-31,mod_4,4069237,76116753,Lockdown with moderate release,solid
+2020-08-01,mod_2,10233593,84283763,Social distancing,solid
+2020-08-01,mod_3,23266461,96602842,No intervention,solid
+2020-08-01,mod_4,4123194,76699000,Lockdown with moderate release,solid
+2020-08-02,mod_2,10329904,84344482,Social distancing,solid
+2020-08-02,mod_3,23399986,96539512,No intervention,solid
+2020-08-02,mod_4,4176232,77181403,Lockdown with moderate release,solid
+2020-08-03,mod_2,10425062,84389453,Social distancing,solid
+2020-08-03,mod_3,23530876,96454878,No intervention,solid
+2020-08-03,mod_4,4228533,77685922,Lockdown with moderate release,solid
+2020-08-04,mod_2,10518827,84444303,Social distancing,solid
+2020-08-04,mod_3,23659422,96377853,No intervention,solid
+2020-08-04,mod_4,4280026,78144425,Lockdown with moderate release,solid
+2020-08-05,mod_2,10611214,84551264,Social distancing,solid
+2020-08-05,mod_3,23785433,96295710,No intervention,solid
+2020-08-05,mod_4,4330623,78713691,Lockdown with moderate release,solid
+2020-08-06,mod_2,10702354,84612496,Social distancing,solid
+2020-08-06,mod_3,23908831,96278436,No intervention,solid
+2020-08-06,mod_4,4380554,79058524,Lockdown with moderate release,solid
+2020-08-07,mod_2,10792105,84641642,Social distancing,solid
+2020-08-07,mod_3,24030220,96189383,No intervention,solid
+2020-08-07,mod_4,4429789,79535129,Lockdown with moderate release,solid
+2020-08-08,mod_2,10880548,84686261,Social distancing,solid
+2020-08-08,mod_3,24149188,96130848,No intervention,solid
+2020-08-08,mod_4,4478129,79934847,Lockdown with moderate release,solid
+2020-08-09,mod_2,10967875,84744983,Social distancing,solid
+2020-08-09,mod_3,24265945,96019842,No intervention,solid
+2020-08-09,mod_4,4525601,80404715,Lockdown with moderate release,solid
+2020-08-10,mod_2,11053843,84770774,Social distancing,solid
+2020-08-10,mod_3,24380528,95977472,No intervention,solid
+2020-08-10,mod_4,4572356,80620132,Lockdown with moderate release,solid
+2020-08-11,mod_2,11138475,84833255,Social distancing,solid
+2020-08-11,mod_3,24492783,95947617,No intervention,solid
+2020-08-11,mod_4,4618358,81076691,Lockdown with moderate release,solid
+2020-08-12,mod_2,11221938,84872939,Social distancing,solid
+2020-08-12,mod_3,24602976,95882864,No intervention,solid
+2020-08-12,mod_4,4663703,81401113,Lockdown with moderate release,solid
+2020-08-13,mod_2,11304109,84960708,Social distancing,solid
+2020-08-13,mod_3,24711020,95842798,No intervention,solid
+2020-08-13,mod_4,4708400,81734693,Lockdown with moderate release,solid
+2020-08-14,mod_2,11385002,84998571,Social distancing,solid
+2020-08-14,mod_3,24817323,95783443,No intervention,solid
+2020-08-14,mod_4,4752250,82036987,Lockdown with moderate release,solid
+2020-08-15,mod_2,11464861,84984558,Social distancing,solid
+2020-08-15,mod_3,24921549,95704529,No intervention,solid
+2020-08-15,mod_4,4795462,82252881,Lockdown with moderate release,solid
+2020-08-16,mod_2,11543465,85021914,Social distancing,solid
+2020-08-16,mod_3,25023737,95638900,No intervention,solid
+2020-08-16,mod_4,4837858,82587158,Lockdown with moderate release,solid
+2020-08-17,mod_2,11621165,85019108,Social distancing,solid
+2020-08-17,mod_3,25123841,95530964,No intervention,solid
+2020-08-17,mod_4,4879746,82802289,Lockdown with moderate release,solid
+2020-08-18,mod_2,11697461,85066932,Social distancing,solid
+2020-08-18,mod_3,25222448,95443701,No intervention,solid
+2020-08-18,mod_4,4920791,82963626,Lockdown with moderate release,solid
+2020-08-19,mod_2,11772842,85022443,Social distancing,solid
+2020-08-19,mod_3,25318811,95357835,No intervention,solid
+2020-08-19,mod_4,4961207,83219667,Lockdown with moderate release,solid
+2020-08-20,mod_2,11847016,85034140,Social distancing,solid
+2020-08-20,mod_3,25413251,95317291,No intervention,solid
+2020-08-20,mod_4,5001033,83441440,Lockdown with moderate release,solid
+2020-08-21,mod_2,11920221,85075666,Social distancing,solid
+2020-08-21,mod_3,25506206,95282052,No intervention,solid
+2020-08-21,mod_4,5040223,83602674,Lockdown with moderate release,solid
+2020-08-22,mod_2,11992199,85105873,Social distancing,solid
+2020-08-22,mod_3,25597245,95187277,No intervention,solid
+2020-08-22,mod_4,5078669,83720251,Lockdown with moderate release,solid
+2020-08-23,mod_2,12063039,85116657,Social distancing,solid
+2020-08-23,mod_3,25686540,95132457,No intervention,solid
+2020-08-23,mod_4,5116502,83890114,Lockdown with moderate release,solid
+2020-08-24,mod_2,12132949,85087629,Social distancing,solid
+2020-08-24,mod_3,25773950,95070162,No intervention,solid
+2020-08-24,mod_4,5153706,84034449,Lockdown with moderate release,solid
+2020-08-25,mod_2,12201947,85123293,Social distancing,solid
+2020-08-25,mod_3,25860025,94988465,No intervention,solid
+2020-08-25,mod_4,5190319,84167176,Lockdown with moderate release,solid
+2020-08-26,mod_2,12269756,85097779,Social distancing,solid
+2020-08-26,mod_3,25944516,94920565,No intervention,solid
+2020-08-26,mod_4,5226235,84321203,Lockdown with moderate release,solid
+2020-08-27,mod_2,12336574,85092302,Social distancing,solid
+2020-08-27,mod_3,26027155,94870865,No intervention,solid
+2020-08-27,mod_4,5261505,84362095,Lockdown with moderate release,solid
+2020-08-28,mod_2,12402535,85100476,Social distancing,solid
+2020-08-28,mod_3,26108429,94760510,No intervention,solid
+2020-08-28,mod_4,5296281,84513920,Lockdown with moderate release,solid
+2020-08-29,mod_2,12467379,85144716,Social distancing,solid
+2020-08-29,mod_3,26188342,94699227,No intervention,solid
+2020-08-29,mod_4,5330481,84547544,Lockdown with moderate release,solid
+2020-08-30,mod_2,12531088,85125175,Social distancing,solid
+2020-08-30,mod_3,26266293,94606548,No intervention,solid
+2020-08-30,mod_4,5364054,84611836,Lockdown with moderate release,solid
+2020-08-31,mod_2,12593906,85141997,Social distancing,solid
+2020-08-31,mod_3,26343017,94536638,No intervention,solid
+2020-08-31,mod_4,5397115,84737700,Lockdown with moderate release,solid
+2020-09-01,mod_2,12655824,85135271,Social distancing,solid
+2020-09-01,mod_3,26418345,94470462,No intervention,solid
+2020-09-01,mod_4,5429666,84753682,Lockdown with moderate release,solid
+2020-09-02,mod_2,12716904,85107369,Social distancing,solid
+2020-09-02,mod_3,26492242,94393536,No intervention,solid
+2020-09-02,mod_4,5461680,84799072,Lockdown with moderate release,solid
+2020-09-03,mod_2,12777156,85086964,Social distancing,solid
+2020-09-03,mod_3,26564868,94295503,No intervention,solid
+2020-09-03,mod_4,5493234,84898283,Lockdown with moderate release,solid
+2020-09-04,mod_2,12836261,85113104,Social distancing,solid
+2020-09-04,mod_3,26636192,94260030,No intervention,solid
+2020-09-04,mod_4,5524245,85019675,Lockdown with moderate release,solid
+2020-09-05,mod_2,12894474,85140838,Social distancing,solid
+2020-09-05,mod_3,26706048,94186926,No intervention,solid
+2020-09-05,mod_4,5554628,85040652,Lockdown with moderate release,solid
+2020-09-06,mod_2,12951976,85098183,Social distancing,solid
+2020-09-06,mod_3,26774827,94058720,No intervention,solid
+2020-09-06,mod_4,5584589,85116531,Lockdown with moderate release,solid
+2020-09-07,mod_2,13008571,85106488,Social distancing,solid
+2020-09-07,mod_3,26842232,93984765,No intervention,solid
+2020-09-07,mod_4,5614123,85160387,Lockdown with moderate release,solid
+2020-09-08,mod_2,13064260,85072696,Social distancing,solid
+2020-09-08,mod_3,26908265,93905346,No intervention,solid
+2020-09-08,mod_4,5643014,85210749,Lockdown with moderate release,solid
+2020-09-09,mod_2,13119272,85078874,Social distancing,solid
+2020-09-09,mod_3,26973128,93807826,No intervention,solid
+2020-09-09,mod_4,5671400,85283213,Lockdown with moderate release,solid
+2020-09-10,mod_2,13173405,85043218,Social distancing,solid
+2020-09-10,mod_3,27036839,93748028,No intervention,solid
+2020-09-10,mod_4,5699393,85300740,Lockdown with moderate release,solid
+2020-09-11,mod_2,13226596,85004416,Social distancing,solid
+2020-09-11,mod_3,27099613,93644687,No intervention,solid
+2020-09-11,mod_4,5726757,85313508,Lockdown with moderate release,solid
+2020-09-12,mod_2,13279111,84991597,Social distancing,solid
+2020-09-12,mod_3,27161207,93535821,No intervention,solid
+2020-09-12,mod_4,5753869,85329866,Lockdown with moderate release,solid
+2020-09-13,mod_2,13330996,84950877,Social distancing,solid
+2020-09-13,mod_3,27221674,93489571,No intervention,solid
+2020-09-13,mod_4,5780532,85428468,Lockdown with moderate release,solid
+2020-09-14,mod_2,13381875,84926376,Social distancing,solid
+2020-09-14,mod_3,27281144,93418870,No intervention,solid
+2020-09-14,mod_4,5806633,85487886,Lockdown with moderate release,solid
+2020-09-15,mod_2,13431876,84921575,Social distancing,solid
+2020-09-15,mod_3,27339287,93373785,No intervention,solid
+2020-09-15,mod_4,5832378,85519455,Lockdown with moderate release,solid
+2020-09-16,mod_2,13481094,84890549,Social distancing,solid
+2020-09-16,mod_3,27396431,93277192,No intervention,solid
+2020-09-16,mod_4,5857538,85560901,Lockdown with moderate release,solid
+2020-09-17,mod_2,13529808,84824048,Social distancing,solid
+2020-09-17,mod_3,27452456,93209485,No intervention,solid
+2020-09-17,mod_4,5882292,85554560,Lockdown with moderate release,solid
 2020-09-18,mod_2,NA,NA,Social distancing,solid
 2020-09-18,mod_3,NA,NA,No intervention,solid
 2020-09-18,mod_4,NA,NA,Lockdown with moderate release,solid
@@ -637,3 +635,6 @@ Dates,variable,value,upper_ci,color,type
 2020-10-24,mod_2,NA,NA,Social distancing,solid
 2020-10-24,mod_3,NA,NA,No intervention,solid
 2020-10-24,mod_4,NA,NA,Lockdown with moderate release,solid
+2020-10-25,mod_2,NA,NA,Social distancing,solid
+2020-10-25,mod_3,NA,NA,No intervention,solid
+2020-10-25,mod_4,NA,NA,Lockdown with moderate release,solid

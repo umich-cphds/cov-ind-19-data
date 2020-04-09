@@ -47,821 +47,817 @@ Dates,variable,value,upper_ci,color,type
 2020-04-05,True,506,NA,Observed,solid
 2020-04-06,True,1190,NA,Observed,solid
 2020-04-07,True,533,NA,Observed,solid
-2020-04-08,mod_2,NA,NA,Soc. Dist. + Travel Ban,solid
-2020-04-08,mod_3,NA,NA,No Intervention,solid
-2020-04-08,mod_4,NA,NA,Moderate return,solid
-2020-04-08,mod_5,NA,NA,Normal (pre-intervention),solid
-2020-04-08,mod_6,NA,NA,Cautious return,solid
-2020-04-09,mod_2,439,2643,Soc. Dist. + Travel Ban,solid
-2020-04-09,mod_3,709,3922,No Intervention,solid
-2020-04-09,mod_4,214,1978,Moderate return,solid
-2020-04-09,mod_5,216,1992,Normal (pre-intervention),solid
-2020-04-09,mod_6,221,1869,Cautious return,solid
-2020-04-10,mod_2,464,2705,Soc. Dist. + Travel Ban,solid
-2020-04-10,mod_3,826,4079,No Intervention,solid
-2020-04-10,mod_4,219,1493,Moderate return,solid
-2020-04-10,mod_5,210,1752,Normal (pre-intervention),solid
-2020-04-10,mod_6,217,1688,Cautious return,solid
-2020-04-11,mod_2,503,3336,Soc. Dist. + Travel Ban,solid
-2020-04-11,mod_3,953,5193,No Intervention,solid
-2020-04-11,mod_4,203,1132,Moderate return,solid
-2020-04-11,mod_5,196,1325,Normal (pre-intervention),solid
-2020-04-11,mod_6,203,1799,Cautious return,solid
-2020-04-12,mod_2,536,2577,Soc. Dist. + Travel Ban,solid
-2020-04-12,mod_3,1123,6334,No Intervention,solid
-2020-04-12,mod_4,197,1903,Moderate return,solid
-2020-04-12,mod_5,198,1718,Normal (pre-intervention),solid
-2020-04-12,mod_6,205,1462,Cautious return,solid
-2020-04-13,mod_2,571,3873,Soc. Dist. + Travel Ban,solid
-2020-04-13,mod_3,1320,7040,No Intervention,solid
-2020-04-13,mod_4,194,1785,Moderate return,solid
-2020-04-13,mod_5,191,1590,Normal (pre-intervention),solid
-2020-04-13,mod_6,190,1638,Cautious return,solid
-2020-04-14,mod_2,622,3718,Soc. Dist. + Travel Ban,solid
-2020-04-14,mod_3,1580,10476,No Intervention,solid
-2020-04-14,mod_4,190,1041,Moderate return,solid
-2020-04-14,mod_5,190,1418,Normal (pre-intervention),solid
-2020-04-14,mod_6,187,1496,Cautious return,solid
-2020-04-15,mod_2,686,4529,Soc. Dist. + Travel Ban,solid
-2020-04-15,mod_3,1924,11458,No Intervention,solid
-2020-04-15,mod_4,188,1503,Moderate return,solid
-2020-04-15,mod_5,181,1157,Normal (pre-intervention),solid
-2020-04-15,mod_6,184,1538,Cautious return,solid
-2020-04-16,mod_2,748,5025,Soc. Dist. + Travel Ban,solid
-2020-04-16,mod_3,2378,15609,No Intervention,solid
-2020-04-16,mod_4,176,1623,Moderate return,solid
-2020-04-16,mod_5,180,1448,Normal (pre-intervention),solid
-2020-04-16,mod_6,175,1379,Cautious return,solid
-2020-04-17,mod_2,832,5384,Soc. Dist. + Travel Ban,solid
-2020-04-17,mod_3,2984,18872,No Intervention,solid
-2020-04-17,mod_4,183,1851,Moderate return,solid
-2020-04-17,mod_5,180,1620,Normal (pre-intervention),solid
-2020-04-17,mod_6,185,1206,Cautious return,solid
-2020-04-18,mod_2,928,6931,Soc. Dist. + Travel Ban,solid
-2020-04-18,mod_3,3788,24081,No Intervention,solid
-2020-04-18,mod_4,180,864,Moderate return,solid
-2020-04-18,mod_5,171,1538,Normal (pre-intervention),solid
-2020-04-18,mod_6,179,1496,Cautious return,solid
-2020-04-19,mod_2,1034,6566,Soc. Dist. + Travel Ban,solid
-2020-04-19,mod_3,4917,29687,No Intervention,solid
-2020-04-19,mod_4,171,1644,Moderate return,solid
-2020-04-19,mod_5,169,1697,Normal (pre-intervention),solid
-2020-04-19,mod_6,176,1665,Cautious return,solid
-2020-04-20,mod_2,1183,8427,Soc. Dist. + Travel Ban,solid
-2020-04-20,mod_3,6467,39811,No Intervention,solid
-2020-04-20,mod_4,171,1580,Moderate return,solid
-2020-04-20,mod_5,172,1532,Normal (pre-intervention),solid
-2020-04-20,mod_6,171,1306,Cautious return,solid
-2020-04-21,mod_2,1354,8433,Soc. Dist. + Travel Ban,solid
-2020-04-21,mod_3,8491,50512,No Intervention,solid
-2020-04-21,mod_4,172,1494,Moderate return,solid
-2020-04-21,mod_5,172,1204,Normal (pre-intervention),solid
-2020-04-21,mod_6,168,1889,Cautious return,solid
-2020-04-22,mod_2,1560,11031,Soc. Dist. + Travel Ban,solid
-2020-04-22,mod_3,11250,64628,No Intervention,solid
-2020-04-22,mod_4,164,1823,Moderate return,solid
-2020-04-22,mod_5,163,1918,Normal (pre-intervention),solid
-2020-04-22,mod_6,168,1743,Cautious return,solid
-2020-04-23,mod_2,1829,11462,Soc. Dist. + Travel Ban,solid
-2020-04-23,mod_3,14783,87292,No Intervention,solid
-2020-04-23,mod_4,167,1312,Moderate return,solid
-2020-04-23,mod_5,175,1693,Normal (pre-intervention),solid
-2020-04-23,mod_6,172,929,Cautious return,solid
-2020-04-24,mod_2,2151,13825,Soc. Dist. + Travel Ban,solid
-2020-04-24,mod_3,19243,110819,No Intervention,solid
-2020-04-24,mod_4,190,2000,Moderate return,solid
-2020-04-24,mod_5,196,1257,Normal (pre-intervention),solid
-2020-04-24,mod_6,166,1789,Cautious return,solid
-2020-04-25,mod_2,2550,14789,Soc. Dist. + Travel Ban,solid
-2020-04-25,mod_3,24748,142259,No Intervention,solid
-2020-04-25,mod_4,198,1476,Moderate return,solid
-2020-04-25,mod_5,212,2690,Normal (pre-intervention),solid
-2020-04-25,mod_6,176,1722,Cautious return,solid
-2020-04-26,mod_2,3075,17268,Soc. Dist. + Travel Ban,solid
-2020-04-26,mod_3,31359,179860,No Intervention,solid
-2020-04-26,mod_4,196,1855,Moderate return,solid
-2020-04-26,mod_5,222,1569,Normal (pre-intervention),solid
-2020-04-26,mod_6,187,1947,Cautious return,solid
-2020-04-27,mod_2,3699,19677,Soc. Dist. + Travel Ban,solid
-2020-04-27,mod_3,39050,235552,No Intervention,solid
-2020-04-27,mod_4,207,2196,Moderate return,solid
-2020-04-27,mod_5,246,2923,Normal (pre-intervention),solid
-2020-04-27,mod_6,188,1869,Cautious return,solid
-2020-04-28,mod_2,4436,21921,Soc. Dist. + Travel Ban,solid
-2020-04-28,mod_3,47896,310044,No Intervention,solid
-2020-04-28,mod_4,226,2622,Moderate return,solid
-2020-04-28,mod_5,285,2598,Normal (pre-intervention),solid
-2020-04-28,mod_6,203,2232,Cautious return,solid
-2020-04-29,mod_2,5322,27369,Soc. Dist. + Travel Ban,solid
-2020-04-29,mod_3,57821,385261,No Intervention,solid
-2020-04-29,mod_4,237,2470,Moderate return,solid
-2020-04-29,mod_5,314,2816,Normal (pre-intervention),solid
-2020-04-29,mod_6,207,1491,Cautious return,solid
-2020-04-30,mod_2,6350,28856,Soc. Dist. + Travel Ban,solid
-2020-04-30,mod_3,68785,520258,No Intervention,solid
-2020-04-30,mod_4,267,2035,Moderate return,solid
-2020-04-30,mod_5,359,3696,Normal (pre-intervention),solid
-2020-04-30,mod_6,220,2560,Cautious return,solid
-2020-05-01,mod_2,7601,34339,Soc. Dist. + Travel Ban,solid
-2020-05-01,mod_3,80732,646026,No Intervention,solid
-2020-05-01,mod_4,291,2325,Moderate return,solid
-2020-05-01,mod_5,415,4078,Normal (pre-intervention),solid
-2020-05-01,mod_6,234,2151,Cautious return,solid
-2020-05-02,mod_2,8970,42063,Soc. Dist. + Travel Ban,solid
-2020-05-02,mod_3,93656,821820,No Intervention,solid
-2020-05-02,mod_4,327,3521,Moderate return,solid
-2020-05-02,mod_5,486,3541,Normal (pre-intervention),solid
-2020-05-02,mod_6,241,2086,Cautious return,solid
-2020-05-03,mod_2,10499,46225,Soc. Dist. + Travel Ban,solid
-2020-05-03,mod_3,107204,1028379,No Intervention,solid
-2020-05-03,mod_4,364,3399,Moderate return,solid
-2020-05-03,mod_5,597,5429,Normal (pre-intervention),solid
-2020-05-03,mod_6,259,2384,Cautious return,solid
-2020-05-04,mod_2,12177,51541,Soc. Dist. + Travel Ban,solid
-2020-05-04,mod_3,121265,1267151,No Intervention,solid
-2020-05-04,mod_4,405,3520,Moderate return,solid
-2020-05-04,mod_5,714,5679,Normal (pre-intervention),solid
-2020-05-04,mod_6,290,2877,Cautious return,solid
-2020-05-05,mod_2,13989,61668,Soc. Dist. + Travel Ban,solid
-2020-05-05,mod_3,135770,1575623,No Intervention,solid
-2020-05-05,mod_4,462,3706,Moderate return,solid
-2020-05-05,mod_5,915,6839,Normal (pre-intervention),solid
-2020-05-05,mod_6,306,2962,Cautious return,solid
-2020-05-06,mod_2,15868,69481,Soc. Dist. + Travel Ban,solid
-2020-05-06,mod_3,150475,1916465,No Intervention,solid
-2020-05-06,mod_4,543,4118,Moderate return,solid
-2020-05-06,mod_5,1146,7442,Normal (pre-intervention),solid
-2020-05-06,mod_6,343,2754,Cautious return,solid
-2020-05-07,mod_2,17905,78041,Soc. Dist. + Travel Ban,solid
-2020-05-07,mod_3,165289,2186465,No Intervention,solid
-2020-05-07,mod_4,642,5317,Moderate return,solid
-2020-05-07,mod_5,1508,9874,Normal (pre-intervention),solid
-2020-05-07,mod_6,369,3018,Cautious return,solid
-2020-05-08,mod_2,20023,90984,Soc. Dist. + Travel Ban,solid
-2020-05-08,mod_3,179957,2602956,No Intervention,solid
-2020-05-08,mod_4,757,5580,Moderate return,solid
-2020-05-08,mod_5,2002,10368,Normal (pre-intervention),solid
-2020-05-08,mod_6,411,3767,Cautious return,solid
-2020-05-09,mod_2,22246,110071,Soc. Dist. + Travel Ban,solid
-2020-05-09,mod_3,194325,2833291,No Intervention,solid
-2020-05-09,mod_4,918,5932,Moderate return,solid
-2020-05-09,mod_5,2710,14628,Normal (pre-intervention),solid
-2020-05-09,mod_6,466,3775,Cautious return,solid
-2020-05-10,mod_2,24516,122957,Soc. Dist. + Travel Ban,solid
-2020-05-10,mod_3,208328,3004036,No Intervention,solid
-2020-05-10,mod_4,1119,7381,Moderate return,solid
-2020-05-10,mod_5,3729,15857,Normal (pre-intervention),solid
-2020-05-10,mod_6,528,3904,Cautious return,solid
-2020-05-11,mod_2,26950,146487,Soc. Dist. + Travel Ban,solid
-2020-05-11,mod_3,221817,3352396,No Intervention,solid
-2020-05-11,mod_4,1376,6922,Moderate return,solid
-2020-05-11,mod_5,5228,20496,Normal (pre-intervention),solid
-2020-05-11,mod_6,604,4458,Cautious return,solid
-2020-05-12,mod_2,29393,159351,Soc. Dist. + Travel Ban,solid
-2020-05-12,mod_3,234700,3610912,No Intervention,solid
-2020-05-12,mod_4,1713,9835,Moderate return,solid
-2020-05-12,mod_5,7342,25177,Normal (pre-intervention),solid
-2020-05-12,mod_6,686,3667,Cautious return,solid
-2020-05-13,mod_2,31876,177691,Soc. Dist. + Travel Ban,solid
-2020-05-13,mod_3,246944,3807431,No Intervention,solid
-2020-05-13,mod_4,2145,9689,Moderate return,solid
-2020-05-13,mod_5,10192,31559,Normal (pre-intervention),solid
-2020-05-13,mod_6,798,5733,Cautious return,solid
-2020-05-14,mod_2,34514,224934,Soc. Dist. + Travel Ban,solid
-2020-05-14,mod_3,258321,3881795,No Intervention,solid
-2020-05-14,mod_4,2632,10876,Moderate return,solid
-2020-05-14,mod_5,13462,36732,Normal (pre-intervention),solid
-2020-05-14,mod_6,911,5761,Cautious return,solid
-2020-05-15,mod_2,37115,251385,Soc. Dist. + Travel Ban,solid
-2020-05-15,mod_3,268992,4079552,No Intervention,solid
-2020-05-15,mod_4,3216,13884,Moderate return,solid
-2020-05-15,mod_5,17221,52713,Normal (pre-intervention),solid
-2020-05-15,mod_6,1053,5259,Cautious return,solid
-2020-05-16,mod_2,39786,268339,Soc. Dist. + Travel Ban,solid
-2020-05-16,mod_3,278783,4165691,No Intervention,solid
-2020-05-16,mod_4,3889,12449,Moderate return,solid
-2020-05-16,mod_5,21422,58741,Normal (pre-intervention),solid
-2020-05-16,mod_6,1197,5604,Cautious return,solid
-2020-05-17,mod_2,42494,332098,Soc. Dist. + Travel Ban,solid
-2020-05-17,mod_3,287803,4012356,No Intervention,solid
-2020-05-17,mod_4,4667,17148,Moderate return,solid
-2020-05-17,mod_5,25917,76867,Normal (pre-intervention),solid
-2020-05-17,mod_6,1369,6157,Cautious return,solid
-2020-05-18,mod_2,45225,361523,Soc. Dist. + Travel Ban,solid
-2020-05-18,mod_3,296084,3969945,No Intervention,solid
-2020-05-18,mod_4,5582,17087,Moderate return,solid
-2020-05-18,mod_5,30661,95483,Normal (pre-intervention),solid
-2020-05-18,mod_6,1553,5518,Cautious return,solid
-2020-05-19,mod_2,47957,407219,Soc. Dist. + Travel Ban,solid
-2020-05-19,mod_3,303479,3730545,No Intervention,solid
-2020-05-19,mod_4,6614,21099,Moderate return,solid
-2020-05-19,mod_5,35742,114843,Normal (pre-intervention),solid
-2020-05-19,mod_6,1775,8170,Cautious return,solid
-2020-05-20,mod_2,50574,472369,Soc. Dist. + Travel Ban,solid
-2020-05-20,mod_3,310152,3499292,No Intervention,solid
-2020-05-20,mod_4,7775,23228,Moderate return,solid
-2020-05-20,mod_5,41015,141504,Normal (pre-intervention),solid
-2020-05-20,mod_6,2031,6446,Cautious return,solid
-2020-05-21,mod_2,53247,536771,Soc. Dist. + Travel Ban,solid
-2020-05-21,mod_3,315926,3423771,No Intervention,solid
-2020-05-21,mod_4,9065,25434,Moderate return,solid
-2020-05-21,mod_5,46587,183968,Normal (pre-intervention),solid
-2020-05-21,mod_6,2323,8709,Cautious return,solid
-2020-05-22,mod_2,55894,593467,Soc. Dist. + Travel Ban,solid
-2020-05-22,mod_3,321089,3103332,No Intervention,solid
-2020-05-22,mod_4,10473,30930,Moderate return,solid
-2020-05-22,mod_5,52497,212042,Normal (pre-intervention),solid
-2020-05-22,mod_6,2631,9020,Cautious return,solid
-2020-05-23,mod_2,58445,637953,Soc. Dist. + Travel Ban,solid
-2020-05-23,mod_3,325516,2879211,No Intervention,solid
-2020-05-23,mod_4,11943,31361,Moderate return,solid
-2020-05-23,mod_5,58537,275517,Normal (pre-intervention),solid
-2020-05-23,mod_6,2968,7575,Cautious return,solid
-2020-05-24,mod_2,60916,744112,Soc. Dist. + Travel Ban,solid
-2020-05-24,mod_3,329346,2624490,No Intervention,solid
-2020-05-24,mod_4,13501,38618,Moderate return,solid
-2020-05-24,mod_5,64640,334975,Normal (pre-intervention),solid
-2020-05-24,mod_6,3335,11234,Cautious return,solid
-2020-05-25,mod_2,63376,773407,Soc. Dist. + Travel Ban,solid
-2020-05-25,mod_3,332504,2244515,No Intervention,solid
-2020-05-25,mod_4,15159,41101,Moderate return,solid
-2020-05-25,mod_5,70687,422369,Normal (pre-intervention),solid
-2020-05-25,mod_6,3755,10442,Cautious return,solid
-2020-05-26,mod_2,65748,859082,Soc. Dist. + Travel Ban,solid
-2020-05-26,mod_3,334956,2259365,No Intervention,solid
-2020-05-26,mod_4,16868,49755,Moderate return,solid
-2020-05-26,mod_5,76651,512355,Normal (pre-intervention),solid
-2020-05-26,mod_6,4207,9742,Cautious return,solid
-2020-05-27,mod_2,68020,955550,Soc. Dist. + Travel Ban,solid
-2020-05-27,mod_3,337088,1869659,No Intervention,solid
-2020-05-27,mod_4,18586,52795,Moderate return,solid
-2020-05-27,mod_5,82250,640935,Normal (pre-intervention),solid
-2020-05-27,mod_6,4696,12226,Cautious return,solid
-2020-05-28,mod_2,70225,998151,Soc. Dist. + Travel Ban,solid
-2020-05-28,mod_3,338328,1732878,No Intervention,solid
-2020-05-28,mod_4,20437,59972,Moderate return,solid
-2020-05-28,mod_5,87493,767292,Normal (pre-intervention),solid
-2020-05-28,mod_6,5189,14671,Cautious return,solid
-2020-05-29,mod_2,72439,1131143,Soc. Dist. + Travel Ban,solid
-2020-05-29,mod_3,339415,1565862,No Intervention,solid
-2020-05-29,mod_4,22234,75342,Moderate return,solid
-2020-05-29,mod_5,92455,960172,Normal (pre-intervention),solid
-2020-05-29,mod_6,5764,11920,Cautious return,solid
-2020-05-30,mod_2,74369,1139363,Soc. Dist. + Travel Ban,solid
-2020-05-30,mod_3,339942,1508739,No Intervention,solid
-2020-05-30,mod_4,24136,78761,Moderate return,solid
-2020-05-30,mod_5,96958,1103046,Normal (pre-intervention),solid
-2020-05-30,mod_6,6314,15659,Cautious return,solid
-2020-05-31,mod_2,76323,1255914,Soc. Dist. + Travel Ban,solid
-2020-05-31,mod_3,339744,1198972,No Intervention,solid
-2020-05-31,mod_4,26082,93089,Moderate return,solid
-2020-05-31,mod_5,101269,1321541,Normal (pre-intervention),solid
-2020-05-31,mod_6,6939,15567,Cautious return,solid
-2020-06-01,mod_2,78267,1388816,Soc. Dist. + Travel Ban,solid
-2020-06-01,mod_3,339240,1149250,No Intervention,solid
-2020-06-01,mod_4,27953,97147,Moderate return,solid
-2020-06-01,mod_5,105017,1466419,Normal (pre-intervention),solid
-2020-06-01,mod_6,7538,19047,Cautious return,solid
-2020-06-02,mod_2,80019,1371179,Soc. Dist. + Travel Ban,solid
-2020-06-02,mod_3,338600,1022463,No Intervention,solid
-2020-06-02,mod_4,29859,120670,Moderate return,solid
-2020-06-02,mod_5,108547,1732356,Normal (pre-intervention),solid
-2020-06-02,mod_6,8142,15008,Cautious return,solid
-2020-06-03,mod_2,81808,1538532,Soc. Dist. + Travel Ban,solid
-2020-06-03,mod_3,337284,968925,No Intervention,solid
-2020-06-03,mod_4,31721,125644,Moderate return,solid
-2020-06-03,mod_5,111837,1871755,Normal (pre-intervention),solid
-2020-06-03,mod_6,8740,19772,Cautious return,solid
-2020-06-04,mod_2,83359,1563036,Soc. Dist. + Travel Ban,solid
-2020-06-04,mod_3,335859,780745,No Intervention,solid
-2020-06-04,mod_4,33538,155773,Moderate return,solid
-2020-06-04,mod_5,114677,2095871,Normal (pre-intervention),solid
-2020-06-04,mod_6,9382,21355,Cautious return,solid
-2020-06-05,mod_2,84850,1574848,Soc. Dist. + Travel Ban,solid
-2020-06-05,mod_3,333971,827686,No Intervention,solid
-2020-06-05,mod_4,35311,164183,Moderate return,solid
-2020-06-05,mod_5,117276,2237096,Normal (pre-intervention),solid
-2020-06-05,mod_6,10018,20543,Cautious return,solid
-2020-06-06,mod_2,86403,1704168,Soc. Dist. + Travel Ban,solid
-2020-06-06,mod_3,331696,769269,No Intervention,solid
-2020-06-06,mod_4,37074,192373,Moderate return,solid
-2020-06-06,mod_5,119474,2473320,Normal (pre-intervention),solid
-2020-06-06,mod_6,10661,25239,Cautious return,solid
-2020-06-07,mod_2,87721,1724152,Soc. Dist. + Travel Ban,solid
-2020-06-07,mod_3,329404,616518,No Intervention,solid
-2020-06-07,mod_4,38783,205519,Moderate return,solid
-2020-06-07,mod_5,121431,2609471,Normal (pre-intervention),solid
-2020-06-07,mod_6,11301,27649,Cautious return,solid
-2020-06-08,mod_2,88949,1801332,Soc. Dist. + Travel Ban,solid
-2020-06-08,mod_3,326653,559813,No Intervention,solid
-2020-06-08,mod_4,40395,237128,Moderate return,solid
-2020-06-08,mod_5,122930,2802439,Normal (pre-intervention),solid
-2020-06-08,mod_6,11963,27492,Cautious return,solid
-2020-06-09,mod_2,90200,1806715,Soc. Dist. + Travel Ban,solid
-2020-06-09,mod_3,323961,565043,No Intervention,solid
-2020-06-09,mod_4,42059,266239,Moderate return,solid
-2020-06-09,mod_5,124188,3015664,Normal (pre-intervention),solid
-2020-06-09,mod_6,12624,24915,Cautious return,solid
-2020-06-10,mod_2,91198,1920220,Soc. Dist. + Travel Ban,solid
-2020-06-10,mod_3,320688,392100,No Intervention,solid
-2020-06-10,mod_4,43502,306534,Moderate return,solid
-2020-06-10,mod_5,125085,3019497,Normal (pre-intervention),solid
-2020-06-10,mod_6,13252,32218,Cautious return,solid
-2020-06-11,mod_2,92408,1859314,Soc. Dist. + Travel Ban,solid
-2020-06-11,mod_3,317555,452468,No Intervention,solid
-2020-06-11,mod_4,44934,318886,Moderate return,solid
-2020-06-11,mod_5,125670,3214835,Normal (pre-intervention),solid
-2020-06-11,mod_6,13853,35583,Cautious return,solid
-2020-06-12,mod_2,93256,1973345,Soc. Dist. + Travel Ban,solid
-2020-06-12,mod_3,313913,450286,No Intervention,solid
-2020-06-12,mod_4,46348,388432,Moderate return,solid
-2020-06-12,mod_5,126020,3146735,Normal (pre-intervention),solid
-2020-06-12,mod_6,14468,35650,Cautious return,solid
-2020-06-13,mod_2,94214,1827549,Soc. Dist. + Travel Ban,solid
-2020-06-13,mod_3,310628,388464,No Intervention,solid
-2020-06-13,mod_4,47667,386195,Moderate return,solid
-2020-06-13,mod_5,126233,3402701,Normal (pre-intervention),solid
-2020-06-13,mod_6,15119,46676,Cautious return,solid
-2020-06-14,mod_2,94959,1906970,Soc. Dist. + Travel Ban,solid
-2020-06-14,mod_3,306951,381092,No Intervention,solid
-2020-06-14,mod_4,48782,456313,Moderate return,solid
-2020-06-14,mod_5,126064,3463703,Normal (pre-intervention),solid
-2020-06-14,mod_6,15711,39614,Cautious return,solid
-2020-06-15,mod_2,95790,1794948,Soc. Dist. + Travel Ban,solid
-2020-06-15,mod_3,303126,306721,No Intervention,solid
-2020-06-15,mod_4,49949,508821,Moderate return,solid
-2020-06-15,mod_5,125674,3430369,Normal (pre-intervention),solid
-2020-06-15,mod_6,16298,40750,Cautious return,solid
-2020-06-16,mod_2,96341,1852065,Soc. Dist. + Travel Ban,solid
-2020-06-16,mod_3,299221,253331,No Intervention,solid
-2020-06-16,mod_4,50997,536804,Moderate return,solid
-2020-06-16,mod_5,125221,3364305,Normal (pre-intervention),solid
-2020-06-16,mod_6,16840,53843,Cautious return,solid
-2020-06-17,mod_2,96775,1878975,Soc. Dist. + Travel Ban,solid
-2020-06-17,mod_3,295388,273504,No Intervention,solid
-2020-06-17,mod_4,52004,606977,Moderate return,solid
-2020-06-17,mod_5,124538,3204336,Normal (pre-intervention),solid
-2020-06-17,mod_6,17423,45567,Cautious return,solid
-2020-06-18,mod_2,97283,1520917,Soc. Dist. + Travel Ban,solid
-2020-06-18,mod_3,291292,260588,No Intervention,solid
-2020-06-18,mod_4,52874,695342,Moderate return,solid
-2020-06-18,mod_5,123657,3207564,Normal (pre-intervention),solid
-2020-06-18,mod_6,17983,61013,Cautious return,solid
-2020-06-19,mod_2,97714,1653480,Soc. Dist. + Travel Ban,solid
-2020-06-19,mod_3,287334,247799,No Intervention,solid
-2020-06-19,mod_4,53673,659416,Moderate return,solid
-2020-06-19,mod_5,122654,3038737,Normal (pre-intervention),solid
-2020-06-19,mod_6,18471,55038,Cautious return,solid
-2020-06-20,mod_2,98032,1477421,Soc. Dist. + Travel Ban,solid
-2020-06-20,mod_3,283516,133612,No Intervention,solid
-2020-06-20,mod_4,54341,791935,Moderate return,solid
-2020-06-20,mod_5,121609,2830453,Normal (pre-intervention),solid
-2020-06-20,mod_6,19046,72814,Cautious return,solid
-2020-06-21,mod_2,98245,1517991,Soc. Dist. + Travel Ban,solid
-2020-06-21,mod_3,279288,219312,No Intervention,solid
-2020-06-21,mod_4,55025,773814,Moderate return,solid
-2020-06-21,mod_5,120307,2671251,Normal (pre-intervention),solid
-2020-06-21,mod_6,19535,59082,Cautious return,solid
-2020-06-22,mod_2,98586,1338671,Soc. Dist. + Travel Ban,solid
-2020-06-22,mod_3,275230,185824,No Intervention,solid
-2020-06-22,mod_4,55592,918108,Moderate return,solid
-2020-06-22,mod_5,119051,2477133,Normal (pre-intervention),solid
-2020-06-22,mod_6,20008,77582,Cautious return,solid
-2020-06-23,mod_2,98791,1431957,Soc. Dist. + Travel Ban,solid
-2020-06-23,mod_3,270972,228112,No Intervention,solid
-2020-06-23,mod_4,56010,926430,Moderate return,solid
-2020-06-23,mod_5,117708,2315647,Normal (pre-intervention),solid
-2020-06-23,mod_6,20481,73379,Cautious return,solid
-2020-06-24,mod_2,98681,1209318,Soc. Dist. + Travel Ban,solid
-2020-06-24,mod_3,266948,167367,No Intervention,solid
-2020-06-24,mod_4,56464,1022184,Moderate return,solid
-2020-06-24,mod_5,116204,2190667,Normal (pre-intervention),solid
-2020-06-24,mod_6,20920,80597,Cautious return,solid
-2020-06-25,mod_2,98846,1094884,Soc. Dist. + Travel Ban,solid
-2020-06-25,mod_3,262886,116311,No Intervention,solid
-2020-06-25,mod_4,56770,1041154,Moderate return,solid
-2020-06-25,mod_5,114876,1876588,Normal (pre-intervention),solid
-2020-06-25,mod_6,21395,98160,Cautious return,solid
-2020-06-26,mod_2,98701,1088815,Soc. Dist. + Travel Ban,solid
-2020-06-26,mod_3,258642,93564,No Intervention,solid
-2020-06-26,mod_4,57045,1127082,Moderate return,solid
-2020-06-26,mod_5,113291,1986642,Normal (pre-intervention),solid
-2020-06-26,mod_6,21739,83855,Cautious return,solid
-2020-06-27,mod_2,98561,1054109,Soc. Dist. + Travel Ban,solid
-2020-06-27,mod_3,254266,111680,No Intervention,solid
-2020-06-27,mod_4,57243,1173643,Moderate return,solid
-2020-06-27,mod_5,111561,1694304,Normal (pre-intervention),solid
-2020-06-27,mod_6,22085,104853,Cautious return,solid
-2020-06-28,mod_2,98504,932532,Soc. Dist. + Travel Ban,solid
-2020-06-28,mod_3,250407,140563,No Intervention,solid
-2020-06-28,mod_4,57478,1240400,Moderate return,solid
-2020-06-28,mod_5,110131,1635078,Normal (pre-intervention),solid
-2020-06-28,mod_6,22482,112516,Cautious return,solid
-2020-06-29,mod_2,98271,892610,Soc. Dist. + Travel Ban,solid
-2020-06-29,mod_3,246043,100465,No Intervention,solid
-2020-06-29,mod_4,57518,1251720,Moderate return,solid
-2020-06-29,mod_5,108495,1275057,Normal (pre-intervention),solid
-2020-06-29,mod_6,22857,104954,Cautious return,solid
-2020-06-30,mod_2,97969,927856,Soc. Dist. + Travel Ban,solid
-2020-06-30,mod_3,242181,70932,No Intervention,solid
-2020-06-30,mod_4,57521,1387577,Moderate return,solid
-2020-06-30,mod_5,106809,1174301,Normal (pre-intervention),solid
-2020-06-30,mod_6,23113,127298,Cautious return,solid
-2020-07-01,mod_2,97758,704548,Soc. Dist. + Travel Ban,solid
-2020-07-01,mod_3,238024,59876,No Intervention,solid
-2020-07-01,mod_4,57589,1376848,Moderate return,solid
-2020-07-01,mod_5,105167,1141478,Normal (pre-intervention),solid
-2020-07-01,mod_6,23476,135309,Cautious return,solid
-2020-07-02,mod_2,97399,763750,Soc. Dist. + Travel Ban,solid
-2020-07-02,mod_3,233742,60875,No Intervention,solid
-2020-07-02,mod_4,57417,1530683,Moderate return,solid
-2020-07-02,mod_5,103537,985731,Normal (pre-intervention),solid
-2020-07-02,mod_6,23699,140317,Cautious return,solid
-2020-07-03,mod_2,97095,727437,Soc. Dist. + Travel Ban,solid
-2020-07-03,mod_3,229748,98604,No Intervention,solid
-2020-07-03,mod_4,57416,1495872,Moderate return,solid
-2020-07-03,mod_5,101819,1005198,Normal (pre-intervention),solid
-2020-07-03,mod_6,23943,141376,Cautious return,solid
-2020-07-04,mod_2,96682,751345,Soc. Dist. + Travel Ban,solid
-2020-07-04,mod_3,225634,43127,No Intervention,solid
-2020-07-04,mod_4,57302,1566376,Moderate return,solid
-2020-07-04,mod_5,100100,848515,Normal (pre-intervention),solid
-2020-07-04,mod_6,24241,161126,Cautious return,solid
-2020-07-05,mod_2,96140,578530,Soc. Dist. + Travel Ban,solid
-2020-07-05,mod_3,221702,42145,No Intervention,solid
-2020-07-05,mod_4,57221,1608095,Moderate return,solid
-2020-07-05,mod_5,98329,679948,Normal (pre-intervention),solid
-2020-07-05,mod_6,24439,178632,Cautious return,solid
-2020-07-06,mod_2,95748,604731,Soc. Dist. + Travel Ban,solid
-2020-07-06,mod_3,217692,79714,No Intervention,solid
-2020-07-06,mod_4,57036,1717435,Moderate return,solid
-2020-07-06,mod_5,96579,643608,Normal (pre-intervention),solid
-2020-07-06,mod_6,24550,170414,Cautious return,solid
-2020-07-07,mod_2,95370,616999,Soc. Dist. + Travel Ban,solid
-2020-07-07,mod_3,213931,12647,No Intervention,solid
-2020-07-07,mod_4,56748,1671744,Moderate return,solid
-2020-07-07,mod_5,94849,700801,Normal (pre-intervention),solid
-2020-07-07,mod_6,24779,187181,Cautious return,solid
-2020-07-08,mod_2,94798,504790,Soc. Dist. + Travel Ban,solid
-2020-07-08,mod_3,210054,28375,No Intervention,solid
-2020-07-08,mod_4,56514,1776597,Moderate return,solid
-2020-07-08,mod_5,93144,474090,Normal (pre-intervention),solid
-2020-07-08,mod_6,24956,172430,Cautious return,solid
-2020-07-09,mod_2,94087,527001,Soc. Dist. + Travel Ban,solid
-2020-07-09,mod_3,206324,43832,No Intervention,solid
-2020-07-09,mod_4,56328,1899497,Moderate return,solid
-2020-07-09,mod_5,91516,534941,Normal (pre-intervention),solid
-2020-07-09,mod_6,25001,226194,Cautious return,solid
-2020-07-10,mod_2,93664,477616,Soc. Dist. + Travel Ban,solid
-2020-07-10,mod_3,202366,33865,No Intervention,solid
-2020-07-10,mod_4,55969,1879706,Moderate return,solid
-2020-07-10,mod_5,89759,543600,Normal (pre-intervention),solid
-2020-07-10,mod_6,25154,197082,Cautious return,solid
-2020-07-11,mod_2,93061,412234,Soc. Dist. + Travel Ban,solid
-2020-07-11,mod_3,198624,-5961,No Intervention,solid
-2020-07-11,mod_4,55660,1794218,Moderate return,solid
-2020-07-11,mod_5,88095,374821,Normal (pre-intervention),solid
-2020-07-11,mod_6,25298,263920,Cautious return,solid
-2020-07-12,mod_2,92517,487615,Soc. Dist. + Travel Ban,solid
-2020-07-12,mod_3,194838,33788,No Intervention,solid
-2020-07-12,mod_4,55358,1691484,Moderate return,solid
-2020-07-12,mod_5,86522,218334,Normal (pre-intervention),solid
-2020-07-12,mod_6,25402,196605,Cautious return,solid
-2020-07-13,mod_2,91889,446129,Soc. Dist. + Travel Ban,solid
-2020-07-13,mod_3,191375,-14162,No Intervention,solid
-2020-07-13,mod_4,55018,1722084,Moderate return,solid
-2020-07-13,mod_5,84976,329793,Normal (pre-intervention),solid
-2020-07-13,mod_6,25453,270119,Cautious return,solid
-2020-07-14,mod_2,91191,398548,Soc. Dist. + Travel Ban,solid
-2020-07-14,mod_3,187814,-32745,No Intervention,solid
-2020-07-14,mod_4,54575,1844551,Moderate return,solid
-2020-07-14,mod_5,83298,334054,Normal (pre-intervention),solid
-2020-07-14,mod_6,25499,291611,Cautious return,solid
-2020-07-15,mod_2,90521,453880,Soc. Dist. + Travel Ban,solid
-2020-07-15,mod_3,184180,18443,No Intervention,solid
-2020-07-15,mod_4,54172,1799292,Moderate return,solid
-2020-07-15,mod_5,81703,227453,Normal (pre-intervention),solid
-2020-07-15,mod_6,25503,250306,Cautious return,solid
-2020-07-16,mod_2,89742,343738,Soc. Dist. + Travel Ban,solid
-2020-07-16,mod_3,180724,-6384,No Intervention,solid
-2020-07-16,mod_4,53684,1709358,Moderate return,solid
-2020-07-16,mod_5,80204,290167,Normal (pre-intervention),solid
-2020-07-16,mod_6,25553,295660,Cautious return,solid
-2020-07-17,mod_2,89025,322870,Soc. Dist. + Travel Ban,solid
-2020-07-17,mod_3,177292,-27305,No Intervention,solid
-2020-07-17,mod_4,53344,1571530,Moderate return,solid
-2020-07-17,mod_5,78773,254030,Normal (pre-intervention),solid
-2020-07-17,mod_6,25605,358818,Cautious return,solid
-2020-07-18,mod_2,88377,352553,Soc. Dist. + Travel Ban,solid
-2020-07-18,mod_3,173832,-65985,No Intervention,solid
-2020-07-18,mod_4,52865,1800957,Moderate return,solid
-2020-07-18,mod_5,77209,114906,Normal (pre-intervention),solid
-2020-07-18,mod_6,25595,271172,Cautious return,solid
-2020-07-19,mod_2,87513,231806,Soc. Dist. + Travel Ban,solid
-2020-07-19,mod_3,170666,31387,No Intervention,solid
-2020-07-19,mod_4,52349,1512857,Moderate return,solid
-2020-07-19,mod_5,75916,249133,Normal (pre-intervention),solid
-2020-07-19,mod_6,25559,356653,Cautious return,solid
-2020-07-20,mod_2,86783,310928,Soc. Dist. + Travel Ban,solid
-2020-07-20,mod_3,167217,-49223,No Intervention,solid
-2020-07-20,mod_4,51915,1568894,Moderate return,solid
-2020-07-20,mod_5,74560,102593,Normal (pre-intervention),solid
-2020-07-20,mod_6,25604,327144,Cautious return,solid
-2020-07-21,mod_2,86186,201444,Soc. Dist. + Travel Ban,solid
-2020-07-21,mod_3,163918,-12590,No Intervention,solid
-2020-07-21,mod_4,51483,1421369,Moderate return,solid
-2020-07-21,mod_5,73184,207031,Normal (pre-intervention),solid
-2020-07-21,mod_6,25606,395777,Cautious return,solid
-2020-07-22,mod_2,85362,273898,Soc. Dist. + Travel Ban,solid
-2020-07-22,mod_3,160861,-70485,No Intervention,solid
-2020-07-22,mod_4,51003,1314819,Moderate return,solid
-2020-07-22,mod_5,71711,99041,Normal (pre-intervention),solid
-2020-07-22,mod_6,25572,360979,Cautious return,solid
-2020-07-23,mod_2,84656,271050,Soc. Dist. + Travel Ban,solid
-2020-07-23,mod_3,157795,-17242,No Intervention,solid
-2020-07-23,mod_4,50509,1266373,Moderate return,solid
-2020-07-23,mod_5,70495,119008,Normal (pre-intervention),solid
-2020-07-23,mod_6,25549,389130,Cautious return,solid
-2020-07-24,mod_2,83998,230774,Soc. Dist. + Travel Ban,solid
-2020-07-24,mod_3,154823,-32924,No Intervention,solid
-2020-07-24,mod_4,49920,1269731,Moderate return,solid
-2020-07-24,mod_5,69071,87252,Normal (pre-intervention),solid
-2020-07-24,mod_6,25468,416115,Cautious return,solid
-2020-07-25,mod_2,83175,238422,Soc. Dist. + Travel Ban,solid
-2020-07-25,mod_3,151645,20844,No Intervention,solid
-2020-07-25,mod_4,49409,1116113,Moderate return,solid
-2020-07-25,mod_5,67822,35115,Normal (pre-intervention),solid
-2020-07-25,mod_6,25431,434529,Cautious return,solid
-2020-07-26,mod_2,82445,204990,Soc. Dist. + Travel Ban,solid
-2020-07-26,mod_3,148784,-116568,No Intervention,solid
-2020-07-26,mod_4,48827,1178604,Moderate return,solid
-2020-07-26,mod_5,66680,59789,Normal (pre-intervention),solid
-2020-07-26,mod_6,25345,427884,Cautious return,solid
-2020-07-27,mod_2,81562,203777,Soc. Dist. + Travel Ban,solid
-2020-07-27,mod_3,146154,-74788,No Intervention,solid
-2020-07-27,mod_4,48363,1031204,Moderate return,solid
-2020-07-27,mod_5,65378,35658,Normal (pre-intervention),solid
-2020-07-27,mod_6,25390,488232,Cautious return,solid
-2020-07-28,mod_2,80833,229594,Soc. Dist. + Travel Ban,solid
-2020-07-28,mod_3,143203,-39756,No Intervention,solid
-2020-07-28,mod_4,47874,944694,Moderate return,solid
-2020-07-28,mod_5,64060,30242,Normal (pre-intervention),solid
-2020-07-28,mod_6,25283,475858,Cautious return,solid
-2020-07-29,mod_2,79950,162250,Soc. Dist. + Travel Ban,solid
-2020-07-29,mod_3,140480,-44329,No Intervention,solid
-2020-07-29,mod_4,47259,847312,Moderate return,solid
-2020-07-29,mod_5,62896,-14966,Normal (pre-intervention),solid
-2020-07-29,mod_6,25176,490806,Cautious return,solid
-2020-07-30,mod_2,79195,165711,Soc. Dist. + Travel Ban,solid
-2020-07-30,mod_3,137592,-34372,No Intervention,solid
-2020-07-30,mod_4,46736,813290,Moderate return,solid
-2020-07-30,mod_5,61634,96738,Normal (pre-intervention),solid
-2020-07-30,mod_6,25110,483198,Cautious return,solid
-2020-07-31,mod_2,78630,129621,Soc. Dist. + Travel Ban,solid
-2020-07-31,mod_3,134931,-138155,No Intervention,solid
-2020-07-31,mod_4,46228,755694,Moderate return,solid
-2020-07-31,mod_5,60616,56854,Normal (pre-intervention),solid
-2020-07-31,mod_6,25023,511403,Cautious return,solid
-2020-08-01,mod_2,77670,145107,Soc. Dist. + Travel Ban,solid
-2020-08-01,mod_3,132589,-32418,No Intervention,solid
-2020-08-01,mod_4,45750,855789,Moderate return,solid
-2020-08-01,mod_5,59573,-13103,Normal (pre-intervention),solid
-2020-08-01,mod_6,24916,615475,Cautious return,solid
-2020-08-02,mod_2,76865,157910,Soc. Dist. + Travel Ban,solid
-2020-08-02,mod_3,129988,-64980,No Intervention,solid
-2020-08-02,mod_4,45272,745125,Moderate return,solid
-2020-08-02,mod_5,58294,31634,Normal (pre-intervention),solid
-2020-08-02,mod_6,24890,551141,Cautious return,solid
-2020-08-03,mod_2,76187,156845,Soc. Dist. + Travel Ban,solid
-2020-08-03,mod_3,127390,-69883,No Intervention,solid
-2020-08-03,mod_4,44769,781418,Moderate return,solid
-2020-08-03,mod_5,57214,7224,Normal (pre-intervention),solid
-2020-08-03,mod_6,24688,625328,Cautious return,solid
-2020-08-04,mod_2,75355,93404,Soc. Dist. + Travel Ban,solid
-2020-08-04,mod_3,124909,-21493,No Intervention,solid
-2020-08-04,mod_4,44191,626026,Moderate return,solid
-2020-08-04,mod_5,56202,43029,Normal (pre-intervention),solid
-2020-08-04,mod_6,24579,640351,Cautious return,solid
-2020-08-05,mod_2,74571,190583,Soc. Dist. + Travel Ban,solid
-2020-08-05,mod_3,122709,-97258,No Intervention,solid
-2020-08-05,mod_4,43533,633669,Moderate return,solid
-2020-08-05,mod_5,55103,376,Normal (pre-intervention),solid
-2020-08-05,mod_6,24468,688403,Cautious return,solid
-2020-08-06,mod_2,73827,131102,Soc. Dist. + Travel Ban,solid
-2020-08-06,mod_3,119960,-30300,No Intervention,solid
-2020-08-06,mod_4,43083,607357,Moderate return,solid
-2020-08-06,mod_5,54032,-68424,Normal (pre-intervention),solid
-2020-08-06,mod_6,24418,741600,Cautious return,solid
-2020-08-07,mod_2,72931,87674,Soc. Dist. + Travel Ban,solid
-2020-08-07,mod_3,118085,-72732,No Intervention,solid
-2020-08-07,mod_4,42542,476325,Moderate return,solid
-2020-08-07,mod_5,52997,44445,Normal (pre-intervention),solid
-2020-08-07,mod_6,24227,629196,Cautious return,solid
-2020-08-08,mod_2,72194,171985,Soc. Dist. + Travel Ban,solid
-2020-08-08,mod_3,115523,-6558,No Intervention,solid
-2020-08-08,mod_4,42069,514697,Moderate return,solid
-2020-08-08,mod_5,52121,4675,Normal (pre-intervention),solid
-2020-08-08,mod_6,24147,674809,Cautious return,solid
-2020-08-09,mod_2,71464,165671,Soc. Dist. + Travel Ban,solid
-2020-08-09,mod_3,113438,-93295,No Intervention,solid
-2020-08-09,mod_4,41534,461059,Moderate return,solid
-2020-08-09,mod_5,51143,-41799,Normal (pre-intervention),solid
-2020-08-09,mod_6,23987,827167,Cautious return,solid
-2020-08-10,mod_2,70661,71169,Soc. Dist. + Travel Ban,solid
-2020-08-10,mod_3,111489,-41991,No Intervention,solid
-2020-08-10,mod_4,41084,450346,Moderate return,solid
-2020-08-10,mod_5,50171,9821,Normal (pre-intervention),solid
-2020-08-10,mod_6,23890,813308,Cautious return,solid
-2020-08-11,mod_2,69703,126428,Soc. Dist. + Travel Ban,solid
-2020-08-11,mod_3,109375,-92482,No Intervention,solid
-2020-08-11,mod_4,40485,381885,Moderate return,solid
-2020-08-11,mod_5,49403,-26739,Normal (pre-intervention),solid
-2020-08-11,mod_6,23781,658947,Cautious return,solid
-2020-08-12,mod_2,69224,74631,Soc. Dist. + Travel Ban,solid
-2020-08-12,mod_3,107077,-57615,No Intervention,solid
-2020-08-12,mod_4,39835,417672,Moderate return,solid
-2020-08-12,mod_5,48412,15146,Normal (pre-intervention),solid
-2020-08-12,mod_6,23550,764184,Cautious return,solid
-2020-08-13,mod_2,68204,112171,Soc. Dist. + Travel Ban,solid
-2020-08-13,mod_3,105264,-37532,No Intervention,solid
-2020-08-13,mod_4,39404,294932,Moderate return,solid
-2020-08-13,mod_5,47546,-42254,Normal (pre-intervention),solid
-2020-08-13,mod_6,23432,779210,Cautious return,solid
-2020-08-14,mod_2,67506,83805,Soc. Dist. + Travel Ban,solid
-2020-08-14,mod_3,103500,-72875,No Intervention,solid
-2020-08-14,mod_4,38914,368880,Moderate return,solid
-2020-08-14,mod_5,46774,-52513,Normal (pre-intervention),solid
-2020-08-14,mod_6,23327,797073,Cautious return,solid
-2020-08-15,mod_2,66717,110011,Soc. Dist. + Travel Ban,solid
-2020-08-15,mod_3,101275,-86911,No Intervention,solid
-2020-08-15,mod_4,38387,228020,Moderate return,solid
-2020-08-15,mod_5,45731,-58099,Normal (pre-intervention),solid
-2020-08-15,mod_6,23083,843291,Cautious return,solid
-2020-08-16,mod_2,66002,40900,Soc. Dist. + Travel Ban,solid
-2020-08-16,mod_3,99201,-67207,No Intervention,solid
-2020-08-16,mod_4,37885,339391,Moderate return,solid
-2020-08-16,mod_5,45035,-9605,Normal (pre-intervention),solid
-2020-08-16,mod_6,23000,810077,Cautious return,solid
-2020-08-17,mod_2,65234,60947,Soc. Dist. + Travel Ban,solid
-2020-08-17,mod_3,97772,-71981,No Intervention,solid
-2020-08-17,mod_4,37278,329446,Moderate return,solid
-2020-08-17,mod_5,44069,-60968,Normal (pre-intervention),solid
-2020-08-17,mod_6,22796,935572,Cautious return,solid
-2020-08-18,mod_2,64485,65769,Soc. Dist. + Travel Ban,solid
-2020-08-18,mod_3,95690,-61149,No Intervention,solid
-2020-08-18,mod_4,36845,276200,Moderate return,solid
-2020-08-18,mod_5,43331,-11818,Normal (pre-intervention),solid
-2020-08-18,mod_6,22653,745107,Cautious return,solid
-2020-08-19,mod_2,63551,62372,Soc. Dist. + Travel Ban,solid
-2020-08-19,mod_3,93834,-59038,No Intervention,solid
-2020-08-19,mod_4,36386,236142,Moderate return,solid
-2020-08-19,mod_5,42486,43414,Normal (pre-intervention),solid
-2020-08-19,mod_6,22414,987292,Cautious return,solid
-2020-08-20,mod_2,62976,101983,Soc. Dist. + Travel Ban,solid
-2020-08-20,mod_3,92368,-56752,No Intervention,solid
-2020-08-20,mod_4,35781,231260,Moderate return,solid
-2020-08-20,mod_5,41717,-82515,Normal (pre-intervention),solid
-2020-08-20,mod_6,22233,802477,Cautious return,solid
-2020-08-21,mod_2,62303,4010,Soc. Dist. + Travel Ban,solid
-2020-08-21,mod_3,90301,-43864,No Intervention,solid
-2020-08-21,mod_4,35279,306992,Moderate return,solid
-2020-08-21,mod_5,41047,-6487,Normal (pre-intervention),solid
-2020-08-21,mod_6,22227,916235,Cautious return,solid
-2020-08-22,mod_2,61507,95813,Soc. Dist. + Travel Ban,solid
-2020-08-22,mod_3,88873,-124400,No Intervention,solid
-2020-08-22,mod_4,34854,196878,Moderate return,solid
-2020-08-22,mod_5,40263,-22492,Normal (pre-intervention),solid
-2020-08-22,mod_6,21971,828213,Cautious return,solid
-2020-08-23,mod_2,60806,72845,Soc. Dist. + Travel Ban,solid
-2020-08-23,mod_3,87146,-73734,No Intervention,solid
-2020-08-23,mod_4,34261,183318,Moderate return,solid
-2020-08-23,mod_5,39546,-122779,Normal (pre-intervention),solid
-2020-08-23,mod_6,21846,884747,Cautious return,solid
-2020-08-24,mod_2,59988,27604,Soc. Dist. + Travel Ban,solid
-2020-08-24,mod_3,85521,-99736,No Intervention,solid
-2020-08-24,mod_4,33899,222934,Moderate return,solid
-2020-08-24,mod_5,38684,-13784,Normal (pre-intervention),solid
-2020-08-24,mod_6,21693,832939,Cautious return,solid
-2020-08-25,mod_2,59240,64494,Soc. Dist. + Travel Ban,solid
-2020-08-25,mod_3,84129,-43472,No Intervention,solid
-2020-08-25,mod_4,33332,190768,Moderate return,solid
-2020-08-25,mod_5,38098,-66768,Normal (pre-intervention),solid
-2020-08-25,mod_6,21438,817658,Cautious return,solid
-2020-08-26,mod_2,58535,51796,Soc. Dist. + Travel Ban,solid
-2020-08-26,mod_3,82485,-57776,No Intervention,solid
-2020-08-26,mod_4,32906,126786,Moderate return,solid
-2020-08-26,mod_5,37349,-47,Normal (pre-intervention),solid
-2020-08-26,mod_6,21317,819337,Cautious return,solid
-2020-08-27,mod_2,57967,18349,Soc. Dist. + Travel Ban,solid
-2020-08-27,mod_3,81052,-117202,No Intervention,solid
-2020-08-27,mod_4,32310,127365,Moderate return,solid
-2020-08-27,mod_5,36740,-83841,Normal (pre-intervention),solid
-2020-08-27,mod_6,21147,981777,Cautious return,solid
-2020-08-28,mod_2,57097,41763,Soc. Dist. + Travel Ban,solid
-2020-08-28,mod_3,79401,-72692,No Intervention,solid
-2020-08-28,mod_4,31908,248730,Moderate return,solid
-2020-08-28,mod_5,36023,-50570,Normal (pre-intervention),solid
-2020-08-28,mod_6,21010,700757,Cautious return,solid
-2020-08-29,mod_2,56450,69985,Soc. Dist. + Travel Ban,solid
-2020-08-29,mod_3,78178,-39040,No Intervention,solid
-2020-08-29,mod_4,31530,172339,Moderate return,solid
-2020-08-29,mod_5,35217,-104027,Normal (pre-intervention),solid
-2020-08-29,mod_6,20794,830895,Cautious return,solid
-2020-08-30,mod_2,55693,-5729,Soc. Dist. + Travel Ban,solid
-2020-08-30,mod_3,76879,-117605,No Intervention,solid
-2020-08-30,mod_4,31052,139683,Moderate return,solid
-2020-08-30,mod_5,34584,-85532,Normal (pre-intervention),solid
-2020-08-30,mod_6,20592,837604,Cautious return,solid
-2020-08-31,mod_2,55240,48686,Soc. Dist. + Travel Ban,solid
-2020-08-31,mod_3,75310,-88038,No Intervention,solid
-2020-08-31,mod_4,30495,79460,Moderate return,solid
-2020-08-31,mod_5,33975,-72910,Normal (pre-intervention),solid
-2020-08-31,mod_6,20572,791700,Cautious return,solid
-2020-09-01,mod_2,54464,41309,Soc. Dist. + Travel Ban,solid
-2020-09-01,mod_3,74097,-56885,No Intervention,solid
-2020-09-01,mod_4,30056,140442,Moderate return,solid
-2020-09-01,mod_5,33428,-50818,Normal (pre-intervention),solid
-2020-09-01,mod_6,20337,858890,Cautious return,solid
-2020-09-02,mod_2,53961,39309,Soc. Dist. + Travel Ban,solid
-2020-09-02,mod_3,72542,-75890,No Intervention,solid
-2020-09-02,mod_4,29698,131191,Moderate return,solid
-2020-09-02,mod_5,32853,-72457,Normal (pre-intervention),solid
-2020-09-02,mod_6,20123,749087,Cautious return,solid
-2020-09-03,mod_2,53180,32484,Soc. Dist. + Travel Ban,solid
-2020-09-03,mod_3,71564,-71874,No Intervention,solid
-2020-09-03,mod_4,29254,158178,Moderate return,solid
-2020-09-03,mod_5,32244,-55936,Normal (pre-intervention),solid
-2020-09-03,mod_6,19896,876897,Cautious return,solid
-2020-09-04,mod_2,52595,-19906,Soc. Dist. + Travel Ban,solid
-2020-09-04,mod_3,70068,-33542,No Intervention,solid
-2020-09-04,mod_4,28871,148169,Moderate return,solid
-2020-09-04,mod_5,31590,-95504,Normal (pre-intervention),solid
-2020-09-04,mod_6,19760,565984,Cautious return,solid
-2020-09-05,mod_2,51647,74024,Soc. Dist. + Travel Ban,solid
-2020-09-05,mod_3,69057,-106769,No Intervention,solid
-2020-09-05,mod_4,28524,117488,Moderate return,solid
-2020-09-05,mod_5,30998,-36874,Normal (pre-intervention),solid
-2020-09-05,mod_6,19573,793674,Cautious return,solid
-2020-09-06,mod_2,51273,-7539,Soc. Dist. + Travel Ban,solid
-2020-09-06,mod_3,67463,-70883,No Intervention,solid
-2020-09-06,mod_4,28004,20905,Moderate return,solid
-2020-09-06,mod_5,30459,-44921,Normal (pre-intervention),solid
-2020-09-06,mod_6,19394,832480,Cautious return,solid
-2020-09-07,mod_2,50493,21748,Soc. Dist. + Travel Ban,solid
-2020-09-07,mod_3,66333,-94683,No Intervention,solid
-2020-09-07,mod_4,27599,152134,Moderate return,solid
-2020-09-07,mod_5,29917,-90105,Normal (pre-intervention),solid
-2020-09-07,mod_6,19096,655849,Cautious return,solid
-2020-09-08,mod_2,49985,25067,Soc. Dist. + Travel Ban,solid
-2020-09-08,mod_3,65194,-92224,No Intervention,solid
-2020-09-08,mod_4,27253,76512,Moderate return,solid
-2020-09-08,mod_5,29299,-112551,Normal (pre-intervention),solid
-2020-09-08,mod_6,19041,709690,Cautious return,solid
-2020-09-09,mod_2,49413,-9127,Soc. Dist. + Travel Ban,solid
-2020-09-09,mod_3,64090,-56518,No Intervention,solid
-2020-09-09,mod_4,26877,177096,Moderate return,solid
-2020-09-09,mod_5,28786,-42607,Normal (pre-intervention),solid
-2020-09-09,mod_6,18801,661323,Cautious return,solid
-2020-09-10,mod_2,48738,39839,Soc. Dist. + Travel Ban,solid
-2020-09-10,mod_3,63191,-61621,No Intervention,solid
-2020-09-10,mod_4,26441,73137,Moderate return,solid
-2020-09-10,mod_5,28336,-38595,Normal (pre-intervention),solid
-2020-09-10,mod_6,18648,652216,Cautious return,solid
-2020-09-11,mod_2,48023,10830,Soc. Dist. + Travel Ban,solid
-2020-09-11,mod_3,61919,-51009,No Intervention,solid
-2020-09-11,mod_4,26134,83028,Moderate return,solid
-2020-09-11,mod_5,27755,-113756,Normal (pre-intervention),solid
-2020-09-11,mod_6,18437,723801,Cautious return,solid
-2020-09-12,mod_2,47651,18165,Soc. Dist. + Travel Ban,solid
-2020-09-12,mod_3,60650,-70683,No Intervention,solid
-2020-09-12,mod_4,25762,27105,Moderate return,solid
-2020-09-12,mod_5,27258,-41765,Normal (pre-intervention),solid
-2020-09-12,mod_6,18250,511168,Cautious return,solid
-2020-09-13,mod_2,46981,12941,Soc. Dist. + Travel Ban,solid
-2020-09-13,mod_3,60073,-74143,No Intervention,solid
-2020-09-13,mod_4,25365,83756,Moderate return,solid
-2020-09-13,mod_5,26644,-76319,Normal (pre-intervention),solid
-2020-09-13,mod_6,18088,567789,Cautious return,solid
-2020-09-14,mod_2,46264,-21695,Soc. Dist. + Travel Ban,solid
-2020-09-14,mod_3,58953,-42821,No Intervention,solid
-2020-09-14,mod_4,25111,71754,Moderate return,solid
-2020-09-14,mod_5,26218,-53700,Normal (pre-intervention),solid
-2020-09-14,mod_6,17856,467782,Cautious return,solid
-2020-09-15,mod_2,45811,65008,Soc. Dist. + Travel Ban,solid
-2020-09-15,mod_3,57785,-99279,No Intervention,solid
-2020-09-15,mod_4,24639,89736,Moderate return,solid
-2020-09-15,mod_5,25604,-80895,Normal (pre-intervention),solid
-2020-09-15,mod_6,17713,572904,Cautious return,solid
-2020-09-16,mod_2,45094,42127,Soc. Dist. + Travel Ban,solid
-2020-09-16,mod_3,56587,-53684,No Intervention,solid
-2020-09-16,mod_4,24394,25068,Moderate return,solid
-2020-09-16,mod_5,25281,-103352,Normal (pre-intervention),solid
-2020-09-16,mod_6,17536,396809,Cautious return,solid
-2020-09-17,mod_2,NA,NA,Soc. Dist. + Travel Ban,solid
-2020-09-17,mod_3,NA,NA,No Intervention,solid
-2020-09-17,mod_4,NA,NA,Moderate return,solid
-2020-09-17,mod_5,NA,NA,Normal (pre-intervention),solid
-2020-09-17,mod_6,NA,NA,Cautious return,solid
+2020-04-08,True,605,NA,Observed,solid
+2020-04-09,mod_2,NA,NA,Soc. Dist. + Travel Ban,solid
+2020-04-09,mod_3,NA,NA,No Intervention,solid
+2020-04-09,mod_4,NA,NA,Moderate return,solid
+2020-04-09,mod_5,NA,NA,Normal (pre-intervention),solid
+2020-04-09,mod_6,NA,NA,Cautious return,solid
+2020-04-10,mod_2,509,3073,Soc. Dist. + Travel Ban,solid
+2020-04-10,mod_3,719,3738,No Intervention,solid
+2020-04-10,mod_4,235,2003,Moderate return,solid
+2020-04-10,mod_5,238,1755,Normal (pre-intervention),solid
+2020-04-10,mod_6,245,2378,Cautious return,solid
+2020-04-11,mod_2,546,3012,Soc. Dist. + Travel Ban,solid
+2020-04-11,mod_3,816,4113,No Intervention,solid
+2020-04-11,mod_4,229,2030,Moderate return,solid
+2020-04-11,mod_5,235,2029,Normal (pre-intervention),solid
+2020-04-11,mod_6,226,1191,Cautious return,solid
+2020-04-12,mod_2,601,3906,Soc. Dist. + Travel Ban,solid
+2020-04-12,mod_3,947,5073,No Intervention,solid
+2020-04-12,mod_4,221,1377,Moderate return,solid
+2020-04-12,mod_5,222,1420,Normal (pre-intervention),solid
+2020-04-12,mod_6,228,2067,Cautious return,solid
+2020-04-13,mod_2,649,3834,Soc. Dist. + Travel Ban,solid
+2020-04-13,mod_3,1121,6550,No Intervention,solid
+2020-04-13,mod_4,212,1996,Moderate return,solid
+2020-04-13,mod_5,224,2090,Normal (pre-intervention),solid
+2020-04-13,mod_6,217,1814,Cautious return,solid
+2020-04-14,mod_2,718,4287,Soc. Dist. + Travel Ban,solid
+2020-04-14,mod_3,1339,7879,No Intervention,solid
+2020-04-14,mod_4,214,1609,Moderate return,solid
+2020-04-14,mod_5,216,1516,Normal (pre-intervention),solid
+2020-04-14,mod_6,213,1330,Cautious return,solid
+2020-04-15,mod_2,789,5269,Soc. Dist. + Travel Ban,solid
+2020-04-15,mod_3,1604,9849,No Intervention,solid
+2020-04-15,mod_4,205,1611,Moderate return,solid
+2020-04-15,mod_5,207,1664,Normal (pre-intervention),solid
+2020-04-15,mod_6,210,1805,Cautious return,solid
+2020-04-16,mod_2,878,5774,Soc. Dist. + Travel Ban,solid
+2020-04-16,mod_3,1946,12627,No Intervention,solid
+2020-04-16,mod_4,199,1451,Moderate return,solid
+2020-04-16,mod_5,201,1518,Normal (pre-intervention),solid
+2020-04-16,mod_6,200,1588,Cautious return,solid
+2020-04-17,mod_2,989,6210,Soc. Dist. + Travel Ban,solid
+2020-04-17,mod_3,2393,14732,No Intervention,solid
+2020-04-17,mod_4,206,1856,Moderate return,solid
+2020-04-17,mod_5,206,1661,Normal (pre-intervention),solid
+2020-04-17,mod_6,193,1527,Cautious return,solid
+2020-04-18,mod_2,1114,7372,Soc. Dist. + Travel Ban,solid
+2020-04-18,mod_3,3003,19602,No Intervention,solid
+2020-04-18,mod_4,190,1639,Moderate return,solid
+2020-04-18,mod_5,198,1399,Normal (pre-intervention),solid
+2020-04-18,mod_6,196,1922,Cautious return,solid
+2020-04-19,mod_2,1272,8408,Soc. Dist. + Travel Ban,solid
+2020-04-19,mod_3,3802,24487,No Intervention,solid
+2020-04-19,mod_4,191,1759,Moderate return,solid
+2020-04-19,mod_5,195,1996,Normal (pre-intervention),solid
+2020-04-19,mod_6,201,1327,Cautious return,solid
+2020-04-20,mod_2,1459,10712,Soc. Dist. + Travel Ban,solid
+2020-04-20,mod_3,4894,30413,No Intervention,solid
+2020-04-20,mod_4,187,1549,Moderate return,solid
+2020-04-20,mod_5,199,1576,Normal (pre-intervention),solid
+2020-04-20,mod_6,186,1873,Cautious return,solid
+2020-04-21,mod_2,1689,11227,Soc. Dist. + Travel Ban,solid
+2020-04-21,mod_3,6424,40132,No Intervention,solid
+2020-04-21,mod_4,185,1642,Moderate return,solid
+2020-04-21,mod_5,191,1856,Normal (pre-intervention),solid
+2020-04-21,mod_6,184,1368,Cautious return,solid
+2020-04-22,mod_2,1954,13278,Soc. Dist. + Travel Ban,solid
+2020-04-22,mod_3,8448,52795,No Intervention,solid
+2020-04-22,mod_4,182,1334,Moderate return,solid
+2020-04-22,mod_5,184,1427,Normal (pre-intervention),solid
+2020-04-22,mod_6,185,1701,Cautious return,solid
+2020-04-23,mod_2,2304,15348,Soc. Dist. + Travel Ban,solid
+2020-04-23,mod_3,11202,68966,No Intervention,solid
+2020-04-23,mod_4,178,2154,Moderate return,solid
+2020-04-23,mod_5,195,2158,Normal (pre-intervention),solid
+2020-04-23,mod_6,181,2300,Cautious return,solid
+2020-04-24,mod_2,2732,19074,Soc. Dist. + Travel Ban,solid
+2020-04-24,mod_3,14826,89184,No Intervention,solid
+2020-04-24,mod_4,191,1759,Moderate return,solid
+2020-04-24,mod_5,198,1770,Normal (pre-intervention),solid
+2020-04-24,mod_6,189,1659,Cautious return,solid
+2020-04-25,mod_2,3272,21504,Soc. Dist. + Travel Ban,solid
+2020-04-25,mod_3,19438,117643,No Intervention,solid
+2020-04-25,mod_4,203,1650,Moderate return,solid
+2020-04-25,mod_5,220,2013,Normal (pre-intervention),solid
+2020-04-25,mod_6,196,1899,Cautious return,solid
+2020-04-26,mod_2,3923,26066,Soc. Dist. + Travel Ban,solid
+2020-04-26,mod_3,25192,148443,No Intervention,solid
+2020-04-26,mod_4,209,2000,Moderate return,solid
+2020-04-26,mod_5,232,2348,Normal (pre-intervention),solid
+2020-04-26,mod_6,190,1516,Cautious return,solid
+2020-04-27,mod_2,4715,28289,Soc. Dist. + Travel Ban,solid
+2020-04-27,mod_3,32099,192521,No Intervention,solid
+2020-04-27,mod_4,213,2355,Moderate return,solid
+2020-04-27,mod_5,260,2242,Normal (pre-intervention),solid
+2020-04-27,mod_6,196,2089,Cautious return,solid
+2020-04-28,mod_2,5702,35482,Soc. Dist. + Travel Ban,solid
+2020-04-28,mod_3,40268,254134,No Intervention,solid
+2020-04-28,mod_4,226,2296,Moderate return,solid
+2020-04-28,mod_5,278,2561,Normal (pre-intervention),solid
+2020-04-28,mod_6,206,1572,Cautious return,solid
+2020-04-29,mod_2,6902,41152,Soc. Dist. + Travel Ban,solid
+2020-04-29,mod_3,49720,323960,No Intervention,solid
+2020-04-29,mod_4,251,1615,Moderate return,solid
+2020-04-29,mod_5,319,3707,Normal (pre-intervention),solid
+2020-04-29,mod_6,212,2553,Cautious return,solid
+2020-04-30,mod_2,8316,48304,Soc. Dist. + Travel Ban,solid
+2020-04-30,mod_3,60406,400482,No Intervention,solid
+2020-04-30,mod_4,278,3461,Moderate return,solid
+2020-04-30,mod_5,364,3315,Normal (pre-intervention),solid
+2020-04-30,mod_6,229,2152,Cautious return,solid
+2020-05-01,mod_2,9990,56272,Soc. Dist. + Travel Ban,solid
+2020-05-01,mod_3,72192,541629,No Intervention,solid
+2020-05-01,mod_4,292,2820,Moderate return,solid
+2020-05-01,mod_5,408,4069,Normal (pre-intervention),solid
+2020-05-01,mod_6,244,2557,Cautious return,solid
+2020-05-02,mod_2,11951,66348,Soc. Dist. + Travel Ban,solid
+2020-05-02,mod_3,85005,665000,No Intervention,solid
+2020-05-02,mod_4,322,2992,Moderate return,solid
+2020-05-02,mod_5,477,4586,Normal (pre-intervention),solid
+2020-05-02,mod_6,255,2667,Cautious return,solid
+2020-05-03,mod_2,14186,78286,Soc. Dist. + Travel Ban,solid
+2020-05-03,mod_3,98617,874931,No Intervention,solid
+2020-05-03,mod_4,359,3203,Moderate return,solid
+2020-05-03,mod_5,552,5325,Normal (pre-intervention),solid
+2020-05-03,mod_6,273,1939,Cautious return,solid
+2020-05-04,mod_2,16747,90578,Soc. Dist. + Travel Ban,solid
+2020-05-04,mod_3,112958,1059943,No Intervention,solid
+2020-05-04,mod_4,394,4215,Moderate return,solid
+2020-05-04,mod_5,667,5599,Normal (pre-intervention),solid
+2020-05-04,mod_6,292,3172,Cautious return,solid
+2020-05-05,mod_2,19556,111690,Soc. Dist. + Travel Ban,solid
+2020-05-05,mod_3,127579,1344909,No Intervention,solid
+2020-05-05,mod_4,432,3451,Moderate return,solid
+2020-05-05,mod_5,800,6785,Normal (pre-intervention),solid
+2020-05-05,mod_6,319,3225,Cautious return,solid
+2020-05-06,mod_2,22656,125107,Soc. Dist. + Travel Ban,solid
+2020-05-06,mod_3,142647,1687287,No Intervention,solid
+2020-05-06,mod_4,510,4013,Moderate return,solid
+2020-05-06,mod_5,999,8671,Normal (pre-intervention),solid
+2020-05-06,mod_6,339,2568,Cautious return,solid
+2020-05-07,mod_2,26057,147093,Soc. Dist. + Travel Ban,solid
+2020-05-07,mod_3,157883,1980783,No Intervention,solid
+2020-05-07,mod_4,577,6100,Moderate return,solid
+2020-05-07,mod_5,1258,9517,Normal (pre-intervention),solid
+2020-05-07,mod_6,366,3996,Cautious return,solid
+2020-05-08,mod_2,29723,177877,Soc. Dist. + Travel Ban,solid
+2020-05-08,mod_3,173028,2391391,No Intervention,solid
+2020-05-08,mod_4,683,5299,Moderate return,solid
+2020-05-08,mod_5,1633,11848,Normal (pre-intervention),solid
+2020-05-08,mod_6,402,3411,Cautious return,solid
+2020-05-09,mod_2,33640,214388,Soc. Dist. + Travel Ban,solid
+2020-05-09,mod_3,188191,2653645,No Intervention,solid
+2020-05-09,mod_4,802,6179,Moderate return,solid
+2020-05-09,mod_5,2153,13892,Normal (pre-intervention),solid
+2020-05-09,mod_6,442,3576,Cautious return,solid
+2020-05-10,mod_2,37770,245911,Soc. Dist. + Travel Ban,solid
+2020-05-10,mod_3,203067,2944387,No Intervention,solid
+2020-05-10,mod_4,963,6372,Moderate return,solid
+2020-05-10,mod_5,2890,18385,Normal (pre-intervention),solid
+2020-05-10,mod_6,499,4347,Cautious return,solid
+2020-05-11,mod_2,42056,281430,Soc. Dist. + Travel Ban,solid
+2020-05-11,mod_3,217395,3279815,No Intervention,solid
+2020-05-11,mod_4,1171,8839,Moderate return,solid
+2020-05-11,mod_5,3971,21166,Normal (pre-intervention),solid
+2020-05-11,mod_6,553,4276,Cautious return,solid
+2020-05-12,mod_2,46548,336505,Soc. Dist. + Travel Ban,solid
+2020-05-12,mod_3,231339,3572162,No Intervention,solid
+2020-05-12,mod_4,1415,9543,Moderate return,solid
+2020-05-12,mod_5,5559,27433,Normal (pre-intervention),solid
+2020-05-12,mod_6,634,5467,Cautious return,solid
+2020-05-13,mod_2,51224,367946,Soc. Dist. + Travel Ban,solid
+2020-05-13,mod_3,244569,3741418,No Intervention,solid
+2020-05-13,mod_4,1764,10812,Moderate return,solid
+2020-05-13,mod_5,7754,34170,Normal (pre-intervention),solid
+2020-05-13,mod_6,723,5642,Cautious return,solid
+2020-05-14,mod_2,55873,463659,Soc. Dist. + Travel Ban,solid
+2020-05-14,mod_3,257240,3899437,No Intervention,solid
+2020-05-14,mod_4,2228,12344,Moderate return,solid
+2020-05-14,mod_5,10782,46068,Normal (pre-intervention),solid
+2020-05-14,mod_6,836,6134,Cautious return,solid
+2020-05-15,mod_2,60727,533748,Soc. Dist. + Travel Ban,solid
+2020-05-15,mod_3,268998,3895790,No Intervention,solid
+2020-05-15,mod_4,2759,14501,Moderate return,solid
+2020-05-15,mod_5,14372,57132,Normal (pre-intervention),solid
+2020-05-15,mod_6,933,5056,Cautious return,solid
+2020-05-16,mod_2,65405,587277,Soc. Dist. + Travel Ban,solid
+2020-05-16,mod_3,280126,4191482,No Intervention,solid
+2020-05-16,mod_4,3382,15259,Moderate return,solid
+2020-05-16,mod_5,18718,73042,Normal (pre-intervention),solid
+2020-05-16,mod_6,1098,7616,Cautious return,solid
+2020-05-17,mod_2,70152,708560,Soc. Dist. + Travel Ban,solid
+2020-05-17,mod_3,290158,4194952,No Intervention,solid
+2020-05-17,mod_4,4157,16497,Moderate return,solid
+2020-05-17,mod_5,23815,86902,Normal (pre-intervention),solid
+2020-05-17,mod_6,1234,6931,Cautious return,solid
+2020-05-18,mod_2,74908,796605,Soc. Dist. + Travel Ban,solid
+2020-05-18,mod_3,299651,4041394,No Intervention,solid
+2020-05-18,mod_4,5050,21804,Moderate return,solid
+2020-05-18,mod_5,29731,116914,Normal (pre-intervention),solid
+2020-05-18,mod_6,1429,8458,Cautious return,solid
+2020-05-19,mod_2,79545,920411,Soc. Dist. + Travel Ban,solid
+2020-05-19,mod_3,308297,4123718,No Intervention,solid
+2020-05-19,mod_4,6109,24009,Moderate return,solid
+2020-05-19,mod_5,36371,146903,Normal (pre-intervention),solid
+2020-05-19,mod_6,1643,8115,Cautious return,solid
+2020-05-20,mod_2,84129,1012807,Soc. Dist. + Travel Ban,solid
+2020-05-20,mod_3,316004,3800740,No Intervention,solid
+2020-05-20,mod_4,7288,29089,Moderate return,solid
+2020-05-20,mod_5,43655,181075,Normal (pre-intervention),solid
+2020-05-20,mod_6,1883,8000,Cautious return,solid
+2020-05-21,mod_2,88621,1167047,Soc. Dist. + Travel Ban,solid
+2020-05-21,mod_3,322901,3736181,No Intervention,solid
+2020-05-21,mod_4,8620,29883,Moderate return,solid
+2020-05-21,mod_5,51463,233032,Normal (pre-intervention),solid
+2020-05-21,mod_6,2162,9174,Cautious return,solid
+2020-05-22,mod_2,93011,1285008,Soc. Dist. + Travel Ban,solid
+2020-05-22,mod_3,328957,3433905,No Intervention,solid
+2020-05-22,mod_4,10101,38193,Moderate return,solid
+2020-05-22,mod_5,59664,296947,Normal (pre-intervention),solid
+2020-05-22,mod_6,2466,10445,Cautious return,solid
+2020-05-23,mod_2,97204,1394474,Soc. Dist. + Travel Ban,solid
+2020-05-23,mod_3,334195,3168640,No Intervention,solid
+2020-05-23,mod_4,11757,40263,Moderate return,solid
+2020-05-23,mod_5,68042,376179,Normal (pre-intervention),solid
+2020-05-23,mod_6,2832,12259,Cautious return,solid
+2020-05-24,mod_2,101431,1479901,Soc. Dist. + Travel Ban,solid
+2020-05-24,mod_3,338432,2915588,No Intervention,solid
+2020-05-24,mod_4,13498,46631,Moderate return,solid
+2020-05-24,mod_5,76566,456708,Normal (pre-intervention),solid
+2020-05-24,mod_6,3221,11567,Cautious return,solid
+2020-05-25,mod_2,105325,1655013,Soc. Dist. + Travel Ban,solid
+2020-05-25,mod_3,342338,2539893,No Intervention,solid
+2020-05-25,mod_4,15424,54247,Moderate return,solid
+2020-05-25,mod_5,84954,586553,Normal (pre-intervention),solid
+2020-05-25,mod_6,3652,10628,Cautious return,solid
+2020-05-26,mod_2,109230,1735061,Soc. Dist. + Travel Ban,solid
+2020-05-26,mod_3,345359,2367385,No Intervention,solid
+2020-05-26,mod_4,17426,57981,Moderate return,solid
+2020-05-26,mod_5,93187,713431,Normal (pre-intervention),solid
+2020-05-26,mod_6,4119,14792,Cautious return,solid
+2020-05-27,mod_2,113026,1810737,Soc. Dist. + Travel Ban,solid
+2020-05-27,mod_3,347672,2188140,No Intervention,solid
+2020-05-27,mod_4,19649,70346,Moderate return,solid
+2020-05-27,mod_5,101292,896792,Normal (pre-intervention),solid
+2020-05-27,mod_6,4618,17159,Cautious return,solid
+2020-05-28,mod_2,116468,1947019,Soc. Dist. + Travel Ban,solid
+2020-05-28,mod_3,349463,1997663,No Intervention,solid
+2020-05-28,mod_4,21844,82662,Moderate return,solid
+2020-05-28,mod_5,109034,1139582,Normal (pre-intervention),solid
+2020-05-28,mod_6,5168,14638,Cautious return,solid
+2020-05-29,mod_2,119700,2034539,Soc. Dist. + Travel Ban,solid
+2020-05-29,mod_3,350461,1721219,No Intervention,solid
+2020-05-29,mod_4,24167,81452,Moderate return,solid
+2020-05-29,mod_5,116346,1321266,Normal (pre-intervention),solid
+2020-05-29,mod_6,5739,18585,Cautious return,solid
+2020-05-30,mod_2,122888,2225924,Soc. Dist. + Travel Ban,solid
+2020-05-30,mod_3,351108,1588193,No Intervention,solid
+2020-05-30,mod_4,26676,111373,Moderate return,solid
+2020-05-30,mod_5,123301,1673119,Normal (pre-intervention),solid
+2020-05-30,mod_6,6340,16272,Cautious return,solid
+2020-05-31,mod_2,125866,2263061,Soc. Dist. + Travel Ban,solid
+2020-05-31,mod_3,351017,1413618,No Intervention,solid
+2020-05-31,mod_4,29194,117014,Moderate return,solid
+2020-05-31,mod_5,129762,1896253,Normal (pre-intervention),solid
+2020-05-31,mod_6,7010,20628,Cautious return,solid
+2020-06-01,mod_2,128610,2418266,Soc. Dist. + Travel Ban,solid
+2020-06-01,mod_3,350627,1219740,No Intervention,solid
+2020-06-01,mod_4,31746,138349,Moderate return,solid
+2020-06-01,mod_5,135686,2253085,Normal (pre-intervention),solid
+2020-06-01,mod_6,7706,21798,Cautious return,solid
+2020-06-02,mod_2,131186,2377239,Soc. Dist. + Travel Ban,solid
+2020-06-02,mod_3,349730,1221684,No Intervention,solid
+2020-06-02,mod_4,34437,156016,Moderate return,solid
+2020-06-02,mod_5,141017,2478171,Normal (pre-intervention),solid
+2020-06-02,mod_6,8349,23920,Cautious return,solid
+2020-06-03,mod_2,133379,2508985,Soc. Dist. + Travel Ban,solid
+2020-06-03,mod_3,348417,1015425,No Intervention,solid
+2020-06-03,mod_4,37070,174299,Moderate return,solid
+2020-06-03,mod_5,145697,2775163,Normal (pre-intervention),solid
+2020-06-03,mod_6,9140,26624,Cautious return,solid
+2020-06-04,mod_2,135647,2388852,Soc. Dist. + Travel Ban,solid
+2020-06-04,mod_3,346833,951119,No Intervention,solid
+2020-06-04,mod_4,39725,208323,Moderate return,solid
+2020-06-04,mod_5,149849,2959217,Normal (pre-intervention),solid
+2020-06-04,mod_6,9884,25685,Cautious return,solid
+2020-06-05,mod_2,137614,2423955,Soc. Dist. + Travel Ban,solid
+2020-06-05,mod_3,344736,831157,No Intervention,solid
+2020-06-05,mod_4,42370,214892,Moderate return,solid
+2020-06-05,mod_5,153296,3014427,Normal (pre-intervention),solid
+2020-06-05,mod_6,10653,30452,Cautious return,solid
+2020-06-06,mod_2,139377,2527751,Soc. Dist. + Travel Ban,solid
+2020-06-06,mod_3,342776,761042,No Intervention,solid
+2020-06-06,mod_4,45013,272059,Moderate return,solid
+2020-06-06,mod_5,156144,3284728,Normal (pre-intervention),solid
+2020-06-06,mod_6,11417,31092,Cautious return,solid
+2020-06-07,mod_2,140923,2549691,Soc. Dist. + Travel Ban,solid
+2020-06-07,mod_3,340202,724909,No Intervention,solid
+2020-06-07,mod_4,47514,300053,Moderate return,solid
+2020-06-07,mod_5,158376,3319340,Normal (pre-intervention),solid
+2020-06-07,mod_6,12233,29824,Cautious return,solid
+2020-06-08,mod_2,142323,2328473,Soc. Dist. + Travel Ban,solid
+2020-06-08,mod_3,337399,578272,No Intervention,solid
+2020-06-08,mod_4,49881,344424,Moderate return,solid
+2020-06-08,mod_5,160183,3714104,Normal (pre-intervention),solid
+2020-06-08,mod_6,13048,41354,Cautious return,solid
+2020-06-09,mod_2,143740,2325020,Soc. Dist. + Travel Ban,solid
+2020-06-09,mod_3,334297,573022,No Intervention,solid
+2020-06-09,mod_4,52159,381543,Moderate return,solid
+2020-06-09,mod_5,161437,3764517,Normal (pre-intervention),solid
+2020-06-09,mod_6,13837,35630,Cautious return,solid
+2020-06-10,mod_2,144656,2237436,Soc. Dist. + Travel Ban,solid
+2020-06-10,mod_3,331071,579485,No Intervention,solid
+2020-06-10,mod_4,54348,426720,Moderate return,solid
+2020-06-10,mod_5,162242,3922784,Normal (pre-intervention),solid
+2020-06-10,mod_6,14612,46700,Cautious return,solid
+2020-06-11,mod_2,145672,2112554,Soc. Dist. + Travel Ban,solid
+2020-06-11,mod_3,327862,468763,No Intervention,solid
+2020-06-11,mod_4,56352,488582,Moderate return,solid
+2020-06-11,mod_5,162537,3989814,Normal (pre-intervention),solid
+2020-06-11,mod_6,15396,44917,Cautious return,solid
+2020-06-12,mod_2,146389,2071829,Soc. Dist. + Travel Ban,solid
+2020-06-12,mod_3,324230,457010,No Intervention,solid
+2020-06-12,mod_4,58217,539335,Moderate return,solid
+2020-06-12,mod_5,162609,4147025,Normal (pre-intervention),solid
+2020-06-12,mod_6,16223,43010,Cautious return,solid
+2020-06-13,mod_2,147093,2032449,Soc. Dist. + Travel Ban,solid
+2020-06-13,mod_3,320465,341659,No Intervention,solid
+2020-06-13,mod_4,60029,605746,Moderate return,solid
+2020-06-13,mod_5,162301,4052099,Normal (pre-intervention),solid
+2020-06-13,mod_6,17003,55522,Cautious return,solid
+2020-06-14,mod_2,147522,1799612,Soc. Dist. + Travel Ban,solid
+2020-06-14,mod_3,316616,337698,No Intervention,solid
+2020-06-14,mod_4,61568,691154,Moderate return,solid
+2020-06-14,mod_5,161463,3772327,Normal (pre-intervention),solid
+2020-06-14,mod_6,17812,60279,Cautious return,solid
+2020-06-15,mod_2,147935,1694707,Soc. Dist. + Travel Ban,solid
+2020-06-15,mod_3,312779,367156,No Intervention,solid
+2020-06-15,mod_4,63000,761923,Moderate return,solid
+2020-06-15,mod_5,160466,3653362,Normal (pre-intervention),solid
+2020-06-15,mod_6,18594,58801,Cautious return,solid
+2020-06-16,mod_2,148234,1655968,Soc. Dist. + Travel Ban,solid
+2020-06-16,mod_3,308648,315122,No Intervention,solid
+2020-06-16,mod_4,64380,785567,Moderate return,solid
+2020-06-16,mod_5,159139,3623689,Normal (pre-intervention),solid
+2020-06-16,mod_6,19390,70281,Cautious return,solid
+2020-06-17,mod_2,148235,1509646,Soc. Dist. + Travel Ban,solid
+2020-06-17,mod_3,304618,318629,No Intervention,solid
+2020-06-17,mod_4,65576,876430,Moderate return,solid
+2020-06-17,mod_5,157655,3486939,Normal (pre-intervention),solid
+2020-06-17,mod_6,20089,72530,Cautious return,solid
+2020-06-18,mod_2,148321,1320804,Soc. Dist. + Travel Ban,solid
+2020-06-18,mod_3,300358,220825,No Intervention,solid
+2020-06-18,mod_4,66658,975028,Moderate return,solid
+2020-06-18,mod_5,155918,3205194,Normal (pre-intervention),solid
+2020-06-18,mod_6,20881,85508,Cautious return,solid
+2020-06-19,mod_2,148128,1267022,Soc. Dist. + Travel Ban,solid
+2020-06-19,mod_3,296250,240482,No Intervention,solid
+2020-06-19,mod_4,67665,1042380,Moderate return,solid
+2020-06-19,mod_5,153990,3276522,Normal (pre-intervention),solid
+2020-06-19,mod_6,21590,87083,Cautious return,solid
+2020-06-20,mod_2,147985,1237574,Soc. Dist. + Travel Ban,solid
+2020-06-20,mod_3,291699,210157,No Intervention,solid
+2020-06-20,mod_4,68615,1097295,Moderate return,solid
+2020-06-20,mod_5,151922,2822185,Normal (pre-intervention),solid
+2020-06-20,mod_6,22274,89166,Cautious return,solid
+2020-06-21,mod_2,147551,1011207,Soc. Dist. + Travel Ban,solid
+2020-06-21,mod_3,287475,164577,No Intervention,solid
+2020-06-21,mod_4,69385,1194383,Moderate return,solid
+2020-06-21,mod_5,149807,2522297,Normal (pre-intervention),solid
+2020-06-21,mod_6,22907,96638,Cautious return,solid
+2020-06-22,mod_2,147153,1044152,Soc. Dist. + Travel Ban,solid
+2020-06-22,mod_3,283212,129482,No Intervention,solid
+2020-06-22,mod_4,70134,1171807,Moderate return,solid
+2020-06-22,mod_5,147697,2441462,Normal (pre-intervention),solid
+2020-06-22,mod_6,23596,119080,Cautious return,solid
+2020-06-23,mod_2,146759,942391,Soc. Dist. + Travel Ban,solid
+2020-06-23,mod_3,278507,242490,No Intervention,solid
+2020-06-23,mod_4,70904,1363138,Moderate return,solid
+2020-06-23,mod_5,145205,2256494,Normal (pre-intervention),solid
+2020-06-23,mod_6,24240,111665,Cautious return,solid
+2020-06-24,mod_2,146252,948463,Soc. Dist. + Travel Ban,solid
+2020-06-24,mod_3,273959,63344,No Intervention,solid
+2020-06-24,mod_4,71453,1358769,Moderate return,solid
+2020-06-24,mod_5,142947,1941341,Normal (pre-intervention),solid
+2020-06-24,mod_6,24860,121750,Cautious return,solid
+2020-06-25,mod_2,145560,884026,Soc. Dist. + Travel Ban,solid
+2020-06-25,mod_3,269669,165386,No Intervention,solid
+2020-06-25,mod_4,71972,1504127,Moderate return,solid
+2020-06-25,mod_5,140470,1840544,Normal (pre-intervention),solid
+2020-06-25,mod_6,25463,119192,Cautious return,solid
+2020-06-26,mod_2,144588,761624,Soc. Dist. + Travel Ban,solid
+2020-06-26,mod_3,265336,138394,No Intervention,solid
+2020-06-26,mod_4,72332,1468473,Moderate return,solid
+2020-06-26,mod_5,137865,1614528,Normal (pre-intervention),solid
+2020-06-26,mod_6,26021,141781,Cautious return,solid
+2020-06-27,mod_2,143977,753095,Soc. Dist. + Travel Ban,solid
+2020-06-27,mod_3,260903,151718,No Intervention,solid
+2020-06-27,mod_4,72662,1559867,Moderate return,solid
+2020-06-27,mod_5,135426,1413203,Normal (pre-intervention),solid
+2020-06-27,mod_6,26547,155044,Cautious return,solid
+2020-06-28,mod_2,143040,730072,Soc. Dist. + Travel Ban,solid
+2020-06-28,mod_3,256562,85019,No Intervention,solid
+2020-06-28,mod_4,72890,1697604,Moderate return,solid
+2020-06-28,mod_5,132944,1466001,Normal (pre-intervention),solid
+2020-06-28,mod_6,27036,168316,Cautious return,solid
+2020-06-29,mod_2,142026,602488,Soc. Dist. + Travel Ban,solid
+2020-06-29,mod_3,251930,87146,No Intervention,solid
+2020-06-29,mod_4,73115,1789869,Moderate return,solid
+2020-06-29,mod_5,130388,1114731,Normal (pre-intervention),solid
+2020-06-29,mod_6,27519,162462,Cautious return,solid
+2020-06-30,mod_2,141174,587329,Soc. Dist. + Travel Ban,solid
+2020-06-30,mod_3,247511,80635,No Intervention,solid
+2020-06-30,mod_4,73149,1791117,Moderate return,solid
+2020-06-30,mod_5,127866,979773,Normal (pre-intervention),solid
+2020-06-30,mod_6,27964,181791,Cautious return,solid
+2020-07-01,mod_2,140159,567418,Soc. Dist. + Travel Ban,solid
+2020-07-01,mod_3,243261,72041,No Intervention,solid
+2020-07-01,mod_4,73201,1954775,Moderate return,solid
+2020-07-01,mod_5,125402,966374,Normal (pre-intervention),solid
+2020-07-01,mod_6,28373,205079,Cautious return,solid
+2020-07-02,mod_2,139048,630716,Soc. Dist. + Travel Ban,solid
+2020-07-02,mod_3,238764,87359,No Intervention,solid
+2020-07-02,mod_4,73112,2023601,Moderate return,solid
+2020-07-02,mod_5,122612,766881,Normal (pre-intervention),solid
+2020-07-02,mod_6,28726,221934,Cautious return,solid
+2020-07-03,mod_2,138084,516213,Soc. Dist. + Travel Ban,solid
+2020-07-03,mod_3,234944,63447,No Intervention,solid
+2020-07-03,mod_4,73072,2026000,Moderate return,solid
+2020-07-03,mod_5,120173,758488,Normal (pre-intervention),solid
+2020-07-03,mod_6,29168,230751,Cautious return,solid
+2020-07-04,mod_2,136740,504924,Soc. Dist. + Travel Ban,solid
+2020-07-04,mod_3,230440,15628,No Intervention,solid
+2020-07-04,mod_4,72812,2046595,Moderate return,solid
+2020-07-04,mod_5,117688,649178,Normal (pre-intervention),solid
+2020-07-04,mod_6,29518,210918,Cautious return,solid
+2020-07-05,mod_2,135696,441642,Soc. Dist. + Travel Ban,solid
+2020-07-05,mod_3,226266,58576,No Intervention,solid
+2020-07-05,mod_4,72517,2117673,Moderate return,solid
+2020-07-05,mod_5,115015,475666,Normal (pre-intervention),solid
+2020-07-05,mod_6,29858,284576,Cautious return,solid
+2020-07-06,mod_2,134403,362566,Soc. Dist. + Travel Ban,solid
+2020-07-06,mod_3,222086,347,No Intervention,solid
+2020-07-06,mod_4,72170,2145017,Moderate return,solid
+2020-07-06,mod_5,112532,481004,Normal (pre-intervention),solid
+2020-07-06,mod_6,30119,263051,Cautious return,solid
+2020-07-07,mod_2,133305,384022,Soc. Dist. + Travel Ban,solid
+2020-07-07,mod_3,218300,54350,No Intervention,solid
+2020-07-07,mod_4,71828,2124273,Moderate return,solid
+2020-07-07,mod_5,110016,326787,Normal (pre-intervention),solid
+2020-07-07,mod_6,30422,263507,Cautious return,solid
+2020-07-08,mod_2,131856,477794,Soc. Dist. + Travel Ban,solid
+2020-07-08,mod_3,214410,-2464,No Intervention,solid
+2020-07-08,mod_4,71452,2110089,Moderate return,solid
+2020-07-08,mod_5,107462,504924,Normal (pre-intervention),solid
+2020-07-08,mod_6,30661,317085,Cautious return,solid
+2020-07-09,mod_2,130557,382073,Soc. Dist. + Travel Ban,solid
+2020-07-09,mod_3,210276,95711,No Intervention,solid
+2020-07-09,mod_4,70996,2135313,Moderate return,solid
+2020-07-09,mod_5,105113,342498,Normal (pre-intervention),solid
+2020-07-09,mod_6,30883,286877,Cautious return,solid
+2020-07-10,mod_2,129308,355466,Soc. Dist. + Travel Ban,solid
+2020-07-10,mod_3,206577,-33244,No Intervention,solid
+2020-07-10,mod_4,70402,2111349,Moderate return,solid
+2020-07-10,mod_5,102626,252665,Normal (pre-intervention),solid
+2020-07-10,mod_6,31125,367116,Cautious return,solid
+2020-07-11,mod_2,127840,237328,Soc. Dist. + Travel Ban,solid
+2020-07-11,mod_3,202645,-35413,No Intervention,solid
+2020-07-11,mod_4,69748,1927305,Moderate return,solid
+2020-07-11,mod_5,100291,272913,Normal (pre-intervention),solid
+2020-07-11,mod_6,31312,335526,Cautious return,solid
+2020-07-12,mod_2,126414,254079,Soc. Dist. + Travel Ban,solid
+2020-07-12,mod_3,199020,-26346,No Intervention,solid
+2020-07-12,mod_4,69189,2034424,Moderate return,solid
+2020-07-12,mod_5,97940,203123,Normal (pre-intervention),solid
+2020-07-12,mod_6,31525,411863,Cautious return,solid
+2020-07-13,mod_2,125000,251653,Soc. Dist. + Travel Ban,solid
+2020-07-13,mod_3,195324,2342,No Intervention,solid
+2020-07-13,mod_4,68588,1986030,Moderate return,solid
+2020-07-13,mod_5,95736,105796,Normal (pre-intervention),solid
+2020-07-13,mod_6,31614,334762,Cautious return,solid
+2020-07-14,mod_2,123707,239884,Soc. Dist. + Travel Ban,solid
+2020-07-14,mod_3,191557,1314,No Intervention,solid
+2020-07-14,mod_4,68080,1967207,Moderate return,solid
+2020-07-14,mod_5,93575,192529,Normal (pre-intervention),solid
+2020-07-14,mod_6,31753,405592,Cautious return,solid
+2020-07-15,mod_2,122269,303084,Soc. Dist. + Travel Ban,solid
+2020-07-15,mod_3,188142,23477,No Intervention,solid
+2020-07-15,mod_4,67302,1842744,Moderate return,solid
+2020-07-15,mod_5,91464,195623,Normal (pre-intervention),solid
+2020-07-15,mod_6,31888,428354,Cautious return,solid
+2020-07-16,mod_2,120808,209802,Soc. Dist. + Travel Ban,solid
+2020-07-16,mod_3,184797,-22213,No Intervention,solid
+2020-07-16,mod_4,66575,1807665,Moderate return,solid
+2020-07-16,mod_5,89096,89511,Normal (pre-intervention),solid
+2020-07-16,mod_6,31983,430371,Cautious return,solid
+2020-07-17,mod_2,119301,181755,Soc. Dist. + Travel Ban,solid
+2020-07-17,mod_3,180941,-17192,No Intervention,solid
+2020-07-17,mod_4,65849,1791397,Moderate return,solid
+2020-07-17,mod_5,87161,71405,Normal (pre-intervention),solid
+2020-07-17,mod_6,31926,460217,Cautious return,solid
+2020-07-18,mod_2,117917,223435,Soc. Dist. + Travel Ban,solid
+2020-07-18,mod_3,177828,-45280,No Intervention,solid
+2020-07-18,mod_4,65079,1662718,Moderate return,solid
+2020-07-18,mod_5,85222,56481,Normal (pre-intervention),solid
+2020-07-18,mod_6,32067,504403,Cautious return,solid
+2020-07-19,mod_2,116626,165924,Soc. Dist. + Travel Ban,solid
+2020-07-19,mod_3,174540,21218,No Intervention,solid
+2020-07-19,mod_4,64461,1526514,Moderate return,solid
+2020-07-19,mod_5,83137,86138,Normal (pre-intervention),solid
+2020-07-19,mod_6,32180,484797,Cautious return,solid
+2020-07-20,mod_2,115101,176955,Soc. Dist. + Travel Ban,solid
+2020-07-20,mod_3,171170,-36878,No Intervention,solid
+2020-07-20,mod_4,63561,1516620,Moderate return,solid
+2020-07-20,mod_5,81202,65424,Normal (pre-intervention),solid
+2020-07-20,mod_6,32172,481789,Cautious return,solid
+2020-07-21,mod_2,113447,209680,Soc. Dist. + Travel Ban,solid
+2020-07-21,mod_3,167953,-38916,No Intervention,solid
+2020-07-21,mod_4,62976,1239941,Moderate return,solid
+2020-07-21,mod_5,79416,97299,Normal (pre-intervention),solid
+2020-07-21,mod_6,32060,518099,Cautious return,solid
+2020-07-22,mod_2,112200,171677,Soc. Dist. + Travel Ban,solid
+2020-07-22,mod_3,164749,-25913,No Intervention,solid
+2020-07-22,mod_4,62002,1260113,Moderate return,solid
+2020-07-22,mod_5,77696,23475,Normal (pre-intervention),solid
+2020-07-22,mod_6,32112,593854,Cautious return,solid
+2020-07-23,mod_2,110568,217214,Soc. Dist. + Travel Ban,solid
+2020-07-23,mod_3,161650,-34680,No Intervention,solid
+2020-07-23,mod_4,61193,1271815,Moderate return,solid
+2020-07-23,mod_5,75835,14418,Normal (pre-intervention),solid
+2020-07-23,mod_6,32069,619546,Cautious return,solid
+2020-07-24,mod_2,109111,124031,Soc. Dist. + Travel Ban,solid
+2020-07-24,mod_3,158253,-59356,No Intervention,solid
+2020-07-24,mod_4,60290,1029764,Moderate return,solid
+2020-07-24,mod_5,74161,52913,Normal (pre-intervention),solid
+2020-07-24,mod_6,31895,615720,Cautious return,solid
+2020-07-25,mod_2,107579,157035,Soc. Dist. + Travel Ban,solid
+2020-07-25,mod_3,155649,-36080,No Intervention,solid
+2020-07-25,mod_4,59555,1137959,Moderate return,solid
+2020-07-25,mod_5,72462,-43503,Normal (pre-intervention),solid
+2020-07-25,mod_6,31925,666703,Cautious return,solid
+2020-07-26,mod_2,106076,187450,Soc. Dist. + Travel Ban,solid
+2020-07-26,mod_3,152552,-74070,No Intervention,solid
+2020-07-26,mod_4,58834,801773,Moderate return,solid
+2020-07-26,mod_5,70733,83554,Normal (pre-intervention),solid
+2020-07-26,mod_6,31866,706057,Cautious return,solid
+2020-07-27,mod_2,104706,128247,Soc. Dist. + Travel Ban,solid
+2020-07-27,mod_3,149842,-13694,No Intervention,solid
+2020-07-27,mod_4,58016,1023022,Moderate return,solid
+2020-07-27,mod_5,69273,-1030,Normal (pre-intervention),solid
+2020-07-27,mod_6,31751,684864,Cautious return,solid
+2020-07-28,mod_2,103263,131452,Soc. Dist. + Travel Ban,solid
+2020-07-28,mod_3,146775,-41239,No Intervention,solid
+2020-07-28,mod_4,57136,870167,Moderate return,solid
+2020-07-28,mod_5,67702,4481,Normal (pre-intervention),solid
+2020-07-28,mod_6,31658,763348,Cautious return,solid
+2020-07-29,mod_2,101999,113632,Soc. Dist. + Travel Ban,solid
+2020-07-29,mod_3,144143,-55659,No Intervention,solid
+2020-07-29,mod_4,56318,807300,Moderate return,solid
+2020-07-29,mod_5,66088,-77843,Normal (pre-intervention),solid
+2020-07-29,mod_6,31545,733802,Cautious return,solid
+2020-07-30,mod_2,100554,49028,Soc. Dist. + Travel Ban,solid
+2020-07-30,mod_3,141351,-46081,No Intervention,solid
+2020-07-30,mod_4,55551,707036,Moderate return,solid
+2020-07-30,mod_5,64580,-30197,Normal (pre-intervention),solid
+2020-07-30,mod_6,31355,726834,Cautious return,solid
+2020-07-31,mod_2,99207,82301,Soc. Dist. + Travel Ban,solid
+2020-07-31,mod_3,138761,-57849,No Intervention,solid
+2020-07-31,mod_4,54714,720670,Moderate return,solid
+2020-07-31,mod_5,63205,13806,Normal (pre-intervention),solid
+2020-07-31,mod_6,31239,768421,Cautious return,solid
+2020-08-01,mod_2,97821,114963,Soc. Dist. + Travel Ban,solid
+2020-08-01,mod_3,135905,-51085,No Intervention,solid
+2020-08-01,mod_4,53957,582247,Moderate return,solid
+2020-08-01,mod_5,61745,-32493,Normal (pre-intervention),solid
+2020-08-01,mod_6,31179,846630,Cautious return,solid
+2020-08-02,mod_2,96311,60719,Soc. Dist. + Travel Ban,solid
+2020-08-02,mod_3,133525,-63330,No Intervention,solid
+2020-08-02,mod_4,53038,482403,Moderate return,solid
+2020-08-02,mod_5,60275,-18941,Normal (pre-intervention),solid
+2020-08-02,mod_6,30947,915978,Cautious return,solid
+2020-08-03,mod_2,95158,44971,Soc. Dist. + Travel Ban,solid
+2020-08-03,mod_3,130890,-84634,No Intervention,solid
+2020-08-03,mod_4,52301,504519,Moderate return,solid
+2020-08-03,mod_5,58780,-69994,Normal (pre-intervention),solid
+2020-08-03,mod_6,30767,900341,Cautious return,solid
+2020-08-04,mod_2,93765,54850,Soc. Dist. + Travel Ban,solid
+2020-08-04,mod_3,128546,-77025,No Intervention,solid
+2020-08-04,mod_4,51493,458503,Moderate return,solid
+2020-08-04,mod_5,57620,-84298,Normal (pre-intervention),solid
+2020-08-04,mod_6,30640,866640,Cautious return,solid
+2020-08-05,mod_2,92387,106961,Soc. Dist. + Travel Ban,solid
+2020-08-05,mod_3,126011,-82143,No Intervention,solid
+2020-08-05,mod_4,50597,569266,Moderate return,solid
+2020-08-05,mod_5,56308,166,Normal (pre-intervention),solid
+2020-08-05,mod_6,30435,897199,Cautious return,solid
+2020-08-06,mod_2,91140,61232,Soc. Dist. + Travel Ban,solid
+2020-08-06,mod_3,123398,-17274,No Intervention,solid
+2020-08-06,mod_4,49931,344833,Moderate return,solid
+2020-08-06,mod_5,54948,-52844,Normal (pre-intervention),solid
+2020-08-06,mod_6,30265,1025087,Cautious return,solid
+2020-08-07,mod_2,89751,29146,Soc. Dist. + Travel Ban,solid
+2020-08-07,mod_3,121389,-89053,No Intervention,solid
+2020-08-07,mod_4,49235,476605,Moderate return,solid
+2020-08-07,mod_5,53653,-69832,Normal (pre-intervention),solid
+2020-08-07,mod_6,30096,945618,Cautious return,solid
+2020-08-08,mod_2,88443,44619,Soc. Dist. + Travel Ban,solid
+2020-08-08,mod_3,118968,-58535,No Intervention,solid
+2020-08-08,mod_4,48340,399718,Moderate return,solid
+2020-08-08,mod_5,52512,-24918,Normal (pre-intervention),solid
+2020-08-08,mod_6,29883,932973,Cautious return,solid
+2020-08-09,mod_2,87327,58722,Soc. Dist. + Travel Ban,solid
+2020-08-09,mod_3,116757,-111006,No Intervention,solid
+2020-08-09,mod_4,47472,469868,Moderate return,solid
+2020-08-09,mod_5,51295,-43031,Normal (pre-intervention),solid
+2020-08-09,mod_6,29662,969781,Cautious return,solid
+2020-08-10,mod_2,85968,25791,Soc. Dist. + Travel Ban,solid
+2020-08-10,mod_3,114583,-42370,No Intervention,solid
+2020-08-10,mod_4,46755,215417,Moderate return,solid
+2020-08-10,mod_5,50170,-139172,Normal (pre-intervention),solid
+2020-08-10,mod_6,29432,1096812,Cautious return,solid
+2020-08-11,mod_2,84632,62481,Soc. Dist. + Travel Ban,solid
+2020-08-11,mod_3,112255,-29855,No Intervention,solid
+2020-08-11,mod_4,46002,456559,Moderate return,solid
+2020-08-11,mod_5,48926,-41784,Normal (pre-intervention),solid
+2020-08-11,mod_6,29240,974715,Cautious return,solid
+2020-08-12,mod_2,83463,39684,Soc. Dist. + Travel Ban,solid
+2020-08-12,mod_3,110193,-64753,No Intervention,solid
+2020-08-12,mod_4,45345,324422,Moderate return,solid
+2020-08-12,mod_5,47731,-46111,Normal (pre-intervention),solid
+2020-08-12,mod_6,29036,1216501,Cautious return,solid
+2020-08-13,mod_2,82171,87769,Soc. Dist. + Travel Ban,solid
+2020-08-13,mod_3,108044,-40066,No Intervention,solid
+2020-08-13,mod_4,44697,333580,Moderate return,solid
+2020-08-13,mod_5,46706,-81020,Normal (pre-intervention),solid
+2020-08-13,mod_6,28816,1024502,Cautious return,solid
+2020-08-14,mod_2,80893,37863,Soc. Dist. + Travel Ban,solid
+2020-08-14,mod_3,106303,-59355,No Intervention,solid
+2020-08-14,mod_4,43850,302294,Moderate return,solid
+2020-08-14,mod_5,45734,-88720,Normal (pre-intervention),solid
+2020-08-14,mod_6,28520,1018833,Cautious return,solid
+2020-08-15,mod_2,79859,-14013,Soc. Dist. + Travel Ban,solid
+2020-08-15,mod_3,104226,-78914,No Intervention,solid
+2020-08-15,mod_4,43212,215894,Moderate return,solid
+2020-08-15,mod_5,44737,-114833,Normal (pre-intervention),solid
+2020-08-15,mod_6,28232,998868,Cautious return,solid
+2020-08-16,mod_2,78604,37356,Soc. Dist. + Travel Ban,solid
+2020-08-16,mod_3,102188,-65629,No Intervention,solid
+2020-08-16,mod_4,42396,334277,Moderate return,solid
+2020-08-16,mod_5,43857,-83090,Normal (pre-intervention),solid
+2020-08-16,mod_6,28029,1116955,Cautious return,solid
+2020-08-17,mod_2,77700,-2806,Soc. Dist. + Travel Ban,solid
+2020-08-17,mod_3,100104,-107936,No Intervention,solid
+2020-08-17,mod_4,41888,215131,Moderate return,solid
+2020-08-17,mod_5,42901,-90794,Normal (pre-intervention),solid
+2020-08-17,mod_6,27789,1067092,Cautious return,solid
+2020-08-18,mod_2,76296,47824,Soc. Dist. + Travel Ban,solid
+2020-08-18,mod_3,98607,-87263,No Intervention,solid
+2020-08-18,mod_4,41045,161337,Moderate return,solid
+2020-08-18,mod_5,41783,-101846,Normal (pre-intervention),solid
+2020-08-18,mod_6,27599,1095811,Cautious return,solid
+2020-08-19,mod_2,75381,-44489,Soc. Dist. + Travel Ban,solid
+2020-08-19,mod_3,96363,-85866,No Intervention,solid
+2020-08-19,mod_4,40416,256041,Moderate return,solid
+2020-08-19,mod_5,40790,-108144,Normal (pre-intervention),solid
+2020-08-19,mod_6,27326,1020265,Cautious return,solid
+2020-08-20,mod_2,74174,11697,Soc. Dist. + Travel Ban,solid
+2020-08-20,mod_3,94440,-40544,No Intervention,solid
+2020-08-20,mod_4,39826,221773,Moderate return,solid
+2020-08-20,mod_5,39926,-137618,Normal (pre-intervention),solid
+2020-08-20,mod_6,27003,1048812,Cautious return,solid
+2020-08-21,mod_2,73205,41526,Soc. Dist. + Travel Ban,solid
+2020-08-21,mod_3,92955,-35239,No Intervention,solid
+2020-08-21,mod_4,39190,161234,Moderate return,solid
+2020-08-21,mod_5,39081,-53226,Normal (pre-intervention),solid
+2020-08-21,mod_6,26902,966839,Cautious return,solid
+2020-08-22,mod_2,71978,30207,Soc. Dist. + Travel Ban,solid
+2020-08-22,mod_3,91039,-94775,No Intervention,solid
+2020-08-22,mod_4,38446,117577,Moderate return,solid
+2020-08-22,mod_5,38353,-112233,Normal (pre-intervention),solid
+2020-08-22,mod_6,26497,813866,Cautious return,solid
+2020-08-23,mod_2,70840,10784,Soc. Dist. + Travel Ban,solid
+2020-08-23,mod_3,89295,-54820,No Intervention,solid
+2020-08-23,mod_4,37833,169863,Moderate return,solid
+2020-08-23,mod_5,37476,-114861,Normal (pre-intervention),solid
+2020-08-23,mod_6,26364,1017154,Cautious return,solid
+2020-08-24,mod_2,69910,-29028,Soc. Dist. + Travel Ban,solid
+2020-08-24,mod_3,87410,-62295,No Intervention,solid
+2020-08-24,mod_4,37204,144335,Moderate return,solid
+2020-08-24,mod_5,36444,-122167,Normal (pre-intervention),solid
+2020-08-24,mod_6,26020,858757,Cautious return,solid
+2020-08-25,mod_2,68998,35664,Soc. Dist. + Travel Ban,solid
+2020-08-25,mod_3,86075,-81697,No Intervention,solid
+2020-08-25,mod_4,36613,132727,Moderate return,solid
+2020-08-25,mod_5,35860,-38328,Normal (pre-intervention),solid
+2020-08-25,mod_6,25836,825048,Cautious return,solid
+2020-08-26,mod_2,67809,-25514,Soc. Dist. + Travel Ban,solid
+2020-08-26,mod_3,84491,-67900,No Intervention,solid
+2020-08-26,mod_4,35916,154027,Moderate return,solid
+2020-08-26,mod_5,34974,-96769,Normal (pre-intervention),solid
+2020-08-26,mod_6,25433,827137,Cautious return,solid
+2020-08-27,mod_2,66818,-5477,Soc. Dist. + Travel Ban,solid
+2020-08-27,mod_3,82639,-49700,No Intervention,solid
+2020-08-27,mod_4,35270,40892,Moderate return,solid
+2020-08-27,mod_5,34261,-65472,Normal (pre-intervention),solid
+2020-08-27,mod_6,25311,870571,Cautious return,solid
+2020-08-28,mod_2,65961,8174,Soc. Dist. + Travel Ban,solid
+2020-08-28,mod_3,81274,-110355,No Intervention,solid
+2020-08-28,mod_4,34776,151825,Moderate return,solid
+2020-08-28,mod_5,33370,-67350,Normal (pre-intervention),solid
+2020-08-28,mod_6,25057,855902,Cautious return,solid
+2020-08-29,mod_2,64844,44240,Soc. Dist. + Travel Ban,solid
+2020-08-29,mod_3,79913,-61283,No Intervention,solid
+2020-08-29,mod_4,34200,33624,Moderate return,solid
+2020-08-29,mod_5,32734,-96397,Normal (pre-intervention),solid
+2020-08-29,mod_6,24698,930835,Cautious return,solid
+2020-08-30,mod_2,63709,-19541,Soc. Dist. + Travel Ban,solid
+2020-08-30,mod_3,77951,-92679,No Intervention,solid
+2020-08-30,mod_4,33573,64292,Moderate return,solid
+2020-08-30,mod_5,31921,-95977,Normal (pre-intervention),solid
+2020-08-30,mod_6,24445,801269,Cautious return,solid
+2020-08-31,mod_2,62818,16822,Soc. Dist. + Travel Ban,solid
+2020-08-31,mod_3,76724,-69910,No Intervention,solid
+2020-08-31,mod_4,33061,125864,Moderate return,solid
+2020-08-31,mod_5,31322,-86526,Normal (pre-intervention),solid
+2020-08-31,mod_6,24285,712023,Cautious return,solid
+2020-09-01,mod_2,61918,-6726,Soc. Dist. + Travel Ban,solid
+2020-09-01,mod_3,75328,-66176,No Intervention,solid
+2020-09-01,mod_4,32551,15982,Moderate return,solid
+2020-09-01,mod_5,30717,-131582,Normal (pre-intervention),solid
+2020-09-01,mod_6,23847,791748,Cautious return,solid
+2020-09-02,mod_2,61080,-27902,Soc. Dist. + Travel Ban,solid
+2020-09-02,mod_3,73897,-76926,No Intervention,solid
+2020-09-02,mod_4,32014,45390,Moderate return,solid
+2020-09-02,mod_5,29912,-105906,Normal (pre-intervention),solid
+2020-09-02,mod_6,23669,768876,Cautious return,solid
+2020-09-03,mod_2,60252,-20405,Soc. Dist. + Travel Ban,solid
+2020-09-03,mod_3,72626,-98033,No Intervention,solid
+2020-09-03,mod_4,31554,99211,Moderate return,solid
+2020-09-03,mod_5,29337,-48951,Normal (pre-intervention),solid
+2020-09-03,mod_6,23524,802035,Cautious return,solid
+2020-09-04,mod_2,59105,26140,Soc. Dist. + Travel Ban,solid
+2020-09-04,mod_3,71324,-35473,No Intervention,solid
+2020-09-04,mod_4,31011,121392,Moderate return,solid
+2020-09-04,mod_5,28528,-120450,Normal (pre-intervention),solid
+2020-09-04,mod_6,23193,512651,Cautious return,solid
+2020-09-05,mod_2,58213,27734,Soc. Dist. + Travel Ban,solid
+2020-09-05,mod_3,69856,-73104,No Intervention,solid
+2020-09-05,mod_4,30383,20977,Moderate return,solid
+2020-09-05,mod_5,28122,-97028,Normal (pre-intervention),solid
+2020-09-05,mod_6,22932,713191,Cautious return,solid
+2020-09-06,mod_2,57502,-42655,Soc. Dist. + Travel Ban,solid
+2020-09-06,mod_3,68779,-128206,No Intervention,solid
+2020-09-06,mod_4,29961,75879,Moderate return,solid
+2020-09-06,mod_5,27488,-68763,Normal (pre-intervention),solid
+2020-09-06,mod_6,22686,692126,Cautious return,solid
+2020-09-07,mod_2,56595,8305,Soc. Dist. + Travel Ban,solid
+2020-09-07,mod_3,67405,-73955,No Intervention,solid
+2020-09-07,mod_4,29534,43856,Moderate return,solid
+2020-09-07,mod_5,27016,-59392,Normal (pre-intervention),solid
+2020-09-07,mod_6,22473,654013,Cautious return,solid
+2020-09-08,mod_2,55689,-33792,Soc. Dist. + Travel Ban,solid
+2020-09-08,mod_3,66033,-79419,No Intervention,solid
+2020-09-08,mod_4,28891,50362,Moderate return,solid
+2020-09-08,mod_5,26367,-75054,Normal (pre-intervention),solid
+2020-09-08,mod_6,22145,617827,Cautious return,solid
+2020-09-09,mod_2,55012,6178,Soc. Dist. + Travel Ban,solid
+2020-09-09,mod_3,64863,-97520,No Intervention,solid
+2020-09-09,mod_4,28386,72464,Moderate return,solid
+2020-09-09,mod_5,25850,-145720,Normal (pre-intervention),solid
+2020-09-09,mod_6,21939,584017,Cautious return,solid
+2020-09-10,mod_2,54133,-35656,Soc. Dist. + Travel Ban,solid
+2020-09-10,mod_3,63711,-59798,No Intervention,solid
+2020-09-10,mod_4,27993,17527,Moderate return,solid
+2020-09-10,mod_5,25378,-79892,Normal (pre-intervention),solid
+2020-09-10,mod_6,21674,661517,Cautious return,solid
+2020-09-11,mod_2,53191,-38802,Soc. Dist. + Travel Ban,solid
+2020-09-11,mod_3,62774,-103341,No Intervention,solid
+2020-09-11,mod_4,27364,12768,Moderate return,solid
+2020-09-11,mod_5,24598,-116428,Normal (pre-intervention),solid
+2020-09-11,mod_6,21528,560836,Cautious return,solid
+2020-09-12,mod_2,52515,-12819,Soc. Dist. + Travel Ban,solid
+2020-09-12,mod_3,61594,-108866,No Intervention,solid
+2020-09-12,mod_4,27112,16358,Moderate return,solid
+2020-09-12,mod_5,24189,-54256,Normal (pre-intervention),solid
+2020-09-12,mod_6,21150,491827,Cautious return,solid
+2020-09-13,mod_2,51885,-40720,Soc. Dist. + Travel Ban,solid
+2020-09-13,mod_3,60467,-46250,No Intervention,solid
+2020-09-13,mod_4,26663,98602,Moderate return,solid
+2020-09-13,mod_5,23667,-31793,Normal (pre-intervention),solid
+2020-09-13,mod_6,20956,496202,Cautious return,solid
+2020-09-14,mod_2,50879,-24501,Soc. Dist. + Travel Ban,solid
+2020-09-14,mod_3,59470,-70701,No Intervention,solid
+2020-09-14,mod_4,26101,59418,Moderate return,solid
+2020-09-14,mod_5,23213,-100444,Normal (pre-intervention),solid
+2020-09-14,mod_6,20746,540346,Cautious return,solid
+2020-09-15,mod_2,50001,-4801,Soc. Dist. + Travel Ban,solid
+2020-09-15,mod_3,58143,-45085,No Intervention,solid
+2020-09-15,mod_4,25745,31569,Moderate return,solid
+2020-09-15,mod_5,22731,-66058,Normal (pre-intervention),solid
+2020-09-15,mod_6,20456,329164,Cautious return,solid
+2020-09-16,mod_2,49218,-31026,Soc. Dist. + Travel Ban,solid
+2020-09-16,mod_3,57144,-96593,No Intervention,solid
+2020-09-16,mod_4,25160,41446,Moderate return,solid
+2020-09-16,mod_5,22264,-97588,Normal (pre-intervention),solid
+2020-09-16,mod_6,20207,463610,Cautious return,solid
+2020-09-17,mod_2,48714,-66501,Soc. Dist. + Travel Ban,solid
+2020-09-17,mod_3,56025,-67707,No Intervention,solid
+2020-09-17,mod_4,24754,-6341,Moderate return,solid
+2020-09-17,mod_5,21712,-69240,Normal (pre-intervention),solid
+2020-09-17,mod_6,19856,502302,Cautious return,solid
 2020-09-18,mod_2,NA,NA,Soc. Dist. + Travel Ban,solid
 2020-09-18,mod_3,NA,NA,No Intervention,solid
 2020-09-18,mod_4,NA,NA,Moderate return,solid
@@ -1047,3 +1043,8 @@ Dates,variable,value,upper_ci,color,type
 2020-10-24,mod_4,NA,NA,Moderate return,solid
 2020-10-24,mod_5,NA,NA,Normal (pre-intervention),solid
 2020-10-24,mod_6,NA,NA,Cautious return,solid
+2020-10-25,mod_2,NA,NA,Soc. Dist. + Travel Ban,solid
+2020-10-25,mod_3,NA,NA,No Intervention,solid
+2020-10-25,mod_4,NA,NA,Moderate return,solid
+2020-10-25,mod_5,NA,NA,Normal (pre-intervention),solid
+2020-10-25,mod_6,NA,NA,Cautious return,solid
