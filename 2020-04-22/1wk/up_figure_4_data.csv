@@ -1,0 +1,639 @@
+Dates	variable	value	upper_ci	color	type
+2020-03-15	True	13	NA	Observed	solid
+2020-03-16	True	13	NA	Observed	solid
+2020-03-17	True	15	NA	Observed	solid
+2020-03-18	True	17	NA	Observed	solid
+2020-03-19	True	20	NA	Observed	solid
+2020-03-20	True	24	NA	Observed	solid
+2020-03-21	True	28	NA	Observed	solid
+2020-03-22	True	30	NA	Observed	solid
+2020-03-23	True	32	NA	Observed	solid
+2020-03-24	True	35	NA	Observed	solid
+2020-03-25	True	38	NA	Observed	solid
+2020-03-26	True	42	NA	Observed	solid
+2020-03-27	True	49	NA	Observed	solid
+2020-03-28	True	65	NA	Observed	solid
+2020-03-29	True	72	NA	Observed	solid
+2020-03-30	True	96	NA	Observed	solid
+2020-03-31	True	104	NA	Observed	solid
+2020-04-01	True	117	NA	Observed	solid
+2020-04-02	True	128	NA	Observed	solid
+2020-04-03	True	174	NA	Observed	solid
+2020-04-04	True	234	NA	Observed	solid
+2020-04-05	True	278	NA	Observed	solid
+2020-04-06	True	305	NA	Observed	solid
+2020-04-07	True	332	NA	Observed	solid
+2020-04-08	True	361	NA	Observed	solid
+2020-04-09	True	410	NA	Observed	solid
+2020-04-10	True	433	NA	Observed	solid
+2020-04-11	True	452	NA	Observed	solid
+2020-04-12	True	483	NA	Observed	solid
+2020-04-13	True	558	NA	Observed	solid
+2020-04-14	True	660	NA	Observed	solid
+2020-04-15	True	735	NA	Observed	solid
+2020-04-16	True	805	NA	Observed	solid
+2020-04-17	True	849	NA	Observed	solid
+2020-04-18	True	975	NA	Observed	solid
+2020-04-19	True	1100	NA	Observed	solid
+2020-04-20	True	1184	NA	Observed	solid
+2020-04-21	True	1337	NA	Observed	solid
+2020-04-22	mod_2	1520	8478	Social distancing	solid
+2020-04-22	mod_3	1525	8571	No intervention	solid
+2020-04-22	mod_4	1318	8119	Lockdown with moderate release	solid
+2020-04-23	mod_2	1797	9913	Social distancing	solid
+2020-04-23	mod_3	1813	9932	No intervention	solid
+2020-04-23	mod_4	1406	8747	Lockdown with moderate release	solid
+2020-04-24	mod_2	2130	11576	Social distancing	solid
+2020-04-24	mod_3	2163	11736	No intervention	solid
+2020-04-24	mod_4	1493	9463	Lockdown with moderate release	solid
+2020-04-25	mod_2	2535	13892	Social distancing	solid
+2020-04-25	mod_3	2594	14016	No intervention	solid
+2020-04-25	mod_4	1581	10137	Lockdown with moderate release	solid
+2020-04-26	mod_2	3033	16651	Social distancing	solid
+2020-04-26	mod_3	3137	17089	No intervention	solid
+2020-04-26	mod_4	1669	10766	Lockdown with moderate release	solid
+2020-04-27	mod_2	3661	20637	Social distancing	solid
+2020-04-27	mod_3	3827	21161	No intervention	solid
+2020-04-27	mod_4	1758	11484	Lockdown with moderate release	solid
+2020-04-28	mod_2	4462	25953	Social distancing	solid
+2020-04-28	mod_3	4718	26662	No intervention	solid
+2020-04-28	mod_4	1849	12214	Lockdown with moderate release	solid
+2020-04-29	mod_2	5506	32861	Social distancing	solid
+2020-04-29	mod_3	5890	34198	No intervention	solid
+2020-04-29	mod_4	1937	12883	Lockdown with moderate release	solid
+2020-04-30	mod_2	6883	42237	Social distancing	solid
+2020-04-30	mod_3	7466	44817	No intervention	solid
+2020-04-30	mod_4	2026	13723	Lockdown with moderate release	solid
+2020-05-01	mod_2	8743	55595	Social distancing	solid
+2020-05-01	mod_3	9617	59457	No intervention	solid
+2020-05-01	mod_4	2120	14523	Lockdown with moderate release	solid
+2020-05-02	mod_2	11284	73238	Social distancing	solid
+2020-05-02	mod_3	12596	80324	No intervention	solid
+2020-05-02	mod_4	2215	15265	Lockdown with moderate release	solid
+2020-05-03	mod_2	14808	98122	Social distancing	solid
+2020-05-03	mod_3	16783	108762	No intervention	solid
+2020-05-03	mod_4	2310	16265	Lockdown with moderate release	solid
+2020-05-04	mod_2	19717	131823	Social distancing	solid
+2020-05-04	mod_3	22692	147224	No intervention	solid
+2020-05-04	mod_4	2411	17107	Lockdown with moderate release	solid
+2020-05-05	mod_2	26597	177930	Social distancing	solid
+2020-05-05	mod_3	31053	203134	No intervention	solid
+2020-05-05	mod_4	2514	18055	Lockdown with moderate release	solid
+2020-05-06	mod_2	36166	241065	Social distancing	solid
+2020-05-06	mod_3	42788	281690	No intervention	solid
+2020-05-06	mod_4	2623	18923	Lockdown with moderate release	solid
+2020-05-07	mod_2	49294	328121	Social distancing	solid
+2020-05-07	mod_3	58991	389274	No intervention	solid
+2020-05-07	mod_4	2734	20035	Lockdown with moderate release	solid
+2020-05-08	mod_2	66974	445653	Social distancing	solid
+2020-05-08	mod_3	80887	538247	No intervention	solid
+2020-05-08	mod_4	2854	21056	Lockdown with moderate release	solid
+2020-05-09	mod_2	90293	605579	Social distancing	solid
+2020-05-09	mod_3	109829	747324	No intervention	solid
+2020-05-09	mod_4	2978	22218	Lockdown with moderate release	solid
+2020-05-10	mod_2	120398	827562	Social distancing	solid
+2020-05-10	mod_3	147185	1033700	No intervention	solid
+2020-05-10	mod_4	3109	23241	Lockdown with moderate release	solid
+2020-05-11	mod_2	158360	1122892	Social distancing	solid
+2020-05-11	mod_3	194279	1423606	No intervention	solid
+2020-05-11	mod_4	3251	24559	Lockdown with moderate release	solid
+2020-05-12	mod_2	205257	1527343	Social distancing	solid
+2020-05-12	mod_3	252288	1960840	No intervention	solid
+2020-05-12	mod_4	3407	25735	Lockdown with moderate release	solid
+2020-05-13	mod_2	261919	2073657	Social distancing	solid
+2020-05-13	mod_3	322167	2679893	No intervention	solid
+2020-05-13	mod_4	3586	27356	Lockdown with moderate release	solid
+2020-05-14	mod_2	329065	2785263	Social distancing	solid
+2020-05-14	mod_3	404714	3611429	No intervention	solid
+2020-05-14	mod_4	3794	28671	Lockdown with moderate release	solid
+2020-05-15	mod_2	407238	3711365	Social distancing	solid
+2020-05-15	mod_3	500497	4833711	No intervention	solid
+2020-05-15	mod_4	4039	30390	Lockdown with moderate release	solid
+2020-05-16	mod_2	496851	4882712	Social distancing	solid
+2020-05-16	mod_3	609845	6337128	No intervention	solid
+2020-05-16	mod_4	4334	32231	Lockdown with moderate release	solid
+2020-05-17	mod_2	597993	6283367	Social distancing	solid
+2020-05-17	mod_3	732871	8053759	No intervention	solid
+2020-05-17	mod_4	4696	34552	Lockdown with moderate release	solid
+2020-05-18	mod_2	710678	7915528	Social distancing	solid
+2020-05-18	mod_3	869336	9976378	No intervention	solid
+2020-05-18	mod_4	5143	37295	Lockdown with moderate release	solid
+2020-05-19	mod_2	834650	9762614	Social distancing	solid
+2020-05-19	mod_3	1018939	12083641	No intervention	solid
+2020-05-19	mod_4	5704	40086	Lockdown with moderate release	solid
+2020-05-20	mod_2	969307	11763596	Social distancing	solid
+2020-05-20	mod_3	1181141	14296742	No intervention	solid
+2020-05-20	mod_4	6420	43514	Lockdown with moderate release	solid
+2020-05-21	mod_2	1114055	13881679	Social distancing	solid
+2020-05-21	mod_3	1355246	16657288	No intervention	solid
+2020-05-21	mod_4	7353	47806	Lockdown with moderate release	solid
+2020-05-22	mod_2	1268145	16166770	Social distancing	solid
+2020-05-22	mod_3	1540424	19082437	No intervention	solid
+2020-05-22	mod_4	8563	52466	Lockdown with moderate release	solid
+2020-05-23	mod_2	1430698	18505024	Social distancing	solid
+2020-05-23	mod_3	1735816	21455160	No intervention	solid
+2020-05-23	mod_4	10150	58124	Lockdown with moderate release	solid
+2020-05-24	mod_2	1600959	20789790	Social distancing	solid
+2020-05-24	mod_3	1940450	23823187	No intervention	solid
+2020-05-24	mod_4	12239	64893	Lockdown with moderate release	solid
+2020-05-25	mod_2	1778023	23113253	Social distancing	solid
+2020-05-25	mod_3	2153284	26049952	No intervention	solid
+2020-05-25	mod_4	14962	73540	Lockdown with moderate release	solid
+2020-05-26	mod_2	1961057	25335772	Social distancing	solid
+2020-05-26	mod_3	2373306	28122392	No intervention	solid
+2020-05-26	mod_4	18488	83774	Lockdown with moderate release	solid
+2020-05-27	mod_2	2149222	27455858	Social distancing	solid
+2020-05-27	mod_3	2599566	30067172	No intervention	solid
+2020-05-27	mod_4	23012	96968	Lockdown with moderate release	solid
+2020-05-28	mod_2	2341729	29370814	Social distancing	solid
+2020-05-28	mod_3	2831010	31847789	No intervention	solid
+2020-05-28	mod_4	28772	112807	Lockdown with moderate release	solid
+2020-05-29	mod_2	2537713	31077576	Social distancing	solid
+2020-05-29	mod_3	3066746	33391453	No intervention	solid
+2020-05-29	mod_4	36076	133696	Lockdown with moderate release	solid
+2020-05-30	mod_2	2736535	32597666	Social distancing	solid
+2020-05-30	mod_3	3305716	34737855	No intervention	solid
+2020-05-30	mod_4	45264	159452	Lockdown with moderate release	solid
+2020-05-31	mod_2	2937378	33878155	Social distancing	solid
+2020-05-31	mod_3	3547012	35857460	No intervention	solid
+2020-05-31	mod_4	56744	193360	Lockdown with moderate release	solid
+2020-06-01	mod_2	3139528	35011662	Social distancing	solid
+2020-06-01	mod_3	3789977	36884889	No intervention	solid
+2020-06-01	mod_4	70967	237823	Lockdown with moderate release	solid
+2020-06-02	mod_2	3342373	35973249	Social distancing	solid
+2020-06-02	mod_3	4033833	37786903	No intervention	solid
+2020-06-02	mod_4	87944	293359	Lockdown with moderate release	solid
+2020-06-03	mod_2	3545318	36795820	Social distancing	solid
+2020-06-03	mod_3	4277768	38555600	No intervention	solid
+2020-06-03	mod_4	107828	367703	Lockdown with moderate release	solid
+2020-06-04	mod_2	3747798	37603832	Social distancing	solid
+2020-06-04	mod_3	4521121	39205333	No intervention	solid
+2020-06-04	mod_4	130795	458422	Lockdown with moderate release	solid
+2020-06-05	mod_2	3949521	38274140	Social distancing	solid
+2020-06-05	mod_3	4763438	39794136	No intervention	solid
+2020-06-05	mod_4	156874	577720	Lockdown with moderate release	solid
+2020-06-06	mod_2	4149845	38867230	Social distancing	solid
+2020-06-06	mod_3	5004042	40295358	No intervention	solid
+2020-06-06	mod_4	186038	730056	Lockdown with moderate release	solid
+2020-06-07	mod_2	4348444	39404641	Social distancing	solid
+2020-06-07	mod_3	5242626	40761217	No intervention	solid
+2020-06-07	mod_4	218298	920059	Lockdown with moderate release	solid
+2020-06-08	mod_2	4545089	39828243	Social distancing	solid
+2020-06-08	mod_3	5478648	41150755	No intervention	solid
+2020-06-08	mod_4	253557	1161979	Lockdown with moderate release	solid
+2020-06-09	mod_2	4739488	40218565	Social distancing	solid
+2020-06-09	mod_3	5711945	41506599	No intervention	solid
+2020-06-09	mod_4	291677	1469023	Lockdown with moderate release	solid
+2020-06-10	mod_2	4931402	40543037	Social distancing	solid
+2020-06-10	mod_3	5942145	41844155	No intervention	solid
+2020-06-10	mod_4	332545	1845785	Lockdown with moderate release	solid
+2020-06-11	mod_2	5120564	40855336	Social distancing	solid
+2020-06-11	mod_3	6169002	42128068	No intervention	solid
+2020-06-11	mod_4	375935	2310700	Lockdown with moderate release	solid
+2020-06-12	mod_2	5306751	41130119	Social distancing	solid
+2020-06-12	mod_3	6392289	42400262	No intervention	solid
+2020-06-12	mod_4	421581	2887203	Lockdown with moderate release	solid
+2020-06-13	mod_2	5490069	41367078	Social distancing	solid
+2020-06-13	mod_3	6611771	42595565	No intervention	solid
+2020-06-13	mod_4	469261	3569870	Lockdown with moderate release	solid
+2020-06-14	mod_2	5670151	41583537	Social distancing	solid
+2020-06-14	mod_3	6827281	42765959	No intervention	solid
+2020-06-14	mod_4	518714	4377193	Lockdown with moderate release	solid
+2020-06-15	mod_2	5847041	41789308	Social distancing	solid
+2020-06-15	mod_3	7038793	42927931	No intervention	solid
+2020-06-15	mod_4	569669	5270135	Lockdown with moderate release	solid
+2020-06-16	mod_2	6020536	41968009	Social distancing	solid
+2020-06-16	mod_3	7246007	43039305	No intervention	solid
+2020-06-16	mod_4	621905	6249449	Lockdown with moderate release	solid
+2020-06-17	mod_2	6190542	42110160	Social distancing	solid
+2020-06-17	mod_3	7448999	43182489	No intervention	solid
+2020-06-17	mod_4	675148	7380317	Lockdown with moderate release	solid
+2020-06-18	mod_2	6357020	42273449	Social distancing	solid
+2020-06-18	mod_3	7647638	43305201	No intervention	solid
+2020-06-18	mod_4	729171	8536185	Lockdown with moderate release	solid
+2020-06-19	mod_2	6520007	42392756	Social distancing	solid
+2020-06-19	mod_3	7841944	43394213	No intervention	solid
+2020-06-19	mod_4	783781	9808352	Lockdown with moderate release	solid
+2020-06-20	mod_2	6679455	42494203	Social distancing	solid
+2020-06-20	mod_3	8031949	43485106	No intervention	solid
+2020-06-20	mod_4	838716	11183228	Lockdown with moderate release	solid
+2020-06-21	mod_2	6835369	42607465	Social distancing	solid
+2020-06-21	mod_3	8217549	43571464	No intervention	solid
+2020-06-21	mod_4	893797	12563714	Lockdown with moderate release	solid
+2020-06-22	mod_2	6987548	42700806	Social distancing	solid
+2020-06-22	mod_3	8398708	43642884	No intervention	solid
+2020-06-22	mod_4	948894	14078892	Lockdown with moderate release	solid
+2020-06-23	mod_2	7136219	42780936	Social distancing	solid
+2020-06-23	mod_3	8575402	43697487	No intervention	solid
+2020-06-23	mod_4	1003821	15637247	Lockdown with moderate release	solid
+2020-06-24	mod_2	7281235	42858338	Social distancing	solid
+2020-06-24	mod_3	8747814	43770310	No intervention	solid
+2020-06-24	mod_4	1058426	17212574	Lockdown with moderate release	solid
+2020-06-25	mod_2	7422711	42934076	Social distancing	solid
+2020-06-25	mod_3	8915930	43799861	No intervention	solid
+2020-06-25	mod_4	1112663	18813597	Lockdown with moderate release	solid
+2020-06-26	mod_2	7560689	42999063	Social distancing	solid
+2020-06-26	mod_3	9079730	43832241	No intervention	solid
+2020-06-26	mod_4	1166363	20377703	Lockdown with moderate release	solid
+2020-06-27	mod_2	7695122	43031460	Social distancing	solid
+2020-06-27	mod_3	9239288	43864070	No intervention	solid
+2020-06-27	mod_4	1219460	21931030	Lockdown with moderate release	solid
+2020-06-28	mod_2	7825971	43084016	Social distancing	solid
+2020-06-28	mod_3	9394716	43898723	No intervention	solid
+2020-06-28	mod_4	1271925	23453890	Lockdown with moderate release	solid
+2020-06-29	mod_2	7953491	43099862	Social distancing	solid
+2020-06-29	mod_3	9546067	43922707	No intervention	solid
+2020-06-29	mod_4	1323673	24831185	Lockdown with moderate release	solid
+2020-06-30	mod_2	8077628	43122466	Social distancing	solid
+2020-06-30	mod_3	9693442	43934242	No intervention	solid
+2020-06-30	mod_4	1374629	26211855	Lockdown with moderate release	solid
+2020-07-01	mod_2	8198667	43150033	Social distancing	solid
+2020-07-01	mod_3	9836871	43921128	No intervention	solid
+2020-07-01	mod_4	1424821	27423901	Lockdown with moderate release	solid
+2020-07-02	mod_2	8316330	43174956	Social distancing	solid
+2020-07-02	mod_3	9976455	43924577	No intervention	solid
+2020-07-02	mod_4	1474234	28575287	Lockdown with moderate release	solid
+2020-07-03	mod_2	8430749	43174844	Social distancing	solid
+2020-07-03	mod_3	10112193	43917496	No intervention	solid
+2020-07-03	mod_4	1522767	29607730	Lockdown with moderate release	solid
+2020-07-04	mod_2	8542087	43183079	Social distancing	solid
+2020-07-04	mod_3	10244280	43906860	No intervention	solid
+2020-07-04	mod_4	1570438	30569706	Lockdown with moderate release	solid
+2020-07-05	mod_2	8650295	43171697	Social distancing	solid
+2020-07-05	mod_3	10372891	43873791	No intervention	solid
+2020-07-05	mod_4	1617231	31434654	Lockdown with moderate release	solid
+2020-07-06	mod_2	8755521	43150586	Social distancing	solid
+2020-07-06	mod_3	10497821	43861651	No intervention	solid
+2020-07-06	mod_4	1663099	32197743	Lockdown with moderate release	solid
+2020-07-07	mod_2	8857949	43131648	Social distancing	solid
+2020-07-07	mod_3	10619410	43840348	No intervention	solid
+2020-07-07	mod_4	1708077	32900770	Lockdown with moderate release	solid
+2020-07-08	mod_2	8957557	43135361	Social distancing	solid
+2020-07-08	mod_3	10737626	43789275	No intervention	solid
+2020-07-08	mod_4	1752126	33488446	Lockdown with moderate release	solid
+2020-07-09	mod_2	9054329	43121297	Social distancing	solid
+2020-07-09	mod_3	10852733	43780196	No intervention	solid
+2020-07-09	mod_4	1795275	34029826	Lockdown with moderate release	solid
+2020-07-10	mod_2	9148483	43100195	Social distancing	solid
+2020-07-10	mod_3	10964517	43741746	No intervention	solid
+2020-07-10	mod_4	1837549	34481915	Lockdown with moderate release	solid
+2020-07-11	mod_2	9239994	43089271	Social distancing	solid
+2020-07-11	mod_3	11073327	43724465	No intervention	solid
+2020-07-11	mod_4	1878882	34862561	Lockdown with moderate release	solid
+2020-07-12	mod_2	9328989	43071037	Social distancing	solid
+2020-07-12	mod_3	11179123	43689568	No intervention	solid
+2020-07-12	mod_4	1919327	35254624	Lockdown with moderate release	solid
+2020-07-13	mod_2	9415441	43068946	Social distancing	solid
+2020-07-13	mod_3	11281887	43675955	No intervention	solid
+2020-07-13	mod_4	1958848	35554625	Lockdown with moderate release	solid
+2020-07-14	mod_2	9499413	43055814	Social distancing	solid
+2020-07-14	mod_3	11381835	43636771	No intervention	solid
+2020-07-14	mod_4	1997497	35842925	Lockdown with moderate release	solid
+2020-07-15	mod_2	9581109	43011575	Social distancing	solid
+2020-07-15	mod_3	11479110	43599926	No intervention	solid
+2020-07-15	mod_4	2035269	36082117	Lockdown with moderate release	solid
+2020-07-16	mod_2	9660598	42975948	Social distancing	solid
+2020-07-16	mod_3	11573689	43572780	No intervention	solid
+2020-07-16	mod_4	2072225	36297882	Lockdown with moderate release	solid
+2020-07-17	mod_2	9737835	42931637	Social distancing	solid
+2020-07-17	mod_3	11665556	43537671	No intervention	solid
+2020-07-17	mod_4	2108294	36507712	Lockdown with moderate release	solid
+2020-07-18	mod_2	9812900	42893720	Social distancing	solid
+2020-07-18	mod_3	11754880	43509950	No intervention	solid
+2020-07-18	mod_4	2143589	36709141	Lockdown with moderate release	solid
+2020-07-19	mod_2	9885824	42864471	Social distancing	solid
+2020-07-19	mod_3	11841831	43479942	No intervention	solid
+2020-07-19	mod_4	2177965	36859547	Lockdown with moderate release	solid
+2020-07-20	mod_2	9956820	42838786	Social distancing	solid
+2020-07-20	mod_3	11926319	43441609	No intervention	solid
+2020-07-20	mod_4	2211532	36979857	Lockdown with moderate release	solid
+2020-07-21	mod_2	10025858	42789782	Social distancing	solid
+2020-07-21	mod_3	12008432	43377266	No intervention	solid
+2020-07-21	mod_4	2244347	37104832	Lockdown with moderate release	solid
+2020-07-22	mod_2	10092997	42750173	Social distancing	solid
+2020-07-22	mod_3	12088203	43328488	No intervention	solid
+2020-07-22	mod_4	2276385	37200258	Lockdown with moderate release	solid
+2020-07-23	mod_2	10158285	42716149	Social distancing	solid
+2020-07-23	mod_3	12165769	43281004	No intervention	solid
+2020-07-23	mod_4	2307634	37289594	Lockdown with moderate release	solid
+2020-07-24	mod_2	10221619	42678989	Social distancing	solid
+2020-07-24	mod_3	12241240	43256400	No intervention	solid
+2020-07-24	mod_4	2338134	37338455	Lockdown with moderate release	solid
+2020-07-25	mod_2	10283273	42646389	Social distancing	solid
+2020-07-25	mod_3	12314567	43207585	No intervention	solid
+2020-07-25	mod_4	2367955	37402867	Lockdown with moderate release	solid
+2020-07-26	mod_2	10343367	42623389	Social distancing	solid
+2020-07-26	mod_3	12385925	43156293	No intervention	solid
+2020-07-26	mod_4	2396949	37441419	Lockdown with moderate release	solid
+2020-07-27	mod_2	10401748	42590856	Social distancing	solid
+2020-07-27	mod_3	12455375	43093742	No intervention	solid
+2020-07-27	mod_4	2425281	37498855	Lockdown with moderate release	solid
+2020-07-28	mod_2	10458572	42547748	Social distancing	solid
+2020-07-28	mod_3	12523022	43035484	No intervention	solid
+2020-07-28	mod_4	2452909	37529355	Lockdown with moderate release	solid
+2020-07-29	mod_2	10513849	42502645	Social distancing	solid
+2020-07-29	mod_3	12588656	42987343	No intervention	solid
+2020-07-29	mod_4	2479872	37553458	Lockdown with moderate release	solid
+2020-07-30	mod_2	10567661	42477700	Social distancing	solid
+2020-07-30	mod_3	12652526	42918222	No intervention	solid
+2020-07-30	mod_4	2506121	37587217	Lockdown with moderate release	solid
+2020-07-31	mod_2	10620010	42445747	Social distancing	solid
+2020-07-31	mod_3	12714648	42845336	No intervention	solid
+2020-07-31	mod_4	2531768	37612147	Lockdown with moderate release	solid
+2020-08-01	mod_2	10670849	42394651	Social distancing	solid
+2020-08-01	mod_3	12775142	42790200	No intervention	solid
+2020-08-01	mod_4	2556723	37634197	Lockdown with moderate release	solid
+2020-08-02	mod_2	10720380	42336946	Social distancing	solid
+2020-08-02	mod_3	12834021	42739316	No intervention	solid
+2020-08-02	mod_4	2581153	37642331	Lockdown with moderate release	solid
+2020-08-03	mod_2	10768666	42307868	Social distancing	solid
+2020-08-03	mod_3	12891333	42674601	No intervention	solid
+2020-08-03	mod_4	2604890	37660475	Lockdown with moderate release	solid
+2020-08-04	mod_2	10815730	42265410	Social distancing	solid
+2020-08-04	mod_3	12947084	42611887	No intervention	solid
+2020-08-04	mod_4	2628044	37675424	Lockdown with moderate release	solid
+2020-08-05	mod_2	10861504	42233917	Social distancing	solid
+2020-08-05	mod_3	13001326	42569958	No intervention	solid
+2020-08-05	mod_4	2650659	37683117	Lockdown with moderate release	solid
+2020-08-06	mod_2	10906068	42174702	Social distancing	solid
+2020-08-06	mod_3	13054047	42529456	No intervention	solid
+2020-08-06	mod_4	2672699	37675739	Lockdown with moderate release	solid
+2020-08-07	mod_2	10949539	42132992	Social distancing	solid
+2020-08-07	mod_3	13105519	42482608	No intervention	solid
+2020-08-07	mod_4	2694161	37674506	Lockdown with moderate release	solid
+2020-08-08	mod_2	10991751	42093920	Social distancing	solid
+2020-08-08	mod_3	13155650	42426321	No intervention	solid
+2020-08-08	mod_4	2715096	37666937	Lockdown with moderate release	solid
+2020-08-09	mod_2	11032837	42050644	Social distancing	solid
+2020-08-09	mod_3	13204422	42366505	No intervention	solid
+2020-08-09	mod_4	2735502	37662716	Lockdown with moderate release	solid
+2020-08-10	mod_2	11072878	42011196	Social distancing	solid
+2020-08-10	mod_3	13251893	42305266	No intervention	solid
+2020-08-10	mod_4	2755447	37643553	Lockdown with moderate release	solid
+2020-08-11	mod_2	11111848	41966580	Social distancing	solid
+2020-08-11	mod_3	13298094	42250921	No intervention	solid
+2020-08-11	mod_4	2774827	37642347	Lockdown with moderate release	solid
+2020-08-12	mod_2	11149828	41922302	Social distancing	solid
+2020-08-12	mod_3	13343133	42209978	No intervention	solid
+2020-08-12	mod_4	2793761	37636871	Lockdown with moderate release	solid
+2020-08-13	mod_2	11186876	41881081	Social distancing	solid
+2020-08-13	mod_3	13387017	42135823	No intervention	solid
+2020-08-13	mod_4	2812268	37626502	Lockdown with moderate release	solid
+2020-08-14	mod_2	11222918	41837347	Social distancing	solid
+2020-08-14	mod_3	13429804	42089210	No intervention	solid
+2020-08-14	mod_4	2830279	37601201	Lockdown with moderate release	solid
+2020-08-15	mod_2	11258047	41788871	Social distancing	solid
+2020-08-15	mod_3	13471464	42036829	No intervention	solid
+2020-08-15	mod_4	2847838	37584343	Lockdown with moderate release	solid
+2020-08-16	mod_2	11292321	41736873	Social distancing	solid
+2020-08-16	mod_3	13511975	41988562	No intervention	solid
+2020-08-16	mod_4	2865003	37565135	Lockdown with moderate release	solid
+2020-08-17	mod_2	11325622	41702135	Social distancing	solid
+2020-08-17	mod_3	13551490	41937994	No intervention	solid
+2020-08-17	mod_4	2881713	37544335	Lockdown with moderate release	solid
+2020-08-18	mod_2	11358173	41671448	Social distancing	solid
+2020-08-18	mod_3	13590068	41891289	No intervention	solid
+2020-08-18	mod_4	2898037	37516570	Lockdown with moderate release	solid
+2020-08-19	mod_2	11389827	41620838	Social distancing	solid
+2020-08-19	mod_3	13627562	41853769	No intervention	solid
+2020-08-19	mod_4	2913938	37491749	Lockdown with moderate release	solid
+2020-08-20	mod_2	11420627	41586071	Social distancing	solid
+2020-08-20	mod_3	13664186	41787488	No intervention	solid
+2020-08-20	mod_4	2929528	37458415	Lockdown with moderate release	solid
+2020-08-21	mod_2	11450727	41540796	Social distancing	solid
+2020-08-21	mod_3	13699860	41747411	No intervention	solid
+2020-08-21	mod_4	2944758	37442799	Lockdown with moderate release	solid
+2020-08-22	mod_2	11480099	41494603	Social distancing	solid
+2020-08-22	mod_3	13734568	41687763	No intervention	solid
+2020-08-22	mod_4	2959566	37415837	Lockdown with moderate release	solid
+2020-08-23	mod_2	11508703	41445112	Social distancing	solid
+2020-08-23	mod_3	13768535	41649867	No intervention	solid
+2020-08-23	mod_4	2974010	37384468	Lockdown with moderate release	solid
+2020-08-24	mod_2	11536578	41406810	Social distancing	solid
+2020-08-24	mod_3	13801615	41599792	No intervention	solid
+2020-08-24	mod_4	2988127	37363868	Lockdown with moderate release	solid
+2020-08-25	mod_2	11563712	41365624	Social distancing	solid
+2020-08-25	mod_3	13833916	41529507	No intervention	solid
+2020-08-25	mod_4	3001966	37343439	Lockdown with moderate release	solid
+2020-08-26	mod_2	11590213	41326928	Social distancing	solid
+2020-08-26	mod_3	13865387	41490043	No intervention	solid
+2020-08-26	mod_4	3015468	37312643	Lockdown with moderate release	solid
+2020-08-27	mod_2	11615992	41280460	Social distancing	solid
+2020-08-27	mod_3	13896063	41443932	No intervention	solid
+2020-08-27	mod_4	3028658	37281897	Lockdown with moderate release	solid
+2020-08-28	mod_2	11641083	41245933	Social distancing	solid
+2020-08-28	mod_3	13925993	41410215	No intervention	solid
+2020-08-28	mod_4	3041524	37266577	Lockdown with moderate release	solid
+2020-08-29	mod_2	11665743	41206435	Social distancing	solid
+2020-08-29	mod_3	13955170	41364415	No intervention	solid
+2020-08-29	mod_4	3054039	37235486	Lockdown with moderate release	solid
+2020-08-30	mod_2	11689597	41163105	Social distancing	solid
+2020-08-30	mod_3	13983566	41315239	No intervention	solid
+2020-08-30	mod_4	3066320	37204836	Lockdown with moderate release	solid
+2020-08-31	mod_2	11712993	41131269	Social distancing	solid
+2020-08-31	mod_3	14011385	41262179	No intervention	solid
+2020-08-31	mod_4	3078274	37180687	Lockdown with moderate release	solid
+2020-09-01	mod_2	11735783	41104137	Social distancing	solid
+2020-09-01	mod_3	14038569	41218020	No intervention	solid
+2020-09-01	mod_4	3090019	37135225	Lockdown with moderate release	solid
+2020-09-02	mod_2	11757955	41050333	Social distancing	solid
+2020-09-02	mod_3	14065024	41178515	No intervention	solid
+2020-09-02	mod_4	3101434	37116536	Lockdown with moderate release	solid
+2020-09-03	mod_2	11779602	41009577	Social distancing	solid
+2020-09-03	mod_3	14090991	41131813	No intervention	solid
+2020-09-03	mod_4	3112590	37093070	Lockdown with moderate release	solid
+2020-09-04	mod_2	11800861	40973438	Social distancing	solid
+2020-09-04	mod_3	14116318	41073841	No intervention	solid
+2020-09-04	mod_4	3123518	37069996	Lockdown with moderate release	solid
+2020-09-05	mod_2	11821444	40948153	Social distancing	solid
+2020-09-05	mod_3	14140813	41036553	No intervention	solid
+2020-09-05	mod_4	3134228	37047482	Lockdown with moderate release	solid
+2020-09-06	mod_2	11841626	40911192	Social distancing	solid
+2020-09-06	mod_3	14164862	40986331	No intervention	solid
+2020-09-06	mod_4	3144681	37009819	Lockdown with moderate release	solid
+2020-09-07	mod_2	11861289	40872675	Social distancing	solid
+2020-09-07	mod_3	14188322	40941332	No intervention	solid
+2020-09-07	mod_4	3154894	36992751	Lockdown with moderate release	solid
+2020-09-08	mod_2	11880526	40836697	Social distancing	solid
+2020-09-08	mod_3	14211265	40874926	No intervention	solid
+2020-09-08	mod_4	3164850	36960744	Lockdown with moderate release	solid
+2020-09-09	mod_2	11899371	40812959	Social distancing	solid
+2020-09-09	mod_3	14233675	40819728	No intervention	solid
+2020-09-09	mod_4	3174582	36942405	Lockdown with moderate release	solid
+2020-09-10	mod_2	11917585	40778323	Social distancing	solid
+2020-09-10	mod_3	14255645	40793018	No intervention	solid
+2020-09-10	mod_4	3184110	36908416	Lockdown with moderate release	solid
+2020-09-11	mod_2	11935476	40739978	Social distancing	solid
+2020-09-11	mod_3	14277071	40748788	No intervention	solid
+2020-09-11	mod_4	3193471	36877860	Lockdown with moderate release	solid
+2020-09-12	mod_2	11952957	40716914	Social distancing	solid
+2020-09-12	mod_3	14298023	40707061	No intervention	solid
+2020-09-12	mod_4	3202612	36867512	Lockdown with moderate release	solid
+2020-09-13	mod_2	11970056	40680653	Social distancing	solid
+2020-09-13	mod_3	14318527	40651978	No intervention	solid
+2020-09-13	mod_4	3211520	36835036	Lockdown with moderate release	solid
+2020-09-14	mod_2	11986754	40643535	Social distancing	solid
+2020-09-14	mod_3	14338550	40605920	No intervention	solid
+2020-09-14	mod_4	3220216	36823654	Lockdown with moderate release	solid
+2020-09-15	mod_2	12003072	40612902	Social distancing	solid
+2020-09-15	mod_3	14358117	40570267	No intervention	solid
+2020-09-15	mod_4	3228717	36798645	Lockdown with moderate release	solid
+2020-09-16	mod_2	12019023	40579511	Social distancing	solid
+2020-09-16	mod_3	14377220	40528360	No intervention	solid
+2020-09-16	mod_4	3237030	36768279	Lockdown with moderate release	solid
+2020-09-17	mod_2	12034580	40552347	Social distancing	solid
+2020-09-17	mod_3	14395943	40484507	No intervention	solid
+2020-09-17	mod_4	3245207	36737071	Lockdown with moderate release	solid
+2020-09-18	mod_2	12049642	40521902	Social distancing	solid
+2020-09-18	mod_3	14414108	40457717	No intervention	solid
+2020-09-18	mod_4	3253223	36713719	Lockdown with moderate release	solid
+2020-09-19	mod_2	12064575	40496667	Social distancing	solid
+2020-09-19	mod_3	14431872	40413384	No intervention	solid
+2020-09-19	mod_4	3261092	36685225	Lockdown with moderate release	solid
+2020-09-20	mod_2	12079222	40473373	Social distancing	solid
+2020-09-20	mod_3	14449296	40381819	No intervention	solid
+2020-09-20	mod_4	3268774	36664287	Lockdown with moderate release	solid
+2020-09-21	mod_2	12093475	40439834	Social distancing	solid
+2020-09-21	mod_3	14466267	40335481	No intervention	solid
+2020-09-21	mod_4	3276302	36644745	Lockdown with moderate release	solid
+2020-09-22	mod_2	12107446	40413110	Social distancing	solid
+2020-09-22	mod_3	14482824	40303770	No intervention	solid
+2020-09-22	mod_4	3283632	36628161	Lockdown with moderate release	solid
+2020-09-23	mod_2	12121075	40372520	Social distancing	solid
+2020-09-23	mod_3	14499084	40251415	No intervention	solid
+2020-09-23	mod_4	3290831	36590722	Lockdown with moderate release	solid
+2020-09-24	mod_2	12134383	40352975	Social distancing	solid
+2020-09-24	mod_3	14514994	40203817	No intervention	solid
+2020-09-24	mod_4	3297850	36585313	Lockdown with moderate release	solid
+2020-09-25	mod_2	12147410	40326385	Social distancing	solid
+2020-09-25	mod_3	14530664	40181168	No intervention	solid
+2020-09-25	mod_4	3304676	36558969	Lockdown with moderate release	solid
+2020-09-26	mod_2	12160157	40306163	Social distancing	solid
+2020-09-26	mod_3	14545761	40139788	No intervention	solid
+2020-09-26	mod_4	3311458	36538198	Lockdown with moderate release	solid
+2020-09-27	mod_2	12172561	40278067	Social distancing	solid
+2020-09-27	mod_3	14560637	40097062	No intervention	solid
+2020-09-27	mod_4	3318147	36521249	Lockdown with moderate release	solid
+2020-09-28	mod_2	12184754	40242713	Social distancing	solid
+2020-09-28	mod_3	14575180	40066488	No intervention	solid
+2020-09-28	mod_4	3324628	36506006	Lockdown with moderate release	solid
+2020-09-29	mod_2	12196649	40216310	Social distancing	solid
+2020-09-29	mod_3	14589533	40021064	No intervention	solid
+2020-09-29	mod_4	3330992	36492111	Lockdown with moderate release	solid
+2020-09-30	mod_2	12208285	40187514	Social distancing	solid
+2020-09-30	mod_3	14603555	39990582	No intervention	solid
+2020-09-30	mod_4	3337226	36465471	Lockdown with moderate release	solid
+2020-10-01	mod_2	NA	NA	Social distancing	solid
+2020-10-01	mod_3	NA	NA	No intervention	solid
+2020-10-01	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-02	mod_2	NA	NA	Social distancing	solid
+2020-10-02	mod_3	NA	NA	No intervention	solid
+2020-10-02	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-03	mod_2	NA	NA	Social distancing	solid
+2020-10-03	mod_3	NA	NA	No intervention	solid
+2020-10-03	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-04	mod_2	NA	NA	Social distancing	solid
+2020-10-04	mod_3	NA	NA	No intervention	solid
+2020-10-04	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-05	mod_2	NA	NA	Social distancing	solid
+2020-10-05	mod_3	NA	NA	No intervention	solid
+2020-10-05	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-06	mod_2	NA	NA	Social distancing	solid
+2020-10-06	mod_3	NA	NA	No intervention	solid
+2020-10-06	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-07	mod_2	NA	NA	Social distancing	solid
+2020-10-07	mod_3	NA	NA	No intervention	solid
+2020-10-07	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-08	mod_2	NA	NA	Social distancing	solid
+2020-10-08	mod_3	NA	NA	No intervention	solid
+2020-10-08	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-09	mod_2	NA	NA	Social distancing	solid
+2020-10-09	mod_3	NA	NA	No intervention	solid
+2020-10-09	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-10	mod_2	NA	NA	Social distancing	solid
+2020-10-10	mod_3	NA	NA	No intervention	solid
+2020-10-10	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-11	mod_2	NA	NA	Social distancing	solid
+2020-10-11	mod_3	NA	NA	No intervention	solid
+2020-10-11	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-12	mod_2	NA	NA	Social distancing	solid
+2020-10-12	mod_3	NA	NA	No intervention	solid
+2020-10-12	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-13	mod_2	NA	NA	Social distancing	solid
+2020-10-13	mod_3	NA	NA	No intervention	solid
+2020-10-13	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-14	mod_2	NA	NA	Social distancing	solid
+2020-10-14	mod_3	NA	NA	No intervention	solid
+2020-10-14	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-15	mod_2	NA	NA	Social distancing	solid
+2020-10-15	mod_3	NA	NA	No intervention	solid
+2020-10-15	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-16	mod_2	NA	NA	Social distancing	solid
+2020-10-16	mod_3	NA	NA	No intervention	solid
+2020-10-16	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-17	mod_2	NA	NA	Social distancing	solid
+2020-10-17	mod_3	NA	NA	No intervention	solid
+2020-10-17	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-18	mod_2	NA	NA	Social distancing	solid
+2020-10-18	mod_3	NA	NA	No intervention	solid
+2020-10-18	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-19	mod_2	NA	NA	Social distancing	solid
+2020-10-19	mod_3	NA	NA	No intervention	solid
+2020-10-19	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-20	mod_2	NA	NA	Social distancing	solid
+2020-10-20	mod_3	NA	NA	No intervention	solid
+2020-10-20	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-21	mod_2	NA	NA	Social distancing	solid
+2020-10-21	mod_3	NA	NA	No intervention	solid
+2020-10-21	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-22	mod_2	NA	NA	Social distancing	solid
+2020-10-22	mod_3	NA	NA	No intervention	solid
+2020-10-22	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-23	mod_2	NA	NA	Social distancing	solid
+2020-10-23	mod_3	NA	NA	No intervention	solid
+2020-10-23	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-24	mod_2	NA	NA	Social distancing	solid
+2020-10-24	mod_3	NA	NA	No intervention	solid
+2020-10-24	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-25	mod_2	NA	NA	Social distancing	solid
+2020-10-25	mod_3	NA	NA	No intervention	solid
+2020-10-25	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-26	mod_2	NA	NA	Social distancing	solid
+2020-10-26	mod_3	NA	NA	No intervention	solid
+2020-10-26	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-27	mod_2	NA	NA	Social distancing	solid
+2020-10-27	mod_3	NA	NA	No intervention	solid
+2020-10-27	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-28	mod_2	NA	NA	Social distancing	solid
+2020-10-28	mod_3	NA	NA	No intervention	solid
+2020-10-28	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-29	mod_2	NA	NA	Social distancing	solid
+2020-10-29	mod_3	NA	NA	No intervention	solid
+2020-10-29	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-30	mod_2	NA	NA	Social distancing	solid
+2020-10-30	mod_3	NA	NA	No intervention	solid
+2020-10-30	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-10-31	mod_2	NA	NA	Social distancing	solid
+2020-10-31	mod_3	NA	NA	No intervention	solid
+2020-10-31	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-11-01	mod_2	NA	NA	Social distancing	solid
+2020-11-01	mod_3	NA	NA	No intervention	solid
+2020-11-01	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-11-02	mod_2	NA	NA	Social distancing	solid
+2020-11-02	mod_3	NA	NA	No intervention	solid
+2020-11-02	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-11-03	mod_2	NA	NA	Social distancing	solid
+2020-11-03	mod_3	NA	NA	No intervention	solid
+2020-11-03	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-11-04	mod_2	NA	NA	Social distancing	solid
+2020-11-04	mod_3	NA	NA	No intervention	solid
+2020-11-04	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-11-05	mod_2	NA	NA	Social distancing	solid
+2020-11-05	mod_3	NA	NA	No intervention	solid
+2020-11-05	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-11-06	mod_2	NA	NA	Social distancing	solid
+2020-11-06	mod_3	NA	NA	No intervention	solid
+2020-11-06	mod_4	NA	NA	Lockdown with moderate release	solid
+2020-11-07	mod_2	NA	NA	Social distancing	solid
+2020-11-07	mod_3	NA	NA	No intervention	solid
+2020-11-07	mod_4	NA	NA	Lockdown with moderate release	solid
