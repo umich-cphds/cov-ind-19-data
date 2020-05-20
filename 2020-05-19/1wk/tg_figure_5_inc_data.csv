@@ -1,13 +1,4 @@
 Dates	variable	value	upper_ci	color	type
-2020-03-15	True	NA	NA	Observed	solid
-2020-03-16	True	1	NA	Observed	solid
-2020-03-17	True	1	NA	Observed	solid
-2020-03-18	True	8	NA	Observed	solid
-2020-03-19	True	3	NA	Observed	solid
-2020-03-20	True	3	NA	Observed	solid
-2020-03-21	True	2	NA	Observed	solid
-2020-03-22	True	6	NA	Observed	solid
-2020-03-23	True	6	NA	Observed	solid
 2020-03-23	mod_2	499	NA	Soc. Dist. + Travel Ban	solid
 2020-03-23	mod_2_up	499	NA	NA	solid
 2020-03-23	mod_3	499	NA	No Intervention	solid
@@ -18,18 +9,7 @@ Dates	variable	value	upper_ci	color	type
 2020-03-23	mod_5_up	499	NA	NA	solid
 2020-03-23	mod_6	499	NA	Cautious return	solid
 2020-03-23	mod_6_up	499	NA	NA	solid
-2020-03-24	True	4	NA	Observed	solid
-2020-03-25	True	4	NA	Observed	solid
-2020-03-26	True	3	NA	Observed	solid
-2020-03-27	True	15	NA	Observed	solid
-2020-03-28	True	8	NA	Observed	solid
-2020-03-29	True	3	NA	Observed	solid
-2020-03-30	True	7	NA	Observed	solid
-2020-03-31	True	20	NA	Observed	solid
-2020-04-01	True	30	NA	Observed	solid
-2020-04-02	True	27	NA	Observed	solid
-2020-04-03	True	75	NA	Observed	solid
-2020-04-04	True	43	NA	Observed	solid
+2020-04-04	True	NA	NA	Observed	solid
 2020-04-05	True	62	NA	Observed	solid
 2020-04-06	True	30	NA	Observed	solid
 2020-04-07	True	40	NA	Observed	solid
@@ -79,776 +59,776 @@ Dates	variable	value	upper_ci	color	type
 2020-05-19	mod_4	NA	NA	Moderate return	solid
 2020-05-19	mod_5	NA	NA	Normal (pre-intervention)	solid
 2020-05-19	mod_6	NA	NA	Cautious return	solid
-2020-05-20	mod_2	53	437	Soc. Dist. + Travel Ban	solid
-2020-05-20	mod_3	74	481	No Intervention	solid
-2020-05-20	mod_4	38	382	Moderate return	solid
-2020-05-20	mod_5	48	408	Normal (pre-intervention)	solid
-2020-05-20	mod_6	34	380	Cautious return	solid
-2020-05-21	mod_2	57	450	Soc. Dist. + Travel Ban	solid
-2020-05-21	mod_3	83	520	No Intervention	solid
-2020-05-21	mod_4	40	384	Moderate return	solid
-2020-05-21	mod_5	49	413	Normal (pre-intervention)	solid
-2020-05-21	mod_6	34	344	Cautious return	solid
-2020-05-22	mod_2	59	411	Soc. Dist. + Travel Ban	solid
-2020-05-22	mod_3	88	546	No Intervention	solid
-2020-05-22	mod_4	40	353	Moderate return	solid
-2020-05-22	mod_5	52	414	Normal (pre-intervention)	solid
-2020-05-22	mod_6	34	352	Cautious return	solid
-2020-05-23	mod_2	60	432	Soc. Dist. + Travel Ban	solid
-2020-05-23	mod_3	97	602	No Intervention	solid
-2020-05-23	mod_4	42	379	Moderate return	solid
-2020-05-23	mod_5	56	431	Normal (pre-intervention)	solid
-2020-05-23	mod_6	35	339	Cautious return	solid
-2020-05-24	mod_2	63	448	Soc. Dist. + Travel Ban	solid
-2020-05-24	mod_3	110	643	No Intervention	solid
-2020-05-24	mod_4	44	357	Moderate return	solid
-2020-05-24	mod_5	62	430	Normal (pre-intervention)	solid
-2020-05-24	mod_6	34	318	Cautious return	solid
-2020-05-25	mod_2	65	457	Soc. Dist. + Travel Ban	solid
-2020-05-25	mod_3	120	754	No Intervention	solid
-2020-05-25	mod_4	45	357	Moderate return	solid
-2020-05-25	mod_5	67	469	Normal (pre-intervention)	solid
-2020-05-25	mod_6	36	335	Cautious return	solid
-2020-05-26	mod_2	67	495	Soc. Dist. + Travel Ban	solid
-2020-05-26	mod_3	134	832	No Intervention	solid
-2020-05-26	mod_4	49	384	Moderate return	solid
-2020-05-26	mod_5	76	547	Normal (pre-intervention)	solid
-2020-05-26	mod_6	35	314	Cautious return	solid
-2020-05-27	mod_2	70	483	Soc. Dist. + Travel Ban	solid
-2020-05-27	mod_3	150	975	No Intervention	solid
-2020-05-27	mod_4	50	426	Moderate return	solid
-2020-05-27	mod_5	80	554	Normal (pre-intervention)	solid
-2020-05-27	mod_6	37	345	Cautious return	solid
-2020-05-28	mod_2	75	575	Soc. Dist. + Travel Ban	solid
-2020-05-28	mod_3	169	1049	No Intervention	solid
-2020-05-28	mod_4	53	442	Moderate return	solid
-2020-05-28	mod_5	92	622	Normal (pre-intervention)	solid
-2020-05-28	mod_6	38	356	Cautious return	solid
-2020-05-29	mod_2	80	579	Soc. Dist. + Travel Ban	solid
-2020-05-29	mod_3	191	1262	No Intervention	solid
-2020-05-29	mod_4	55	434	Moderate return	solid
-2020-05-29	mod_5	105	769	Normal (pre-intervention)	solid
-2020-05-29	mod_6	37	314	Cautious return	solid
-2020-05-30	mod_2	83	637	Soc. Dist. + Travel Ban	solid
-2020-05-30	mod_3	217	1441	No Intervention	solid
-2020-05-30	mod_4	59	478	Moderate return	solid
-2020-05-30	mod_5	118	840	Normal (pre-intervention)	solid
-2020-05-30	mod_6	40	366	Cautious return	solid
-2020-05-31	mod_2	89	585	Soc. Dist. + Travel Ban	solid
-2020-05-31	mod_3	245	1694	No Intervention	solid
-2020-05-31	mod_4	65	521	Moderate return	solid
-2020-05-31	mod_5	136	913	Normal (pre-intervention)	solid
-2020-05-31	mod_6	39	364	Cautious return	solid
-2020-06-01	mod_2	92	712	Soc. Dist. + Travel Ban	solid
-2020-06-01	mod_3	282	1948	No Intervention	solid
-2020-06-01	mod_4	69	558	Moderate return	solid
-2020-06-01	mod_5	157	1204	Normal (pre-intervention)	solid
-2020-06-01	mod_6	41	369	Cautious return	solid
-2020-06-02	mod_2	97	768	Soc. Dist. + Travel Ban	solid
-2020-06-02	mod_3	324	2370	No Intervention	solid
-2020-06-02	mod_4	72	564	Moderate return	solid
-2020-06-02	mod_5	176	1276	Normal (pre-intervention)	solid
-2020-06-02	mod_6	42	377	Cautious return	solid
-2020-06-03	mod_2	104	833	Soc. Dist. + Travel Ban	solid
-2020-06-03	mod_3	371	2604	No Intervention	solid
-2020-06-03	mod_4	77	617	Moderate return	solid
-2020-06-03	mod_5	201	1514	Normal (pre-intervention)	solid
-2020-06-03	mod_6	43	407	Cautious return	solid
-2020-06-04	mod_2	109	833	Soc. Dist. + Travel Ban	solid
-2020-06-04	mod_3	429	3178	No Intervention	solid
-2020-06-04	mod_4	82	683	Moderate return	solid
-2020-06-04	mod_5	231	1715	Normal (pre-intervention)	solid
-2020-06-04	mod_6	44	451	Cautious return	solid
-2020-06-05	mod_2	120	940	Soc. Dist. + Travel Ban	solid
-2020-06-05	mod_3	499	3636	No Intervention	solid
-2020-06-05	mod_4	86	662	Moderate return	solid
-2020-06-05	mod_5	264	2045	Normal (pre-intervention)	solid
-2020-06-05	mod_6	44	364	Cautious return	solid
-2020-06-06	mod_2	126	1041	Soc. Dist. + Travel Ban	solid
-2020-06-06	mod_3	584	4452	No Intervention	solid
-2020-06-06	mod_4	92	792	Moderate return	solid
-2020-06-06	mod_5	304	2419	Normal (pre-intervention)	solid
-2020-06-06	mod_6	46	450	Cautious return	solid
-2020-06-07	mod_2	137	1084	Soc. Dist. + Travel Ban	solid
-2020-06-07	mod_3	680	5062	No Intervention	solid
-2020-06-07	mod_4	99	800	Moderate return	solid
-2020-06-07	mod_5	352	2819	Normal (pre-intervention)	solid
-2020-06-07	mod_6	45	349	Cautious return	solid
-2020-06-08	mod_2	147	1233	Soc. Dist. + Travel Ban	solid
-2020-06-08	mod_3	805	6064	No Intervention	solid
-2020-06-08	mod_4	107	881	Moderate return	solid
-2020-06-08	mod_5	411	3166	Normal (pre-intervention)	solid
-2020-06-08	mod_6	48	518	Cautious return	solid
-2020-06-09	mod_2	158	1281	Soc. Dist. + Travel Ban	solid
-2020-06-09	mod_3	948	6876	No Intervention	solid
-2020-06-09	mod_4	115	987	Moderate return	solid
-2020-06-09	mod_5	481	3836	Normal (pre-intervention)	solid
-2020-06-09	mod_6	48	425	Cautious return	solid
-2020-06-10	mod_2	167	1304	Soc. Dist. + Travel Ban	solid
-2020-06-10	mod_3	1120	8151	No Intervention	solid
-2020-06-10	mod_4	122	1019	Moderate return	solid
-2020-06-10	mod_5	562	4453	Normal (pre-intervention)	solid
-2020-06-10	mod_6	50	497	Cautious return	solid
-2020-06-11	mod_2	184	1493	Soc. Dist. + Travel Ban	solid
-2020-06-11	mod_3	1330	9981	No Intervention	solid
-2020-06-11	mod_4	133	1161	Moderate return	solid
-2020-06-11	mod_5	664	5229	Normal (pre-intervention)	solid
-2020-06-11	mod_6	53	488	Cautious return	solid
-2020-06-12	mod_2	198	1686	Soc. Dist. + Travel Ban	solid
-2020-06-12	mod_3	1577	11009	No Intervention	solid
-2020-06-12	mod_4	142	1224	Moderate return	solid
-2020-06-12	mod_5	783	5923	Normal (pre-intervention)	solid
-2020-06-12	mod_6	51	552	Cautious return	solid
-2020-06-13	mod_2	212	1693	Soc. Dist. + Travel Ban	solid
-2020-06-13	mod_3	1873	13448	No Intervention	solid
-2020-06-13	mod_4	154	1263	Moderate return	solid
-2020-06-13	mod_5	925	7058	Normal (pre-intervention)	solid
-2020-06-13	mod_6	56	475	Cautious return	solid
-2020-06-14	mod_2	234	2058	Soc. Dist. + Travel Ban	solid
-2020-06-14	mod_3	2217	15533	No Intervention	solid
-2020-06-14	mod_4	168	1389	Moderate return	solid
-2020-06-14	mod_5	1099	8115	Normal (pre-intervention)	solid
-2020-06-14	mod_6	59	560	Cautious return	solid
-2020-06-15	mod_2	252	1906	Soc. Dist. + Travel Ban	solid
-2020-06-15	mod_3	2624	18451	No Intervention	solid
-2020-06-15	mod_4	184	1470	Moderate return	solid
-2020-06-15	mod_5	1300	9579	Normal (pre-intervention)	solid
-2020-06-15	mod_6	59	523	Cautious return	solid
-2020-06-16	mod_2	279	2331	Soc. Dist. + Travel Ban	solid
-2020-06-16	mod_3	3088	21457	No Intervention	solid
-2020-06-16	mod_4	198	1678	Moderate return	solid
-2020-06-16	mod_5	1548	11103	Normal (pre-intervention)	solid
-2020-06-16	mod_6	60	642	Cautious return	solid
-2020-06-17	mod_2	304	2394	Soc. Dist. + Travel Ban	solid
-2020-06-17	mod_3	3620	24849	No Intervention	solid
-2020-06-17	mod_4	218	1716	Moderate return	solid
-2020-06-17	mod_5	1830	13135	Normal (pre-intervention)	solid
-2020-06-17	mod_6	65	606	Cautious return	solid
-2020-06-18	mod_2	332	2622	Soc. Dist. + Travel Ban	solid
-2020-06-18	mod_3	4228	28964	No Intervention	solid
-2020-06-18	mod_4	239	1852	Moderate return	solid
-2020-06-18	mod_5	2162	14819	Normal (pre-intervention)	solid
-2020-06-18	mod_6	66	601	Cautious return	solid
-2020-06-19	mod_2	368	2945	Soc. Dist. + Travel Ban	solid
-2020-06-19	mod_3	4902	35423	No Intervention	solid
-2020-06-19	mod_4	261	2132	Moderate return	solid
-2020-06-19	mod_5	2549	17019	Normal (pre-intervention)	solid
-2020-06-19	mod_6	71	689	Cautious return	solid
-2020-06-20	mod_2	403	3075	Soc. Dist. + Travel Ban	solid
-2020-06-20	mod_3	5650	40956	No Intervention	solid
-2020-06-20	mod_4	287	2278	Moderate return	solid
-2020-06-20	mod_5	2992	20612	Normal (pre-intervention)	solid
-2020-06-20	mod_6	71	659	Cautious return	solid
-2020-06-21	mod_2	445	3411	Soc. Dist. + Travel Ban	solid
-2020-06-21	mod_3	6472	47805	No Intervention	solid
-2020-06-21	mod_4	316	2336	Moderate return	solid
-2020-06-21	mod_5	3503	24278	Normal (pre-intervention)	solid
-2020-06-21	mod_6	75	715	Cautious return	solid
-2020-06-22	mod_2	490	3798	Soc. Dist. + Travel Ban	solid
-2020-06-22	mod_3	7377	55092	No Intervention	solid
-2020-06-22	mod_4	349	2637	Moderate return	solid
-2020-06-22	mod_5	4070	28168	Normal (pre-intervention)	solid
-2020-06-22	mod_6	79	722	Cautious return	solid
-2020-06-23	mod_2	540	3858	Soc. Dist. + Travel Ban	solid
-2020-06-23	mod_3	8359	65386	No Intervention	solid
-2020-06-23	mod_4	384	2817	Moderate return	solid
-2020-06-23	mod_5	4704	33438	Normal (pre-intervention)	solid
-2020-06-23	mod_6	83	732	Cautious return	solid
-2020-06-24	mod_2	600	4268	Soc. Dist. + Travel Ban	solid
-2020-06-24	mod_3	9416	76310	No Intervention	solid
-2020-06-24	mod_4	424	3120	Moderate return	solid
-2020-06-24	mod_5	5393	38539	Normal (pre-intervention)	solid
-2020-06-24	mod_6	86	853	Cautious return	solid
-2020-06-25	mod_2	666	4570	Soc. Dist. + Travel Ban	solid
-2020-06-25	mod_3	10559	87417	No Intervention	solid
-2020-06-25	mod_4	472	3548	Moderate return	solid
-2020-06-25	mod_5	6160	44492	Normal (pre-intervention)	solid
-2020-06-25	mod_6	89	797	Cautious return	solid
-2020-06-26	mod_2	728	5367	Soc. Dist. + Travel Ban	solid
-2020-06-26	mod_3	11763	102406	No Intervention	solid
-2020-06-26	mod_4	525	3648	Moderate return	solid
-2020-06-26	mod_5	7002	52097	Normal (pre-intervention)	solid
-2020-06-26	mod_6	97	687	Cautious return	solid
-2020-06-27	mod_2	809	5240	Soc. Dist. + Travel Ban	solid
-2020-06-27	mod_3	13016	119183	No Intervention	solid
-2020-06-27	mod_4	581	4108	Moderate return	solid
-2020-06-27	mod_5	7895	59629	Normal (pre-intervention)	solid
-2020-06-27	mod_6	99	902	Cautious return	solid
-2020-06-28	mod_2	893	5998	Soc. Dist. + Travel Ban	solid
-2020-06-28	mod_3	14326	138436	No Intervention	solid
-2020-06-28	mod_4	642	4252	Moderate return	solid
-2020-06-28	mod_5	8849	70595	Normal (pre-intervention)	solid
-2020-06-28	mod_6	106	937	Cautious return	solid
-2020-06-29	mod_2	986	6374	Soc. Dist. + Travel Ban	solid
-2020-06-29	mod_3	15731	160017	No Intervention	solid
-2020-06-29	mod_4	711	4641	Moderate return	solid
-2020-06-29	mod_5	9874	83824	Normal (pre-intervention)	solid
-2020-06-29	mod_6	111	786	Cautious return	solid
-2020-06-30	mod_2	1087	7323	Soc. Dist. + Travel Ban	solid
-2020-06-30	mod_3	17145	181220	No Intervention	solid
-2020-06-30	mod_4	785	4945	Moderate return	solid
-2020-06-30	mod_5	10940	96395	Normal (pre-intervention)	solid
-2020-06-30	mod_6	119	982	Cautious return	solid
-2020-07-01	mod_2	1203	7842	Soc. Dist. + Travel Ban	solid
-2020-07-01	mod_3	18580	211224	No Intervention	solid
-2020-07-01	mod_4	865	5453	Moderate return	solid
-2020-07-01	mod_5	12059	108510	Normal (pre-intervention)	solid
-2020-07-01	mod_6	125	1049	Cautious return	solid
-2020-07-02	mod_2	1317	8692	Soc. Dist. + Travel Ban	solid
-2020-07-02	mod_3	20043	240919	No Intervention	solid
-2020-07-02	mod_4	963	5871	Moderate return	solid
-2020-07-02	mod_5	13213	126387	Normal (pre-intervention)	solid
-2020-07-02	mod_6	130	901	Cautious return	solid
-2020-07-03	mod_2	1441	9392	Soc. Dist. + Travel Ban	solid
-2020-07-03	mod_3	21547	267612	No Intervention	solid
-2020-07-03	mod_4	1057	6592	Moderate return	solid
-2020-07-03	mod_5	14399	145248	Normal (pre-intervention)	solid
-2020-07-03	mod_6	139	1223	Cautious return	solid
-2020-07-04	mod_2	1580	9716	Soc. Dist. + Travel Ban	solid
-2020-07-04	mod_3	23026	298551	No Intervention	solid
-2020-07-04	mod_4	1160	6976	Moderate return	solid
-2020-07-04	mod_5	15618	165710	Normal (pre-intervention)	solid
-2020-07-04	mod_6	148	1115	Cautious return	solid
-2020-07-05	mod_2	1722	10323	Soc. Dist. + Travel Ban	solid
-2020-07-05	mod_3	24524	342659	No Intervention	solid
-2020-07-05	mod_4	1278	7794	Moderate return	solid
-2020-07-05	mod_5	16858	190074	Normal (pre-intervention)	solid
-2020-07-05	mod_6	157	1070	Cautious return	solid
-2020-07-06	mod_2	1880	11524	Soc. Dist. + Travel Ban	solid
-2020-07-06	mod_3	26028	369906	No Intervention	solid
-2020-07-06	mod_4	1399	7891	Moderate return	solid
-2020-07-06	mod_5	18107	215474	Normal (pre-intervention)	solid
-2020-07-06	mod_6	166	1355	Cautious return	solid
-2020-07-07	mod_2	2042	12459	Soc. Dist. + Travel Ban	solid
-2020-07-07	mod_3	27501	395684	No Intervention	solid
-2020-07-07	mod_4	1533	8966	Moderate return	solid
-2020-07-07	mod_5	19343	242163	Normal (pre-intervention)	solid
-2020-07-07	mod_6	178	1122	Cautious return	solid
-2020-07-08	mod_2	2221	14229	Soc. Dist. + Travel Ban	solid
-2020-07-08	mod_3	28941	419911	No Intervention	solid
-2020-07-08	mod_4	1668	9643	Moderate return	solid
-2020-07-08	mod_5	20612	277514	Normal (pre-intervention)	solid
-2020-07-08	mod_6	191	1405	Cautious return	solid
-2020-07-09	mod_2	2406	15287	Soc. Dist. + Travel Ban	solid
-2020-07-09	mod_3	30359	458965	No Intervention	solid
-2020-07-09	mod_4	1816	10199	Moderate return	solid
-2020-07-09	mod_5	21854	300672	Normal (pre-intervention)	solid
-2020-07-09	mod_6	204	1294	Cautious return	solid
-2020-07-10	mod_2	2592	16574	Soc. Dist. + Travel Ban	solid
-2020-07-10	mod_3	31758	474505	No Intervention	solid
-2020-07-10	mod_4	1978	11374	Moderate return	solid
-2020-07-10	mod_5	23070	335391	Normal (pre-intervention)	solid
-2020-07-10	mod_6	215	1359	Cautious return	solid
-2020-07-11	mod_2	2804	17667	Soc. Dist. + Travel Ban	solid
-2020-07-11	mod_3	33118	483554	No Intervention	solid
-2020-07-11	mod_4	2132	12384	Moderate return	solid
-2020-07-11	mod_5	24278	366144	Normal (pre-intervention)	solid
-2020-07-11	mod_6	231	1646	Cautious return	solid
-2020-07-12	mod_2	3008	19654	Soc. Dist. + Travel Ban	solid
-2020-07-12	mod_3	34413	497875	No Intervention	solid
-2020-07-12	mod_4	2305	14111	Moderate return	solid
-2020-07-12	mod_5	25464	384201	Normal (pre-intervention)	solid
-2020-07-12	mod_6	247	1347	Cautious return	solid
-2020-07-13	mod_2	3228	21514	Soc. Dist. + Travel Ban	solid
-2020-07-13	mod_3	35689	518010	No Intervention	solid
-2020-07-13	mod_4	2480	13785	Moderate return	solid
-2020-07-13	mod_5	26627	415843	Normal (pre-intervention)	solid
-2020-07-13	mod_6	263	1694	Cautious return	solid
-2020-07-14	mod_2	3449	23557	Soc. Dist. + Travel Ban	solid
-2020-07-14	mod_3	36903	542262	No Intervention	solid
-2020-07-14	mod_4	2660	15341	Moderate return	solid
-2020-07-14	mod_5	27723	425332	Normal (pre-intervention)	solid
-2020-07-14	mod_6	280	1607	Cautious return	solid
-2020-07-15	mod_2	3683	25193	Soc. Dist. + Travel Ban	solid
-2020-07-15	mod_3	38072	546637	No Intervention	solid
-2020-07-15	mod_4	2849	17219	Moderate return	solid
-2020-07-15	mod_5	28827	454661	Normal (pre-intervention)	solid
-2020-07-15	mod_6	302	1725	Cautious return	solid
-2020-07-16	mod_2	3929	27379	Soc. Dist. + Travel Ban	solid
-2020-07-16	mod_3	39170	562519	No Intervention	solid
-2020-07-16	mod_4	3034	18809	Moderate return	solid
-2020-07-16	mod_5	29859	481857	Normal (pre-intervention)	solid
-2020-07-16	mod_6	320	1877	Cautious return	solid
-2020-07-17	mod_2	4168	29866	Soc. Dist. + Travel Ban	solid
-2020-07-17	mod_3	40205	557019	No Intervention	solid
-2020-07-17	mod_4	3243	19184	Moderate return	solid
-2020-07-17	mod_5	30850	485117	Normal (pre-intervention)	solid
-2020-07-17	mod_6	339	1995	Cautious return	solid
-2020-07-18	mod_2	4426	31689	Soc. Dist. + Travel Ban	solid
-2020-07-18	mod_3	41179	570785	No Intervention	solid
-2020-07-18	mod_4	3447	20869	Moderate return	solid
-2020-07-18	mod_5	31764	489314	Normal (pre-intervention)	solid
-2020-07-18	mod_6	366	2180	Cautious return	solid
-2020-07-19	mod_2	4671	33994	Soc. Dist. + Travel Ban	solid
-2020-07-19	mod_3	42102	566624	No Intervention	solid
-2020-07-19	mod_4	3662	24382	Moderate return	solid
-2020-07-19	mod_5	32660	517631	Normal (pre-intervention)	solid
-2020-07-19	mod_6	387	1899	Cautious return	solid
-2020-07-20	mod_2	4927	37414	Soc. Dist. + Travel Ban	solid
-2020-07-20	mod_3	42961	561119	No Intervention	solid
-2020-07-20	mod_4	3872	25326	Moderate return	solid
-2020-07-20	mod_5	33513	517194	Normal (pre-intervention)	solid
-2020-07-20	mod_6	412	2131	Cautious return	solid
-2020-07-21	mod_2	5200	41904	Soc. Dist. + Travel Ban	solid
-2020-07-21	mod_3	43752	540990	No Intervention	solid
-2020-07-21	mod_4	4093	27784	Moderate return	solid
-2020-07-21	mod_5	34284	523945	Normal (pre-intervention)	solid
-2020-07-21	mod_6	437	2219	Cautious return	solid
-2020-07-22	mod_2	5460	43385	Soc. Dist. + Travel Ban	solid
-2020-07-22	mod_3	44471	569006	No Intervention	solid
-2020-07-22	mod_4	4317	29914	Moderate return	solid
-2020-07-22	mod_5	35014	550906	Normal (pre-intervention)	solid
-2020-07-22	mod_6	464	2203	Cautious return	solid
-2020-07-23	mod_2	5730	47056	Soc. Dist. + Travel Ban	solid
-2020-07-23	mod_3	45155	534880	No Intervention	solid
-2020-07-23	mod_4	4539	31690	Moderate return	solid
-2020-07-23	mod_5	35670	541040	Normal (pre-intervention)	solid
-2020-07-23	mod_6	494	2374	Cautious return	solid
-2020-07-24	mod_2	6012	50611	Soc. Dist. + Travel Ban	solid
-2020-07-24	mod_3	45749	502879	No Intervention	solid
-2020-07-24	mod_4	4766	34035	Moderate return	solid
-2020-07-24	mod_5	36327	556147	Normal (pre-intervention)	solid
-2020-07-24	mod_6	523	2340	Cautious return	solid
-2020-07-25	mod_2	6271	55665	Soc. Dist. + Travel Ban	solid
-2020-07-25	mod_3	46274	495200	No Intervention	solid
-2020-07-25	mod_4	5006	35934	Moderate return	solid
-2020-07-25	mod_5	36890	533448	Normal (pre-intervention)	solid
-2020-07-25	mod_6	555	2034	Cautious return	solid
-2020-07-26	mod_2	6525	60722	Soc. Dist. + Travel Ban	solid
-2020-07-26	mod_3	46733	492447	No Intervention	solid
-2020-07-26	mod_4	5240	41284	Moderate return	solid
-2020-07-26	mod_5	37414	531291	Normal (pre-intervention)	solid
-2020-07-26	mod_6	583	2902	Cautious return	solid
-2020-07-27	mod_2	6813	64136	Soc. Dist. + Travel Ban	solid
-2020-07-27	mod_3	47183	450176	No Intervention	solid
-2020-07-27	mod_4	5471	39381	Moderate return	solid
-2020-07-27	mod_5	37856	530647	Normal (pre-intervention)	solid
-2020-07-27	mod_6	619	2641	Cautious return	solid
-2020-07-28	mod_2	7071	65057	Soc. Dist. + Travel Ban	solid
-2020-07-28	mod_3	47567	441356	No Intervention	solid
-2020-07-28	mod_4	5709	48951	Moderate return	solid
-2020-07-28	mod_5	38273	520892	Normal (pre-intervention)	solid
-2020-07-28	mod_6	657	2725	Cautious return	solid
-2020-07-29	mod_2	7338	75857	Soc. Dist. + Travel Ban	solid
-2020-07-29	mod_3	47848	405273	No Intervention	solid
-2020-07-29	mod_4	5943	49839	Moderate return	solid
-2020-07-29	mod_5	38627	515100	Normal (pre-intervention)	solid
-2020-07-29	mod_6	690	2902	Cautious return	solid
-2020-07-30	mod_2	7607	81563	Soc. Dist. + Travel Ban	solid
-2020-07-30	mod_3	48095	396645	No Intervention	solid
-2020-07-30	mod_4	6174	53166	Moderate return	solid
-2020-07-30	mod_5	38945	479044	Normal (pre-intervention)	solid
-2020-07-30	mod_6	728	3344	Cautious return	solid
-2020-07-31	mod_2	7860	89198	Soc. Dist. + Travel Ban	solid
-2020-07-31	mod_3	48243	372562	No Intervention	solid
-2020-07-31	mod_4	6414	57594	Moderate return	solid
-2020-07-31	mod_5	39184	459509	Normal (pre-intervention)	solid
-2020-07-31	mod_6	763	3441	Cautious return	solid
-2020-08-01	mod_2	8131	95476	Soc. Dist. + Travel Ban	solid
-2020-08-01	mod_3	48394	342678	No Intervention	solid
-2020-08-01	mod_4	6646	63002	Moderate return	solid
-2020-08-01	mod_5	39405	447424	Normal (pre-intervention)	solid
-2020-08-01	mod_6	799	3374	Cautious return	solid
-2020-08-02	mod_2	8392	97298	Soc. Dist. + Travel Ban	solid
-2020-08-02	mod_3	48499	332797	No Intervention	solid
-2020-08-02	mod_4	6878	68173	Moderate return	solid
-2020-08-02	mod_5	39590	426271	Normal (pre-intervention)	solid
-2020-08-02	mod_6	841	3474	Cautious return	solid
-2020-08-03	mod_2	8641	108737	Soc. Dist. + Travel Ban	solid
-2020-08-03	mod_3	48542	317409	No Intervention	solid
-2020-08-03	mod_4	7099	69771	Moderate return	solid
-2020-08-03	mod_5	39704	413969	Normal (pre-intervention)	solid
-2020-08-03	mod_6	876	3113	Cautious return	solid
-2020-08-04	mod_2	8877	112770	Soc. Dist. + Travel Ban	solid
-2020-08-04	mod_3	48510	284460	No Intervention	solid
-2020-08-04	mod_4	7319	85320	Moderate return	solid
-2020-08-04	mod_5	39784	358865	Normal (pre-intervention)	solid
-2020-08-04	mod_6	917	3959	Cautious return	solid
-2020-08-05	mod_2	9137	115526	Soc. Dist. + Travel Ban	solid
-2020-08-05	mod_3	48509	264889	No Intervention	solid
-2020-08-05	mod_4	7537	82035	Moderate return	solid
-2020-08-05	mod_5	39848	359596	Normal (pre-intervention)	solid
-2020-08-05	mod_6	960	3861	Cautious return	solid
-2020-08-06	mod_2	9380	129836	Soc. Dist. + Travel Ban	solid
-2020-08-06	mod_3	48362	239431	No Intervention	solid
-2020-08-06	mod_4	7756	89348	Moderate return	solid
-2020-08-06	mod_5	39842	356292	Normal (pre-intervention)	solid
-2020-08-06	mod_6	1008	3864	Cautious return	solid
-2020-08-07	mod_2	9610	132617	Soc. Dist. + Travel Ban	solid
-2020-08-07	mod_3	48289	231979	No Intervention	solid
-2020-08-07	mod_4	7942	99862	Moderate return	solid
-2020-08-07	mod_5	39843	308190	Normal (pre-intervention)	solid
-2020-08-07	mod_6	1040	4407	Cautious return	solid
-2020-08-08	mod_2	9849	147654	Soc. Dist. + Travel Ban	solid
-2020-08-08	mod_3	48120	222677	No Intervention	solid
-2020-08-08	mod_4	8165	98685	Moderate return	solid
-2020-08-08	mod_5	39795	304025	Normal (pre-intervention)	solid
-2020-08-08	mod_6	1094	4201	Cautious return	solid
-2020-08-09	mod_2	10061	152053	Soc. Dist. + Travel Ban	solid
-2020-08-09	mod_3	47897	195350	No Intervention	solid
-2020-08-09	mod_4	8354	107927	Moderate return	solid
-2020-08-09	mod_5	39702	288727	Normal (pre-intervention)	solid
-2020-08-09	mod_6	1128	4318	Cautious return	solid
-2020-08-10	mod_2	10293	158894	Soc. Dist. + Travel Ban	solid
-2020-08-10	mod_3	47678	191639	No Intervention	solid
-2020-08-10	mod_4	8551	109935	Moderate return	solid
-2020-08-10	mod_5	39576	268676	Normal (pre-intervention)	solid
-2020-08-10	mod_6	1178	4762	Cautious return	solid
-2020-08-11	mod_2	10501	163547	Soc. Dist. + Travel Ban	solid
-2020-08-11	mod_3	47444	171569	No Intervention	solid
-2020-08-11	mod_4	8748	120859	Moderate return	solid
-2020-08-11	mod_5	39423	249953	Normal (pre-intervention)	solid
-2020-08-11	mod_6	1224	5022	Cautious return	solid
-2020-08-12	mod_2	10704	166284	Soc. Dist. + Travel Ban	solid
-2020-08-12	mod_3	47084	164313	No Intervention	solid
-2020-08-12	mod_4	8924	128422	Moderate return	solid
-2020-08-12	mod_5	39245	223716	Normal (pre-intervention)	solid
-2020-08-12	mod_6	1268	4878	Cautious return	solid
-2020-08-13	mod_2	10890	175745	Soc. Dist. + Travel Ban	solid
-2020-08-13	mod_3	46772	140882	No Intervention	solid
-2020-08-13	mod_4	9080	133676	Moderate return	solid
-2020-08-13	mod_5	39046	224309	Normal (pre-intervention)	solid
-2020-08-13	mod_6	1314	5069	Cautious return	solid
-2020-08-14	mod_2	11081	181495	Soc. Dist. + Travel Ban	solid
-2020-08-14	mod_3	46422	138319	No Intervention	solid
-2020-08-14	mod_4	9267	139151	Moderate return	solid
-2020-08-14	mod_5	38848	201854	Normal (pre-intervention)	solid
-2020-08-14	mod_6	1357	5574	Cautious return	solid
-2020-08-15	mod_2	11251	182635	Soc. Dist. + Travel Ban	solid
-2020-08-15	mod_3	46076	121838	No Intervention	solid
-2020-08-15	mod_4	9405	146201	Moderate return	solid
-2020-08-15	mod_5	38637	180124	Normal (pre-intervention)	solid
-2020-08-15	mod_6	1413	5589	Cautious return	solid
-2020-08-16	mod_2	11418	190492	Soc. Dist. + Travel Ban	solid
-2020-08-16	mod_3	45709	114289	No Intervention	solid
-2020-08-16	mod_4	9575	149685	Moderate return	solid
-2020-08-16	mod_5	38352	161904	Normal (pre-intervention)	solid
-2020-08-16	mod_6	1453	5608	Cautious return	solid
-2020-08-17	mod_2	11599	195488	Soc. Dist. + Travel Ban	solid
-2020-08-17	mod_3	45291	97310	No Intervention	solid
-2020-08-17	mod_4	9728	155636	Moderate return	solid
-2020-08-17	mod_5	38066	148687	Normal (pre-intervention)	solid
-2020-08-17	mod_6	1498	6747	Cautious return	solid
-2020-08-18	mod_2	11747	214654	Soc. Dist. + Travel Ban	solid
-2020-08-18	mod_3	44845	105297	No Intervention	solid
-2020-08-18	mod_4	9863	161937	Moderate return	solid
-2020-08-18	mod_5	37748	142872	Normal (pre-intervention)	solid
-2020-08-18	mod_6	1553	6324	Cautious return	solid
-2020-08-19	mod_2	11883	209197	Soc. Dist. + Travel Ban	solid
-2020-08-19	mod_3	44429	84105	No Intervention	solid
-2020-08-19	mod_4	10002	165570	Moderate return	solid
-2020-08-19	mod_5	37485	142823	Normal (pre-intervention)	solid
-2020-08-19	mod_6	1594	6641	Cautious return	solid
-2020-08-20	mod_2	12034	222684	Soc. Dist. + Travel Ban	solid
-2020-08-20	mod_3	44032	93399	No Intervention	solid
-2020-08-20	mod_4	10136	172953	Moderate return	solid
-2020-08-20	mod_5	37130	134393	Normal (pre-intervention)	solid
-2020-08-20	mod_6	1641	6623	Cautious return	solid
-2020-08-21	mod_2	12181	219222	Soc. Dist. + Travel Ban	solid
-2020-08-21	mod_3	43488	74732	No Intervention	solid
-2020-08-21	mod_4	10248	177810	Moderate return	solid
-2020-08-21	mod_5	36796	119480	Normal (pre-intervention)	solid
-2020-08-21	mod_6	1692	7683	Cautious return	solid
-2020-08-22	mod_2	12298	225370	Soc. Dist. + Travel Ban	solid
-2020-08-22	mod_3	43028	73836	No Intervention	solid
-2020-08-22	mod_4	10393	173513	Moderate return	solid
-2020-08-22	mod_5	36417	100449	Normal (pre-intervention)	solid
-2020-08-22	mod_6	1733	7686	Cautious return	solid
-2020-08-23	mod_2	12395	250243	Soc. Dist. + Travel Ban	solid
-2020-08-23	mod_3	42561	63232	No Intervention	solid
-2020-08-23	mod_4	10490	191697	Moderate return	solid
-2020-08-23	mod_5	36083	103916	Normal (pre-intervention)	solid
-2020-08-23	mod_6	1779	7620	Cautious return	solid
-2020-08-24	mod_2	12472	226506	Soc. Dist. + Travel Ban	solid
-2020-08-24	mod_3	42031	60754	No Intervention	solid
-2020-08-24	mod_4	10600	179478	Moderate return	solid
-2020-08-24	mod_5	35711	86239	Normal (pre-intervention)	solid
-2020-08-24	mod_6	1831	7340	Cautious return	solid
-2020-08-25	mod_2	12576	238600	Soc. Dist. + Travel Ban	solid
-2020-08-25	mod_3	41583	51370	No Intervention	solid
-2020-08-25	mod_4	10705	222791	Moderate return	solid
-2020-08-25	mod_5	35293	88450	Normal (pre-intervention)	solid
-2020-08-25	mod_6	1881	9385	Cautious return	solid
-2020-08-26	mod_2	12677	256208	Soc. Dist. + Travel Ban	solid
-2020-08-26	mod_3	41105	63451	No Intervention	solid
-2020-08-26	mod_4	10804	198879	Moderate return	solid
-2020-08-26	mod_5	34935	73964	Normal (pre-intervention)	solid
-2020-08-26	mod_6	1922	9067	Cautious return	solid
-2020-08-27	mod_2	12733	239449	Soc. Dist. + Travel Ban	solid
-2020-08-27	mod_3	40567	53354	No Intervention	solid
-2020-08-27	mod_4	10868	209582	Moderate return	solid
-2020-08-27	mod_5	34535	64562	Normal (pre-intervention)	solid
-2020-08-27	mod_6	1965	10279	Cautious return	solid
-2020-08-28	mod_2	12833	255030	Soc. Dist. + Travel Ban	solid
-2020-08-28	mod_3	40054	50398	No Intervention	solid
-2020-08-28	mod_4	10964	228639	Moderate return	solid
-2020-08-28	mod_5	34083	73117	Normal (pre-intervention)	solid
-2020-08-28	mod_6	2024	9856	Cautious return	solid
-2020-08-29	mod_2	12894	242321	Soc. Dist. + Travel Ban	solid
-2020-08-29	mod_3	39553	51112	No Intervention	solid
-2020-08-29	mod_4	11017	212580	Moderate return	solid
-2020-08-29	mod_5	33687	63382	Normal (pre-intervention)	solid
-2020-08-29	mod_6	2071	9677	Cautious return	solid
-2020-08-30	mod_2	12955	262413	Soc. Dist. + Travel Ban	solid
-2020-08-30	mod_3	39052	50290	No Intervention	solid
-2020-08-30	mod_4	11103	222456	Moderate return	solid
-2020-08-30	mod_5	33242	54068	Normal (pre-intervention)	solid
-2020-08-30	mod_6	2117	9842	Cautious return	solid
-2020-08-31	mod_2	13019	259700	Soc. Dist. + Travel Ban	solid
-2020-08-31	mod_3	38501	30226	No Intervention	solid
-2020-08-31	mod_4	11168	218718	Moderate return	solid
-2020-08-31	mod_5	32829	62206	Normal (pre-intervention)	solid
-2020-08-31	mod_6	2155	11488	Cautious return	solid
-2020-09-01	mod_2	13069	258476	Soc. Dist. + Travel Ban	solid
-2020-09-01	mod_3	37980	34771	No Intervention	solid
-2020-09-01	mod_4	11210	226670	Moderate return	solid
-2020-09-01	mod_5	32354	52026	Normal (pre-intervention)	solid
-2020-09-01	mod_6	2209	10729	Cautious return	solid
-2020-09-02	mod_2	13091	253917	Soc. Dist. + Travel Ban	solid
-2020-09-02	mod_3	37458	22271	No Intervention	solid
-2020-09-02	mod_4	11253	230451	Moderate return	solid
-2020-09-02	mod_5	31998	45974	Normal (pre-intervention)	solid
-2020-09-02	mod_6	2241	12598	Cautious return	solid
-2020-09-03	mod_2	13131	276390	Soc. Dist. + Travel Ban	solid
-2020-09-03	mod_3	36922	26240	No Intervention	solid
-2020-09-03	mod_4	11314	244416	Moderate return	solid
-2020-09-03	mod_5	31538	47480	Normal (pre-intervention)	solid
-2020-09-03	mod_6	2294	11710	Cautious return	solid
-2020-09-04	mod_2	13159	247882	Soc. Dist. + Travel Ban	solid
-2020-09-04	mod_3	36396	21882	No Intervention	solid
-2020-09-04	mod_4	11344	243605	Moderate return	solid
-2020-09-04	mod_5	31044	46936	Normal (pre-intervention)	solid
-2020-09-04	mod_6	2328	12120	Cautious return	solid
-2020-09-05	mod_2	13154	254978	Soc. Dist. + Travel Ban	solid
-2020-09-05	mod_3	35902	28035	No Intervention	solid
-2020-09-05	mod_4	11345	234199	Moderate return	solid
-2020-09-05	mod_5	30631	46050	Normal (pre-intervention)	solid
-2020-09-05	mod_6	2378	13887	Cautious return	solid
-2020-09-06	mod_2	13166	253556	Soc. Dist. + Travel Ban	solid
-2020-09-06	mod_3	35370	29455	No Intervention	solid
-2020-09-06	mod_4	11402	256063	Moderate return	solid
-2020-09-06	mod_5	30220	31229	Normal (pre-intervention)	solid
-2020-09-06	mod_6	2416	13069	Cautious return	solid
-2020-09-07	mod_2	13184	273426	Soc. Dist. + Travel Ban	solid
-2020-09-07	mod_3	34843	25153	No Intervention	solid
-2020-09-07	mod_4	11424	254093	Moderate return	solid
-2020-09-07	mod_5	29714	34568	Normal (pre-intervention)	solid
-2020-09-07	mod_6	2460	13853	Cautious return	solid
-2020-09-08	mod_2	13203	234719	Soc. Dist. + Travel Ban	solid
-2020-09-08	mod_3	34339	18683	No Intervention	solid
-2020-09-08	mod_4	11418	260189	Moderate return	solid
-2020-09-08	mod_5	29321	29793	Normal (pre-intervention)	solid
-2020-09-08	mod_6	2496	14505	Cautious return	solid
-2020-09-09	mod_2	13197	246617	Soc. Dist. + Travel Ban	solid
-2020-09-09	mod_3	33849	21719	No Intervention	solid
-2020-09-09	mod_4	11443	244324	Moderate return	solid
-2020-09-09	mod_5	28887	29877	Normal (pre-intervention)	solid
-2020-09-09	mod_6	2532	16188	Cautious return	solid
-2020-09-10	mod_2	13199	236432	Soc. Dist. + Travel Ban	solid
-2020-09-10	mod_3	33288	21119	No Intervention	solid
-2020-09-10	mod_4	11455	266308	Moderate return	solid
-2020-09-10	mod_5	28465	29558	Normal (pre-intervention)	solid
-2020-09-10	mod_6	2579	15648	Cautious return	solid
-2020-09-11	mod_2	13175	247370	Soc. Dist. + Travel Ban	solid
-2020-09-11	mod_3	32813	4664	No Intervention	solid
-2020-09-11	mod_4	11459	244600	Moderate return	solid
-2020-09-11	mod_5	28000	27046	Normal (pre-intervention)	solid
-2020-09-11	mod_6	2606	15732	Cautious return	solid
-2020-09-12	mod_2	13159	234629	Soc. Dist. + Travel Ban	solid
-2020-09-12	mod_3	32319	16520	No Intervention	solid
-2020-09-12	mod_4	11447	249975	Moderate return	solid
-2020-09-12	mod_5	27576	30071	Normal (pre-intervention)	solid
-2020-09-12	mod_6	2644	17561	Cautious return	solid
-2020-09-13	mod_2	13121	226368	Soc. Dist. + Travel Ban	solid
-2020-09-13	mod_3	31819	8870	No Intervention	solid
-2020-09-13	mod_4	11458	242782	Moderate return	solid
-2020-09-13	mod_5	27133	13415	Normal (pre-intervention)	solid
-2020-09-13	mod_6	2684	17395	Cautious return	solid
-2020-09-14	mod_2	13102	222492	Soc. Dist. + Travel Ban	solid
-2020-09-14	mod_3	31297	10050	No Intervention	solid
-2020-09-14	mod_4	11407	225607	Moderate return	solid
-2020-09-14	mod_5	26736	19296	Normal (pre-intervention)	solid
-2020-09-14	mod_6	2719	16925	Cautious return	solid
-2020-09-15	mod_2	13064	220048	Soc. Dist. + Travel Ban	solid
-2020-09-15	mod_3	30821	16542	No Intervention	solid
-2020-09-15	mod_4	11438	227346	Moderate return	solid
-2020-09-15	mod_5	26325	10926	Normal (pre-intervention)	solid
-2020-09-15	mod_6	2739	19260	Cautious return	solid
-2020-09-16	mod_2	13031	210375	Soc. Dist. + Travel Ban	solid
-2020-09-16	mod_3	30320	3870	No Intervention	solid
-2020-09-16	mod_4	11399	241925	Moderate return	solid
-2020-09-16	mod_5	25872	19420	Normal (pre-intervention)	solid
-2020-09-16	mod_6	2792	21112	Cautious return	solid
-2020-09-17	mod_2	13011	204431	Soc. Dist. + Travel Ban	solid
-2020-09-17	mod_3	29841	2897	No Intervention	solid
-2020-09-17	mod_4	11375	217840	Moderate return	solid
-2020-09-17	mod_5	25483	11538	Normal (pre-intervention)	solid
-2020-09-17	mod_6	2819	19774	Cautious return	solid
-2020-09-18	mod_2	12955	199010	Soc. Dist. + Travel Ban	solid
-2020-09-18	mod_3	29406	6181	No Intervention	solid
-2020-09-18	mod_4	11363	233307	Moderate return	solid
-2020-09-18	mod_5	25063	9067	Normal (pre-intervention)	solid
-2020-09-18	mod_6	2835	21205	Cautious return	solid
-2020-09-19	mod_2	12879	187181	Soc. Dist. + Travel Ban	solid
-2020-09-19	mod_3	28921	4720	No Intervention	solid
-2020-09-19	mod_4	11336	201578	Moderate return	solid
-2020-09-19	mod_5	24676	13972	Normal (pre-intervention)	solid
-2020-09-19	mod_6	2881	22062	Cautious return	solid
-2020-09-20	mod_2	12852	165728	Soc. Dist. + Travel Ban	solid
-2020-09-20	mod_3	28473	10247	No Intervention	solid
-2020-09-20	mod_4	11285	220672	Moderate return	solid
-2020-09-20	mod_5	24261	12510	Normal (pre-intervention)	solid
-2020-09-20	mod_6	2906	23026	Cautious return	solid
-2020-09-21	mod_2	12801	185285	Soc. Dist. + Travel Ban	solid
-2020-09-21	mod_3	27978	3602	No Intervention	solid
-2020-09-21	mod_4	11255	207251	Moderate return	solid
-2020-09-21	mod_5	23845	6134	Normal (pre-intervention)	solid
-2020-09-21	mod_6	2930	23741	Cautious return	solid
-2020-09-22	mod_2	12729	158874	Soc. Dist. + Travel Ban	solid
-2020-09-22	mod_3	27548	-2493	No Intervention	solid
-2020-09-22	mod_4	11220	207384	Moderate return	solid
-2020-09-22	mod_5	23475	7088	Normal (pre-intervention)	solid
-2020-09-22	mod_6	2968	23583	Cautious return	solid
-2020-09-23	mod_2	12679	158076	Soc. Dist. + Travel Ban	solid
-2020-09-23	mod_3	27061	3331	No Intervention	solid
-2020-09-23	mod_4	11197	196224	Moderate return	solid
-2020-09-23	mod_5	23064	1401	Normal (pre-intervention)	solid
-2020-09-23	mod_6	2989	27100	Cautious return	solid
-2020-09-24	mod_2	12609	151910	Soc. Dist. + Travel Ban	solid
-2020-09-24	mod_3	26629	1797	No Intervention	solid
-2020-09-24	mod_4	11121	173444	Moderate return	solid
-2020-09-24	mod_5	22715	-4673	Normal (pre-intervention)	solid
-2020-09-24	mod_6	3014	24689	Cautious return	solid
-2020-09-25	mod_2	12563	162372	Soc. Dist. + Travel Ban	solid
-2020-09-25	mod_3	26146	-7376	No Intervention	solid
-2020-09-25	mod_4	11091	185292	Moderate return	solid
-2020-09-25	mod_5	22310	-317	Normal (pre-intervention)	solid
-2020-09-25	mod_6	3036	26668	Cautious return	solid
-2020-09-26	mod_2	12480	143875	Soc. Dist. + Travel Ban	solid
-2020-09-26	mod_3	25735	-2795	No Intervention	solid
-2020-09-26	mod_4	11032	176750	Moderate return	solid
-2020-09-26	mod_5	21945	-4664	Normal (pre-intervention)	solid
-2020-09-26	mod_6	3056	30228	Cautious return	solid
-2020-09-27	mod_2	12401	122815	Soc. Dist. + Travel Ban	solid
-2020-09-27	mod_3	25231	-6245	No Intervention	solid
-2020-09-27	mod_4	10970	170961	Moderate return	solid
-2020-09-27	mod_5	21560	6381	Normal (pre-intervention)	solid
-2020-09-27	mod_6	3078	28744	Cautious return	solid
-2020-09-28	mod_2	12338	127251	Soc. Dist. + Travel Ban	solid
-2020-09-28	mod_3	24866	-5661	No Intervention	solid
-2020-09-28	mod_4	10926	160505	Moderate return	solid
-2020-09-28	mod_5	21217	-4551	Normal (pre-intervention)	solid
-2020-09-28	mod_6	3090	30564	Cautious return	solid
-2020-09-29	mod_2	12267	130147	Soc. Dist. + Travel Ban	solid
-2020-09-29	mod_3	24430	13527	No Intervention	solid
-2020-09-29	mod_4	10868	161511	Moderate return	solid
-2020-09-29	mod_5	20844	3735	Normal (pre-intervention)	solid
-2020-09-29	mod_6	3113	32949	Cautious return	solid
-2020-09-30	mod_2	12193	126839	Soc. Dist. + Travel Ban	solid
-2020-09-30	mod_3	24015	-7421	No Intervention	solid
-2020-09-30	mod_4	10791	156587	Moderate return	solid
-2020-09-30	mod_5	20537	1412	Normal (pre-intervention)	solid
-2020-09-30	mod_6	3135	27896	Cautious return	solid
-2020-10-01	mod_2	12097	123747	Soc. Dist. + Travel Ban	solid
-2020-10-01	mod_3	23616	-5269	No Intervention	solid
-2020-10-01	mod_4	10738	148297	Moderate return	solid
-2020-10-01	mod_5	20156	-4162	Normal (pre-intervention)	solid
-2020-10-01	mod_6	3156	32930	Cautious return	solid
-2020-10-02	mod_2	12059	112589	Soc. Dist. + Travel Ban	solid
-2020-10-02	mod_3	23206	-3027	No Intervention	solid
-2020-10-02	mod_4	10670	156068	Moderate return	solid
-2020-10-02	mod_5	19812	-4871	Normal (pre-intervention)	solid
-2020-10-02	mod_6	3178	31966	Cautious return	solid
-2020-10-03	mod_2	11954	107062	Soc. Dist. + Travel Ban	solid
-2020-10-03	mod_3	22821	-6656	No Intervention	solid
-2020-10-03	mod_4	10593	116784	Moderate return	solid
-2020-10-03	mod_5	19458	-5644	Normal (pre-intervention)	solid
-2020-10-03	mod_6	3176	34959	Cautious return	solid
-2020-10-04	mod_2	11880	107985	Soc. Dist. + Travel Ban	solid
-2020-10-04	mod_3	22414	-7720	No Intervention	solid
-2020-10-04	mod_4	10534	139235	Moderate return	solid
-2020-10-04	mod_5	19139	-9485	Normal (pre-intervention)	solid
-2020-10-04	mod_6	3187	36406	Cautious return	solid
-2020-10-05	mod_2	11777	93685	Soc. Dist. + Travel Ban	solid
-2020-10-05	mod_3	22040	-9046	No Intervention	solid
-2020-10-05	mod_4	10459	121948	Moderate return	solid
-2020-10-05	mod_5	18832	-5142	Normal (pre-intervention)	solid
-2020-10-05	mod_6	3206	35265	Cautious return	solid
-2020-10-06	mod_2	11671	79729	Soc. Dist. + Travel Ban	solid
-2020-10-06	mod_3	21654	-12646	No Intervention	solid
-2020-10-06	mod_4	10383	121791	Moderate return	solid
-2020-10-06	mod_5	18455	-2178	Normal (pre-intervention)	solid
-2020-10-06	mod_6	3219	34718	Cautious return	solid
-2020-10-07	mod_2	11617	104307	Soc. Dist. + Travel Ban	solid
-2020-10-07	mod_3	21315	-10530	No Intervention	solid
-2020-10-07	mod_4	10315	119579	Moderate return	solid
-2020-10-07	mod_5	18182	-7904	Normal (pre-intervention)	solid
-2020-10-07	mod_6	3236	40786	Cautious return	solid
-2020-10-08	mod_2	11504	75894	Soc. Dist. + Travel Ban	solid
-2020-10-08	mod_3	20923	-2140	No Intervention	solid
-2020-10-08	mod_4	10242	96636	Moderate return	solid
-2020-10-08	mod_5	17831	-2009	Normal (pre-intervention)	solid
-2020-10-08	mod_6	3232	40003	Cautious return	solid
-2020-10-09	mod_2	11408	86354	Soc. Dist. + Travel Ban	solid
-2020-10-09	mod_3	20566	-10759	No Intervention	solid
-2020-10-09	mod_4	10185	122433	Moderate return	solid
-2020-10-09	mod_5	17553	-3867	Normal (pre-intervention)	solid
-2020-10-09	mod_6	3266	40849	Cautious return	solid
-2020-10-10	mod_2	11309	80200	Soc. Dist. + Travel Ban	solid
-2020-10-10	mod_3	20214	-9906	No Intervention	solid
-2020-10-10	mod_4	10081	98628	Moderate return	solid
-2020-10-10	mod_5	17187	1372	Normal (pre-intervention)	solid
-2020-10-10	mod_6	3257	39478	Cautious return	solid
-2020-10-11	mod_2	11229	76504	Soc. Dist. + Travel Ban	solid
-2020-10-11	mod_3	19869	-4800	No Intervention	solid
-2020-10-11	mod_4	10022	107091	Moderate return	solid
-2020-10-11	mod_5	16926	-7899	Normal (pre-intervention)	solid
-2020-10-11	mod_6	3267	48912	Cautious return	solid
-2020-10-12	mod_2	11136	80526	Soc. Dist. + Travel Ban	solid
-2020-10-12	mod_3	19522	-11364	No Intervention	solid
-2020-10-12	mod_4	9945	89352	Moderate return	solid
-2020-10-12	mod_5	16613	-7843	Normal (pre-intervention)	solid
-2020-10-12	mod_6	3274	40177	Cautious return	solid
-2020-10-13	mod_2	11073	68123	Soc. Dist. + Travel Ban	solid
-2020-10-13	mod_3	19236	-12998	No Intervention	solid
-2020-10-13	mod_4	9877	80922	Moderate return	solid
-2020-10-13	mod_5	16366	-12916	Normal (pre-intervention)	solid
-2020-10-13	mod_6	3260	44993	Cautious return	solid
-2020-10-14	mod_2	10981	62328	Soc. Dist. + Travel Ban	solid
-2020-10-14	mod_3	18843	-13394	No Intervention	solid
-2020-10-14	mod_4	9782	96134	Moderate return	solid
-2020-10-14	mod_5	16061	-13239	Normal (pre-intervention)	solid
-2020-10-14	mod_6	3298	40188	Cautious return	solid
-2020-10-15	mod_2	10840	65876	Soc. Dist. + Travel Ban	solid
-2020-10-15	mod_3	18538	-7315	No Intervention	solid
-2020-10-15	mod_4	9713	82305	Moderate return	solid
-2020-10-15	mod_5	15740	-8353	Normal (pre-intervention)	solid
-2020-10-15	mod_6	3288	48967	Cautious return	solid
-2020-10-16	mod_2	10761	48219	Soc. Dist. + Travel Ban	solid
-2020-10-16	mod_3	18190	-14312	No Intervention	solid
-2020-10-16	mod_4	9627	74672	Moderate return	solid
-2020-10-16	mod_5	15503	-2220	Normal (pre-intervention)	solid
-2020-10-16	mod_6	3290	48469	Cautious return	solid
-2020-10-17	mod_2	10648	69306	Soc. Dist. + Travel Ban	solid
-2020-10-17	mod_3	17883	-5567	No Intervention	solid
-2020-10-17	mod_4	9549	86488	Moderate return	solid
-2020-10-17	mod_5	15223	-13503	Normal (pre-intervention)	solid
-2020-10-17	mod_6	3288	42103	Cautious return	solid
-2020-10-18	mod_2	10577	56401	Soc. Dist. + Travel Ban	solid
-2020-10-18	mod_3	17585	-7374	No Intervention	solid
-2020-10-18	mod_4	9447	68610	Moderate return	solid
-2020-10-18	mod_5	14963	-12644	Normal (pre-intervention)	solid
-2020-10-18	mod_6	3304	51168	Cautious return	solid
-2020-10-19	mod_2	10497	63899	Soc. Dist. + Travel Ban	solid
-2020-10-19	mod_3	17325	-8990	No Intervention	solid
-2020-10-19	mod_4	9362	77200	Moderate return	solid
-2020-10-19	mod_5	14714	-7629	Normal (pre-intervention)	solid
-2020-10-19	mod_6	3295	54384	Cautious return	solid
-2020-10-20	mod_2	10375	59702	Soc. Dist. + Travel Ban	solid
-2020-10-20	mod_3	17001	-12113	No Intervention	solid
-2020-10-20	mod_4	9298	69488	Moderate return	solid
-2020-10-20	mod_5	14446	-4410	Normal (pre-intervention)	solid
-2020-10-20	mod_6	3295	58446	Cautious return	solid
+2020-05-20	mod_2	84	675	Soc. Dist. + Travel Ban	solid
+2020-05-20	mod_3	114	742	No Intervention	solid
+2020-05-20	mod_4	60	591	Moderate return	solid
+2020-05-20	mod_5	74	630	Normal (pre-intervention)	solid
+2020-05-20	mod_6	52	586	Cautious return	solid
+2020-05-21	mod_2	86	694	Soc. Dist. + Travel Ban	solid
+2020-05-21	mod_3	127	803	No Intervention	solid
+2020-05-21	mod_4	61	593	Moderate return	solid
+2020-05-21	mod_5	76	637	Normal (pre-intervention)	solid
+2020-05-21	mod_6	54	531	Cautious return	solid
+2020-05-22	mod_2	92	635	Soc. Dist. + Travel Ban	solid
+2020-05-22	mod_3	136	842	No Intervention	solid
+2020-05-22	mod_4	62	544	Moderate return	solid
+2020-05-22	mod_5	80	639	Normal (pre-intervention)	solid
+2020-05-22	mod_6	52	543	Cautious return	solid
+2020-05-23	mod_2	92	667	Soc. Dist. + Travel Ban	solid
+2020-05-23	mod_3	150	929	No Intervention	solid
+2020-05-23	mod_4	65	585	Moderate return	solid
+2020-05-23	mod_5	88	666	Normal (pre-intervention)	solid
+2020-05-23	mod_6	53	523	Cautious return	solid
+2020-05-24	mod_2	97	690	Soc. Dist. + Travel Ban	solid
+2020-05-24	mod_3	170	993	No Intervention	solid
+2020-05-24	mod_4	68	551	Moderate return	solid
+2020-05-24	mod_5	95	664	Normal (pre-intervention)	solid
+2020-05-24	mod_6	52	492	Cautious return	solid
+2020-05-25	mod_2	101	707	Soc. Dist. + Travel Ban	solid
+2020-05-25	mod_3	185	1163	No Intervention	solid
+2020-05-25	mod_4	69	551	Moderate return	solid
+2020-05-25	mod_5	103	723	Normal (pre-intervention)	solid
+2020-05-25	mod_6	56	516	Cautious return	solid
+2020-05-26	mod_2	103	763	Soc. Dist. + Travel Ban	solid
+2020-05-26	mod_3	208	1285	No Intervention	solid
+2020-05-26	mod_4	76	592	Moderate return	solid
+2020-05-26	mod_5	117	845	Normal (pre-intervention)	solid
+2020-05-26	mod_6	55	486	Cautious return	solid
+2020-05-27	mod_2	109	746	Soc. Dist. + Travel Ban	solid
+2020-05-27	mod_3	230	1505	No Intervention	solid
+2020-05-27	mod_4	77	658	Moderate return	solid
+2020-05-27	mod_5	124	854	Normal (pre-intervention)	solid
+2020-05-27	mod_6	57	531	Cautious return	solid
+2020-05-28	mod_2	116	888	Soc. Dist. + Travel Ban	solid
+2020-05-28	mod_3	262	1618	No Intervention	solid
+2020-05-28	mod_4	81	682	Moderate return	solid
+2020-05-28	mod_5	142	960	Normal (pre-intervention)	solid
+2020-05-28	mod_6	59	550	Cautious return	solid
+2020-05-29	mod_2	123	893	Soc. Dist. + Travel Ban	solid
+2020-05-29	mod_3	294	1949	No Intervention	solid
+2020-05-29	mod_4	86	671	Moderate return	solid
+2020-05-29	mod_5	163	1188	Normal (pre-intervention)	solid
+2020-05-29	mod_6	57	485	Cautious return	solid
+2020-05-30	mod_2	128	983	Soc. Dist. + Travel Ban	solid
+2020-05-30	mod_3	335	2224	No Intervention	solid
+2020-05-30	mod_4	91	737	Moderate return	solid
+2020-05-30	mod_5	181	1297	Normal (pre-intervention)	solid
+2020-05-30	mod_6	61	564	Cautious return	solid
+2020-05-31	mod_2	137	903	Soc. Dist. + Travel Ban	solid
+2020-05-31	mod_3	379	2616	No Intervention	solid
+2020-05-31	mod_4	99	804	Moderate return	solid
+2020-05-31	mod_5	209	1408	Normal (pre-intervention)	solid
+2020-05-31	mod_6	61	562	Cautious return	solid
+2020-06-01	mod_2	142	1099	Soc. Dist. + Travel Ban	solid
+2020-06-01	mod_3	434	3006	No Intervention	solid
+2020-06-01	mod_4	107	862	Moderate return	solid
+2020-06-01	mod_5	243	1858	Normal (pre-intervention)	solid
+2020-06-01	mod_6	63	570	Cautious return	solid
+2020-06-02	mod_2	150	1186	Soc. Dist. + Travel Ban	solid
+2020-06-02	mod_3	502	3658	No Intervention	solid
+2020-06-02	mod_4	112	870	Moderate return	solid
+2020-06-02	mod_5	272	1970	Normal (pre-intervention)	solid
+2020-06-02	mod_6	64	582	Cautious return	solid
+2020-06-03	mod_2	160	1285	Soc. Dist. + Travel Ban	solid
+2020-06-03	mod_3	572	4019	No Intervention	solid
+2020-06-03	mod_4	119	953	Moderate return	solid
+2020-06-03	mod_5	311	2338	Normal (pre-intervention)	solid
+2020-06-03	mod_6	67	629	Cautious return	solid
+2020-06-04	mod_2	169	1286	Soc. Dist. + Travel Ban	solid
+2020-06-04	mod_3	662	4904	No Intervention	solid
+2020-06-04	mod_4	125	1053	Moderate return	solid
+2020-06-04	mod_5	355	2646	Normal (pre-intervention)	solid
+2020-06-04	mod_6	68	695	Cautious return	solid
+2020-06-05	mod_2	184	1450	Soc. Dist. + Travel Ban	solid
+2020-06-05	mod_3	769	5613	No Intervention	solid
+2020-06-05	mod_4	133	1022	Moderate return	solid
+2020-06-05	mod_5	408	3157	Normal (pre-intervention)	solid
+2020-06-05	mod_6	68	561	Cautious return	solid
+2020-06-06	mod_2	196	1607	Soc. Dist. + Travel Ban	solid
+2020-06-06	mod_3	902	6872	No Intervention	solid
+2020-06-06	mod_4	142	1222	Moderate return	solid
+2020-06-06	mod_5	470	3733	Normal (pre-intervention)	solid
+2020-06-06	mod_6	71	696	Cautious return	solid
+2020-06-07	mod_2	211	1673	Soc. Dist. + Travel Ban	solid
+2020-06-07	mod_3	1050	7813	No Intervention	solid
+2020-06-07	mod_4	154	1236	Moderate return	solid
+2020-06-07	mod_5	543	4351	Normal (pre-intervention)	solid
+2020-06-07	mod_6	69	538	Cautious return	solid
+2020-06-08	mod_2	226	1903	Soc. Dist. + Travel Ban	solid
+2020-06-08	mod_3	1242	9359	No Intervention	solid
+2020-06-08	mod_4	165	1359	Moderate return	solid
+2020-06-08	mod_5	635	4886	Normal (pre-intervention)	solid
+2020-06-08	mod_6	74	799	Cautious return	solid
+2020-06-09	mod_2	244	1977	Soc. Dist. + Travel Ban	solid
+2020-06-09	mod_3	1463	10614	No Intervention	solid
+2020-06-09	mod_4	177	1524	Moderate return	solid
+2020-06-09	mod_5	741	5922	Normal (pre-intervention)	solid
+2020-06-09	mod_6	74	657	Cautious return	solid
+2020-06-10	mod_2	259	2014	Soc. Dist. + Travel Ban	solid
+2020-06-10	mod_3	1730	12581	No Intervention	solid
+2020-06-10	mod_4	189	1572	Moderate return	solid
+2020-06-10	mod_5	868	6873	Normal (pre-intervention)	solid
+2020-06-10	mod_6	77	766	Cautious return	solid
+2020-06-11	mod_2	283	2304	Soc. Dist. + Travel Ban	solid
+2020-06-11	mod_3	2052	15405	No Intervention	solid
+2020-06-11	mod_4	204	1792	Moderate return	solid
+2020-06-11	mod_5	1025	8070	Normal (pre-intervention)	solid
+2020-06-11	mod_6	82	754	Cautious return	solid
+2020-06-12	mod_2	305	2603	Soc. Dist. + Travel Ban	solid
+2020-06-12	mod_3	2434	16992	No Intervention	solid
+2020-06-12	mod_4	219	1890	Moderate return	solid
+2020-06-12	mod_5	1209	9143	Normal (pre-intervention)	solid
+2020-06-12	mod_6	80	852	Cautious return	solid
+2020-06-13	mod_2	328	2612	Soc. Dist. + Travel Ban	solid
+2020-06-13	mod_3	2890	20757	No Intervention	solid
+2020-06-13	mod_4	238	1949	Moderate return	solid
+2020-06-13	mod_5	1428	10893	Normal (pre-intervention)	solid
+2020-06-13	mod_6	85	733	Cautious return	solid
+2020-06-14	mod_2	361	3177	Soc. Dist. + Travel Ban	solid
+2020-06-14	mod_3	3423	23975	No Intervention	solid
+2020-06-14	mod_4	260	2145	Moderate return	solid
+2020-06-14	mod_5	1695	12527	Normal (pre-intervention)	solid
+2020-06-14	mod_6	91	865	Cautious return	solid
+2020-06-15	mod_2	389	2941	Soc. Dist. + Travel Ban	solid
+2020-06-15	mod_3	4050	28478	No Intervention	solid
+2020-06-15	mod_4	283	2268	Moderate return	solid
+2020-06-15	mod_5	2007	14784	Normal (pre-intervention)	solid
+2020-06-15	mod_6	91	807	Cautious return	solid
+2020-06-16	mod_2	431	3598	Soc. Dist. + Travel Ban	solid
+2020-06-16	mod_3	4766	33119	No Intervention	solid
+2020-06-16	mod_4	306	2590	Moderate return	solid
+2020-06-16	mod_5	2389	17137	Normal (pre-intervention)	solid
+2020-06-16	mod_6	93	990	Cautious return	solid
+2020-06-17	mod_2	469	3696	Soc. Dist. + Travel Ban	solid
+2020-06-17	mod_3	5587	38354	No Intervention	solid
+2020-06-17	mod_4	337	2649	Moderate return	solid
+2020-06-17	mod_5	2825	20274	Normal (pre-intervention)	solid
+2020-06-17	mod_6	100	936	Cautious return	solid
+2020-06-18	mod_2	512	4046	Soc. Dist. + Travel Ban	solid
+2020-06-18	mod_3	6526	44705	No Intervention	solid
+2020-06-18	mod_4	369	2858	Moderate return	solid
+2020-06-18	mod_5	3337	22873	Normal (pre-intervention)	solid
+2020-06-18	mod_6	103	927	Cautious return	solid
+2020-06-19	mod_2	569	4545	Soc. Dist. + Travel Ban	solid
+2020-06-19	mod_3	7567	54675	No Intervention	solid
+2020-06-19	mod_4	403	3292	Moderate return	solid
+2020-06-19	mod_5	3934	26268	Normal (pre-intervention)	solid
+2020-06-19	mod_6	109	1064	Cautious return	solid
+2020-06-20	mod_2	621	4747	Soc. Dist. + Travel Ban	solid
+2020-06-20	mod_3	8720	63215	No Intervention	solid
+2020-06-20	mod_4	443	3514	Moderate return	solid
+2020-06-20	mod_5	4618	31815	Normal (pre-intervention)	solid
+2020-06-20	mod_6	109	1017	Cautious return	solid
+2020-06-21	mod_2	688	5264	Soc. Dist. + Travel Ban	solid
+2020-06-21	mod_3	9990	73785	No Intervention	solid
+2020-06-21	mod_4	488	3607	Moderate return	solid
+2020-06-21	mod_5	5407	37473	Normal (pre-intervention)	solid
+2020-06-21	mod_6	117	1104	Cautious return	solid
+2020-06-22	mod_2	755	5863	Soc. Dist. + Travel Ban	solid
+2020-06-22	mod_3	11386	85034	No Intervention	solid
+2020-06-22	mod_4	537	4069	Moderate return	solid
+2020-06-22	mod_5	6282	43476	Normal (pre-intervention)	solid
+2020-06-22	mod_6	122	1114	Cautious return	solid
+2020-06-23	mod_2	834	5955	Soc. Dist. + Travel Ban	solid
+2020-06-23	mod_3	12902	100922	No Intervention	solid
+2020-06-23	mod_4	594	4348	Moderate return	solid
+2020-06-23	mod_5	7261	51611	Normal (pre-intervention)	solid
+2020-06-23	mod_6	127	1129	Cautious return	solid
+2020-06-24	mod_2	927	6587	Soc. Dist. + Travel Ban	solid
+2020-06-24	mod_3	14534	117784	No Intervention	solid
+2020-06-24	mod_4	654	4816	Moderate return	solid
+2020-06-24	mod_5	8324	59485	Normal (pre-intervention)	solid
+2020-06-24	mod_6	133	1318	Cautious return	solid
+2020-06-25	mod_2	1027	7055	Soc. Dist. + Travel Ban	solid
+2020-06-25	mod_3	16298	134926	No Intervention	solid
+2020-06-25	mod_4	728	5477	Moderate return	solid
+2020-06-25	mod_5	9507	68672	Normal (pre-intervention)	solid
+2020-06-25	mod_6	138	1230	Cautious return	solid
+2020-06-26	mod_2	1123	8282	Soc. Dist. + Travel Ban	solid
+2020-06-26	mod_3	18154	158061	No Intervention	solid
+2020-06-26	mod_4	812	5630	Moderate return	solid
+2020-06-26	mod_5	10808	80411	Normal (pre-intervention)	solid
+2020-06-26	mod_6	149	1060	Cautious return	solid
+2020-06-27	mod_2	1249	8089	Soc. Dist. + Travel Ban	solid
+2020-06-27	mod_3	20090	183957	No Intervention	solid
+2020-06-27	mod_4	896	6341	Moderate return	solid
+2020-06-27	mod_5	12186	92035	Normal (pre-intervention)	solid
+2020-06-27	mod_6	154	1392	Cautious return	solid
+2020-06-28	mod_2	1379	9257	Soc. Dist. + Travel Ban	solid
+2020-06-28	mod_3	22113	213674	No Intervention	solid
+2020-06-28	mod_4	991	6563	Moderate return	solid
+2020-06-28	mod_5	13658	108963	Normal (pre-intervention)	solid
+2020-06-28	mod_6	163	1446	Cautious return	solid
+2020-06-29	mod_2	1522	9838	Soc. Dist. + Travel Ban	solid
+2020-06-29	mod_3	24281	246984	No Intervention	solid
+2020-06-29	mod_4	1097	7163	Moderate return	solid
+2020-06-29	mod_5	15240	129381	Normal (pre-intervention)	solid
+2020-06-29	mod_6	170	1213	Cautious return	solid
+2020-06-30	mod_2	1677	11303	Soc. Dist. + Travel Ban	solid
+2020-06-30	mod_3	26463	279709	No Intervention	solid
+2020-06-30	mod_4	1211	7633	Moderate return	solid
+2020-06-30	mod_5	16885	148784	Normal (pre-intervention)	solid
+2020-06-30	mod_6	184	1517	Cautious return	solid
+2020-07-01	mod_2	1857	12105	Soc. Dist. + Travel Ban	solid
+2020-07-01	mod_3	28678	326021	No Intervention	solid
+2020-07-01	mod_4	1335	8416	Moderate return	solid
+2020-07-01	mod_5	18615	167482	Normal (pre-intervention)	solid
+2020-07-01	mod_6	193	1619	Cautious return	solid
+2020-07-02	mod_2	2032	13416	Soc. Dist. + Travel Ban	solid
+2020-07-02	mod_3	30935	371853	No Intervention	solid
+2020-07-02	mod_4	1487	9062	Moderate return	solid
+2020-07-02	mod_5	20392	195077	Normal (pre-intervention)	solid
+2020-07-02	mod_6	201	1390	Cautious return	solid
+2020-07-03	mod_2	2225	14496	Soc. Dist. + Travel Ban	solid
+2020-07-03	mod_3	33257	413055	No Intervention	solid
+2020-07-03	mod_4	1632	10175	Moderate return	solid
+2020-07-03	mod_5	22226	224187	Normal (pre-intervention)	solid
+2020-07-03	mod_6	214	1889	Cautious return	solid
+2020-07-04	mod_2	2438	14995	Soc. Dist. + Travel Ban	solid
+2020-07-04	mod_3	35540	460807	No Intervention	solid
+2020-07-04	mod_4	1791	10767	Moderate return	solid
+2020-07-04	mod_5	24106	255771	Normal (pre-intervention)	solid
+2020-07-04	mod_6	229	1721	Cautious return	solid
+2020-07-05	mod_2	2658	15934	Soc. Dist. + Travel Ban	solid
+2020-07-05	mod_3	37852	528888	No Intervention	solid
+2020-07-05	mod_4	1971	12029	Moderate return	solid
+2020-07-05	mod_5	26019	293376	Normal (pre-intervention)	solid
+2020-07-05	mod_6	243	1650	Cautious return	solid
+2020-07-06	mod_2	2902	17787	Soc. Dist. + Travel Ban	solid
+2020-07-06	mod_3	40176	570944	No Intervention	solid
+2020-07-06	mod_4	2160	12181	Moderate return	solid
+2020-07-06	mod_5	27949	332580	Normal (pre-intervention)	solid
+2020-07-06	mod_6	256	2093	Cautious return	solid
+2020-07-07	mod_2	3153	19230	Soc. Dist. + Travel Ban	solid
+2020-07-07	mod_3	42447	610731	No Intervention	solid
+2020-07-07	mod_4	2366	13839	Moderate return	solid
+2020-07-07	mod_5	29855	373774	Normal (pre-intervention)	solid
+2020-07-07	mod_6	275	1731	Cautious return	solid
+2020-07-08	mod_2	3427	21963	Soc. Dist. + Travel Ban	solid
+2020-07-08	mod_3	44669	648124	No Intervention	solid
+2020-07-08	mod_4	2575	14882	Moderate return	solid
+2020-07-08	mod_5	31814	428338	Normal (pre-intervention)	solid
+2020-07-08	mod_6	295	2168	Cautious return	solid
+2020-07-09	mod_2	3714	23595	Soc. Dist. + Travel Ban	solid
+2020-07-09	mod_3	46859	708404	No Intervention	solid
+2020-07-09	mod_4	2802	15742	Moderate return	solid
+2020-07-09	mod_5	33731	464081	Normal (pre-intervention)	solid
+2020-07-09	mod_6	313	1997	Cautious return	solid
+2020-07-10	mod_2	4001	25582	Soc. Dist. + Travel Ban	solid
+2020-07-10	mod_3	49018	732389	No Intervention	solid
+2020-07-10	mod_4	3054	17556	Moderate return	solid
+2020-07-10	mod_5	35608	517669	Normal (pre-intervention)	solid
+2020-07-10	mod_6	333	2098	Cautious return	solid
+2020-07-11	mod_2	4327	27267	Soc. Dist. + Travel Ban	solid
+2020-07-11	mod_3	51116	746357	No Intervention	solid
+2020-07-11	mod_4	3291	19116	Moderate return	solid
+2020-07-11	mod_5	37473	565137	Normal (pre-intervention)	solid
+2020-07-11	mod_6	357	2540	Cautious return	solid
+2020-07-12	mod_2	4643	30337	Soc. Dist. + Travel Ban	solid
+2020-07-12	mod_3	53117	768461	No Intervention	solid
+2020-07-12	mod_4	3557	21779	Moderate return	solid
+2020-07-12	mod_5	39303	593006	Normal (pre-intervention)	solid
+2020-07-12	mod_6	380	2080	Cautious return	solid
+2020-07-13	mod_2	4983	33206	Soc. Dist. + Travel Ban	solid
+2020-07-13	mod_3	55084	799538	No Intervention	solid
+2020-07-13	mod_4	3828	21276	Moderate return	solid
+2020-07-13	mod_5	41098	641847	Normal (pre-intervention)	solid
+2020-07-13	mod_6	407	2614	Cautious return	solid
+2020-07-14	mod_2	5324	36359	Soc. Dist. + Travel Ban	solid
+2020-07-14	mod_3	56959	836972	No Intervention	solid
+2020-07-14	mod_4	4105	23679	Moderate return	solid
+2020-07-14	mod_5	42791	656492	Normal (pre-intervention)	solid
+2020-07-14	mod_6	431	2481	Cautious return	solid
+2020-07-15	mod_2	5684	38885	Soc. Dist. + Travel Ban	solid
+2020-07-15	mod_3	58765	843724	No Intervention	solid
+2020-07-15	mod_4	4398	26578	Moderate return	solid
+2020-07-15	mod_5	44493	701761	Normal (pre-intervention)	solid
+2020-07-15	mod_6	467	2663	Cautious return	solid
+2020-07-16	mod_2	6064	42259	Soc. Dist. + Travel Ban	solid
+2020-07-16	mod_3	60458	868237	No Intervention	solid
+2020-07-16	mod_4	4683	29031	Moderate return	solid
+2020-07-16	mod_5	46088	743737	Normal (pre-intervention)	solid
+2020-07-16	mod_6	493	2897	Cautious return	solid
+2020-07-17	mod_2	6434	46097	Soc. Dist. + Travel Ban	solid
+2020-07-17	mod_3	62055	859749	No Intervention	solid
+2020-07-17	mod_4	5005	29610	Moderate return	solid
+2020-07-17	mod_5	47615	748769	Normal (pre-intervention)	solid
+2020-07-17	mod_6	525	3079	Cautious return	solid
+2020-07-18	mod_2	6831	48911	Soc. Dist. + Travel Ban	solid
+2020-07-18	mod_3	63559	880996	No Intervention	solid
+2020-07-18	mod_4	5321	32210	Moderate return	solid
+2020-07-18	mod_5	49027	755247	Normal (pre-intervention)	solid
+2020-07-18	mod_6	565	3364	Cautious return	solid
+2020-07-19	mod_2	7209	52469	Soc. Dist. + Travel Ban	solid
+2020-07-19	mod_3	64983	874574	No Intervention	solid
+2020-07-19	mod_4	5652	37634	Moderate return	solid
+2020-07-19	mod_5	50411	798955	Normal (pre-intervention)	solid
+2020-07-19	mod_6	596	2931	Cautious return	solid
+2020-07-20	mod_2	7605	57748	Soc. Dist. + Travel Ban	solid
+2020-07-20	mod_3	66310	866077	No Intervention	solid
+2020-07-20	mod_4	5976	39091	Moderate return	solid
+2020-07-20	mod_5	51726	798279	Normal (pre-intervention)	solid
+2020-07-20	mod_6	636	3290	Cautious return	solid
+2020-07-21	mod_2	8025	64678	Soc. Dist. + Travel Ban	solid
+2020-07-21	mod_3	67530	835007	No Intervention	solid
+2020-07-21	mod_4	6318	42884	Moderate return	solid
+2020-07-21	mod_5	52917	808699	Normal (pre-intervention)	solid
+2020-07-21	mod_6	676	3425	Cautious return	solid
+2020-07-22	mod_2	8428	66963	Soc. Dist. + Travel Ban	solid
+2020-07-22	mod_3	68641	878250	No Intervention	solid
+2020-07-22	mod_4	6663	46170	Moderate return	solid
+2020-07-22	mod_5	54044	850313	Normal (pre-intervention)	solid
+2020-07-22	mod_6	715	3401	Cautious return	solid
+2020-07-23	mod_2	8845	72631	Soc. Dist. + Travel Ban	solid
+2020-07-23	mod_3	69696	825579	No Intervention	solid
+2020-07-23	mod_4	7006	48914	Moderate return	solid
+2020-07-23	mod_5	55056	835085	Normal (pre-intervention)	solid
+2020-07-23	mod_6	763	3664	Cautious return	solid
+2020-07-24	mod_2	9278	78116	Soc. Dist. + Travel Ban	solid
+2020-07-24	mod_3	70612	776183	No Intervention	solid
+2020-07-24	mod_4	7357	52533	Moderate return	solid
+2020-07-24	mod_5	56070	858403	Normal (pre-intervention)	solid
+2020-07-24	mod_6	807	3611	Cautious return	solid
+2020-07-25	mod_2	9679	85918	Soc. Dist. + Travel Ban	solid
+2020-07-25	mod_3	71424	764333	No Intervention	solid
+2020-07-25	mod_4	7726	55463	Moderate return	solid
+2020-07-25	mod_5	56939	823367	Normal (pre-intervention)	solid
+2020-07-25	mod_6	856	3140	Cautious return	solid
+2020-07-26	mod_2	10072	93723	Soc. Dist. + Travel Ban	solid
+2020-07-26	mod_3	72131	760083	No Intervention	solid
+2020-07-26	mod_4	8088	63721	Moderate return	solid
+2020-07-26	mod_5	57748	820038	Normal (pre-intervention)	solid
+2020-07-26	mod_6	901	4479	Cautious return	solid
+2020-07-27	mod_2	10516	98992	Soc. Dist. + Travel Ban	solid
+2020-07-27	mod_3	72826	694837	No Intervention	solid
+2020-07-27	mod_4	8445	60784	Moderate return	solid
+2020-07-27	mod_5	58430	819044	Normal (pre-intervention)	solid
+2020-07-27	mod_6	955	4076	Cautious return	solid
+2020-07-28	mod_2	10914	100415	Soc. Dist. + Travel Ban	solid
+2020-07-28	mod_3	73419	681225	No Intervention	solid
+2020-07-28	mod_4	8810	75555	Moderate return	solid
+2020-07-28	mod_5	59074	803987	Normal (pre-intervention)	solid
+2020-07-28	mod_6	1014	4205	Cautious return	solid
+2020-07-29	mod_2	11327	117083	Soc. Dist. + Travel Ban	solid
+2020-07-29	mod_3	73852	625531	No Intervention	solid
+2020-07-29	mod_4	9173	76926	Moderate return	solid
+2020-07-29	mod_5	59620	795046	Normal (pre-intervention)	solid
+2020-07-29	mod_6	1065	4480	Cautious return	solid
+2020-07-30	mod_2	11741	125891	Soc. Dist. + Travel Ban	solid
+2020-07-30	mod_3	74234	612215	No Intervention	solid
+2020-07-30	mod_4	9531	82060	Moderate return	solid
+2020-07-30	mod_5	60110	739397	Normal (pre-intervention)	solid
+2020-07-30	mod_6	1123	5162	Cautious return	solid
+2020-07-31	mod_2	12130	137673	Soc. Dist. + Travel Ban	solid
+2020-07-31	mod_3	74463	575042	No Intervention	solid
+2020-07-31	mod_4	9898	88895	Moderate return	solid
+2020-07-31	mod_5	60480	709243	Normal (pre-intervention)	solid
+2020-07-31	mod_6	1179	5310	Cautious return	solid
+2020-08-01	mod_2	12551	147365	Soc. Dist. + Travel Ban	solid
+2020-08-01	mod_3	74694	528918	No Intervention	solid
+2020-08-01	mod_4	10259	97242	Moderate return	solid
+2020-08-01	mod_5	60821	690590	Normal (pre-intervention)	solid
+2020-08-01	mod_6	1232	5209	Cautious return	solid
+2020-08-02	mod_2	12952	150178	Soc. Dist. + Travel Ban	solid
+2020-08-02	mod_3	74859	513666	No Intervention	solid
+2020-08-02	mod_4	10616	105225	Moderate return	solid
+2020-08-02	mod_5	61106	657942	Normal (pre-intervention)	solid
+2020-08-02	mod_6	1298	5362	Cautious return	solid
+2020-08-03	mod_2	13339	167832	Soc. Dist. + Travel Ban	solid
+2020-08-03	mod_3	74923	489915	No Intervention	solid
+2020-08-03	mod_4	10957	107691	Moderate return	solid
+2020-08-03	mod_5	61283	638953	Normal (pre-intervention)	solid
+2020-08-03	mod_6	1353	4804	Cautious return	solid
+2020-08-04	mod_2	13701	174059	Soc. Dist. + Travel Ban	solid
+2020-08-04	mod_3	74875	439057	No Intervention	solid
+2020-08-04	mod_4	11298	131688	Moderate return	solid
+2020-08-04	mod_5	61406	553901	Normal (pre-intervention)	solid
+2020-08-04	mod_6	1415	6111	Cautious return	solid
+2020-08-05	mod_2	14103	178311	Soc. Dist. + Travel Ban	solid
+2020-08-05	mod_3	74871	408852	No Intervention	solid
+2020-08-05	mod_4	11633	126620	Moderate return	solid
+2020-08-05	mod_5	61505	555030	Normal (pre-intervention)	solid
+2020-08-05	mod_6	1481	5959	Cautious return	solid
+2020-08-06	mod_2	14477	200399	Soc. Dist. + Travel Ban	solid
+2020-08-06	mod_3	74647	369558	No Intervention	solid
+2020-08-06	mod_4	11970	137908	Moderate return	solid
+2020-08-06	mod_5	61495	549930	Normal (pre-intervention)	solid
+2020-08-06	mod_6	1556	5963	Cautious return	solid
+2020-08-07	mod_2	14832	204691	Soc. Dist. + Travel Ban	solid
+2020-08-07	mod_3	74532	358055	No Intervention	solid
+2020-08-07	mod_4	12259	154134	Moderate return	solid
+2020-08-07	mod_5	61496	475686	Normal (pre-intervention)	solid
+2020-08-07	mod_6	1606	6804	Cautious return	solid
+2020-08-08	mod_2	15202	227899	Soc. Dist. + Travel Ban	solid
+2020-08-08	mod_3	74274	343698	No Intervention	solid
+2020-08-08	mod_4	12602	152319	Moderate return	solid
+2020-08-08	mod_5	61424	469257	Normal (pre-intervention)	solid
+2020-08-08	mod_6	1688	6483	Cautious return	solid
+2020-08-09	mod_2	15529	234691	Soc. Dist. + Travel Ban	solid
+2020-08-09	mod_3	73927	301519	No Intervention	solid
+2020-08-09	mod_4	12895	166583	Moderate return	solid
+2020-08-09	mod_5	61279	445645	Normal (pre-intervention)	solid
+2020-08-09	mod_6	1741	6665	Cautious return	solid
+2020-08-10	mod_2	15888	245250	Soc. Dist. + Travel Ban	solid
+2020-08-10	mod_3	73590	295792	No Intervention	solid
+2020-08-10	mod_4	13199	169683	Moderate return	solid
+2020-08-10	mod_5	61085	414696	Normal (pre-intervention)	solid
+2020-08-10	mod_6	1818	7350	Cautious return	solid
+2020-08-11	mod_2	16207	252430	Soc. Dist. + Travel Ban	solid
+2020-08-11	mod_3	73228	264812	No Intervention	solid
+2020-08-11	mod_4	13501	186543	Moderate return	solid
+2020-08-11	mod_5	60849	385797	Normal (pre-intervention)	solid
+2020-08-11	mod_6	1890	7752	Cautious return	solid
+2020-08-12	mod_2	16521	256655	Soc. Dist. + Travel Ban	solid
+2020-08-12	mod_3	72674	253615	No Intervention	solid
+2020-08-12	mod_4	13774	198218	Moderate return	solid
+2020-08-12	mod_5	60572	345302	Normal (pre-intervention)	solid
+2020-08-12	mod_6	1957	7529	Cautious return	solid
+2020-08-13	mod_2	16809	271259	Soc. Dist. + Travel Ban	solid
+2020-08-13	mod_3	72192	217449	No Intervention	solid
+2020-08-13	mod_4	14015	206326	Moderate return	solid
+2020-08-13	mod_5	60268	346217	Normal (pre-intervention)	solid
+2020-08-13	mod_6	2028	7824	Cautious return	solid
+2020-08-14	mod_2	17104	280133	Soc. Dist. + Travel Ban	solid
+2020-08-14	mod_3	71651	213492	No Intervention	solid
+2020-08-14	mod_4	14303	214777	Moderate return	solid
+2020-08-14	mod_5	59962	311558	Normal (pre-intervention)	solid
+2020-08-14	mod_6	2095	8604	Cautious return	solid
+2020-08-15	mod_2	17365	281892	Soc. Dist. + Travel Ban	solid
+2020-08-15	mod_3	71119	188054	No Intervention	solid
+2020-08-15	mod_4	14517	225658	Moderate return	solid
+2020-08-15	mod_5	59634	278018	Normal (pre-intervention)	solid
+2020-08-15	mod_6	2181	8625	Cautious return	solid
+2020-08-16	mod_2	17623	294020	Soc. Dist. + Travel Ban	solid
+2020-08-16	mod_3	70550	176404	No Intervention	solid
+2020-08-16	mod_4	14780	231036	Moderate return	solid
+2020-08-16	mod_5	59196	249896	Normal (pre-intervention)	solid
+2020-08-16	mod_6	2243	8657	Cautious return	solid
+2020-08-17	mod_2	17903	301731	Soc. Dist. + Travel Ban	solid
+2020-08-17	mod_3	69905	150195	No Intervention	solid
+2020-08-17	mod_4	15014	240221	Moderate return	solid
+2020-08-17	mod_5	58754	229495	Normal (pre-intervention)	solid
+2020-08-17	mod_6	2311	10414	Cautious return	solid
+2020-08-18	mod_2	18132	331312	Soc. Dist. + Travel Ban	solid
+2020-08-18	mod_3	69219	162525	No Intervention	solid
+2020-08-18	mod_4	15224	249947	Moderate return	solid
+2020-08-18	mod_5	58263	220521	Normal (pre-intervention)	solid
+2020-08-18	mod_6	2397	9761	Cautious return	solid
+2020-08-19	mod_2	18341	322892	Soc. Dist. + Travel Ban	solid
+2020-08-19	mod_3	68575	129815	No Intervention	solid
+2020-08-19	mod_4	15436	255555	Moderate return	solid
+2020-08-19	mod_5	57858	220444	Normal (pre-intervention)	solid
+2020-08-19	mod_6	2461	10250	Cautious return	solid
+2020-08-20	mod_2	18574	343707	Soc. Dist. + Travel Ban	solid
+2020-08-20	mod_3	67963	144159	No Intervention	solid
+2020-08-20	mod_4	15646	266949	Moderate return	solid
+2020-08-20	mod_5	57310	207433	Normal (pre-intervention)	solid
+2020-08-20	mod_6	2533	10222	Cautious return	solid
+2020-08-21	mod_2	18800	338364	Soc. Dist. + Travel Ban	solid
+2020-08-21	mod_3	67121	115348	No Intervention	solid
+2020-08-21	mod_4	15818	274447	Moderate return	solid
+2020-08-21	mod_5	56794	184415	Normal (pre-intervention)	solid
+2020-08-21	mod_6	2611	11859	Cautious return	solid
+2020-08-22	mod_2	18982	347853	Soc. Dist. + Travel Ban	solid
+2020-08-22	mod_3	66414	113964	No Intervention	solid
+2020-08-22	mod_4	16041	267814	Moderate return	solid
+2020-08-22	mod_5	56209	155042	Normal (pre-intervention)	solid
+2020-08-22	mod_6	2674	11862	Cautious return	solid
+2020-08-23	mod_2	19131	386245	Soc. Dist. + Travel Ban	solid
+2020-08-23	mod_3	65691	97598	No Intervention	solid
+2020-08-23	mod_4	16191	295880	Moderate return	solid
+2020-08-23	mod_5	55693	160392	Normal (pre-intervention)	solid
+2020-08-23	mod_6	2747	11763	Cautious return	solid
+2020-08-24	mod_2	19251	349606	Soc. Dist. + Travel Ban	solid
+2020-08-24	mod_3	64876	93773	No Intervention	solid
+2020-08-24	mod_4	16361	277022	Moderate return	solid
+2020-08-24	mod_5	55119	133108	Normal (pre-intervention)	solid
+2020-08-24	mod_6	2825	11328	Cautious return	solid
+2020-08-25	mod_2	19411	368273	Soc. Dist. + Travel Ban	solid
+2020-08-25	mod_3	64181	79287	No Intervention	solid
+2020-08-25	mod_4	16522	343874	Moderate return	solid
+2020-08-25	mod_5	54475	136522	Normal (pre-intervention)	solid
+2020-08-25	mod_6	2904	14485	Cautious return	solid
+2020-08-26	mod_2	19566	395451	Soc. Dist. + Travel Ban	solid
+2020-08-26	mod_3	63445	97936	No Intervention	solid
+2020-08-26	mod_4	16677	306965	Moderate return	solid
+2020-08-26	mod_5	53921	114161	Normal (pre-intervention)	solid
+2020-08-26	mod_6	2967	13995	Cautious return	solid
+2020-08-27	mod_2	19653	369583	Soc. Dist. + Travel Ban	solid
+2020-08-27	mod_3	62614	82351	No Intervention	solid
+2020-08-27	mod_4	16775	323486	Moderate return	solid
+2020-08-27	mod_5	53303	99652	Normal (pre-intervention)	solid
+2020-08-27	mod_6	3032	15865	Cautious return	solid
+2020-08-28	mod_2	19808	393634	Soc. Dist. + Travel Ban	solid
+2020-08-28	mod_3	61824	77789	No Intervention	solid
+2020-08-28	mod_4	16922	352901	Moderate return	solid
+2020-08-28	mod_5	52607	112854	Normal (pre-intervention)	solid
+2020-08-28	mod_6	3125	15213	Cautious return	solid
+2020-08-29	mod_2	19902	374015	Soc. Dist. + Travel Ban	solid
+2020-08-29	mod_3	61049	78891	No Intervention	solid
+2020-08-29	mod_4	17004	328113	Moderate return	solid
+2020-08-29	mod_5	51995	97829	Normal (pre-intervention)	solid
+2020-08-29	mod_6	3196	14937	Cautious return	solid
+2020-08-30	mod_2	19995	405028	Soc. Dist. + Travel Ban	solid
+2020-08-30	mod_3	60275	77621	No Intervention	solid
+2020-08-30	mod_4	17137	343356	Moderate return	solid
+2020-08-30	mod_5	51309	83452	Normal (pre-intervention)	solid
+2020-08-30	mod_6	3268	15191	Cautious return	solid
+2020-08-31	mod_2	20095	400840	Soc. Dist. + Travel Ban	solid
+2020-08-31	mod_3	59426	46653	No Intervention	solid
+2020-08-31	mod_4	17239	337587	Moderate return	solid
+2020-08-31	mod_5	50671	96014	Normal (pre-intervention)	solid
+2020-08-31	mod_6	3325	17731	Cautious return	solid
+2020-09-01	mod_2	20171	398952	Soc. Dist. + Travel Ban	solid
+2020-09-01	mod_3	58622	53668	No Intervention	solid
+2020-09-01	mod_4	17302	349861	Moderate return	solid
+2020-09-01	mod_5	49937	80302	Normal (pre-intervention)	solid
+2020-09-01	mod_6	3410	16560	Cautious return	solid
+2020-09-02	mod_2	20207	391914	Soc. Dist. + Travel Ban	solid
+2020-09-02	mod_3	57815	34376	No Intervention	solid
+2020-09-02	mod_4	17368	355697	Moderate return	solid
+2020-09-02	mod_5	49390	70959	Normal (pre-intervention)	solid
+2020-09-02	mod_6	3460	19446	Cautious return	solid
+2020-09-03	mod_2	20266	426602	Soc. Dist. + Travel Ban	solid
+2020-09-03	mod_3	56989	40500	No Intervention	solid
+2020-09-03	mod_4	17463	377251	Moderate return	solid
+2020-09-03	mod_5	48677	73285	Normal (pre-intervention)	solid
+2020-09-03	mod_6	3541	18073	Cautious return	solid
+2020-09-04	mod_2	20311	382601	Soc. Dist. + Travel Ban	solid
+2020-09-04	mod_3	56176	33774	No Intervention	solid
+2020-09-04	mod_4	17509	376001	Moderate return	solid
+2020-09-04	mod_5	47916	72445	Normal (pre-intervention)	solid
+2020-09-04	mod_6	3592	18707	Cautious return	solid
+2020-09-05	mod_2	20303	393551	Soc. Dist. + Travel Ban	solid
+2020-09-05	mod_3	55415	43272	No Intervention	solid
+2020-09-05	mod_4	17512	361481	Moderate return	solid
+2020-09-05	mod_5	47279	71077	Normal (pre-intervention)	solid
+2020-09-05	mod_6	3671	21435	Cautious return	solid
+2020-09-06	mod_2	20322	391358	Soc. Dist. + Travel Ban	solid
+2020-09-06	mod_3	54593	45464	No Intervention	solid
+2020-09-06	mod_4	17599	395229	Moderate return	solid
+2020-09-06	mod_5	46644	48201	Normal (pre-intervention)	solid
+2020-09-06	mod_6	3729	20172	Cautious return	solid
+2020-09-07	mod_2	20349	422026	Soc. Dist. + Travel Ban	solid
+2020-09-07	mod_3	53779	38823	No Intervention	solid
+2020-09-07	mod_4	17632	392188	Moderate return	solid
+2020-09-07	mod_5	45863	53356	Normal (pre-intervention)	solid
+2020-09-07	mod_6	3797	21381	Cautious return	solid
+2020-09-08	mod_2	20377	362283	Soc. Dist. + Travel Ban	solid
+2020-09-08	mod_3	53001	28837	No Intervention	solid
+2020-09-08	mod_4	17623	401597	Moderate return	solid
+2020-09-08	mod_5	45256	45984	Normal (pre-intervention)	solid
+2020-09-08	mod_6	3852	22389	Cautious return	solid
+2020-09-09	mod_2	20371	380648	Soc. Dist. + Travel Ban	solid
+2020-09-09	mod_3	52246	33523	No Intervention	solid
+2020-09-09	mod_4	17662	377109	Moderate return	solid
+2020-09-09	mod_5	44586	46116	Normal (pre-intervention)	solid
+2020-09-09	mod_6	3908	24985	Cautious return	solid
+2020-09-10	mod_2	20372	364927	Soc. Dist. + Travel Ban	solid
+2020-09-10	mod_3	51379	32597	No Intervention	solid
+2020-09-10	mod_4	17681	411041	Moderate return	solid
+2020-09-10	mod_5	43936	45621	Normal (pre-intervention)	solid
+2020-09-10	mod_6	3981	24153	Cautious return	solid
+2020-09-11	mod_2	20336	381809	Soc. Dist. + Travel Ban	solid
+2020-09-11	mod_3	50647	7197	No Intervention	solid
+2020-09-11	mod_4	17687	377536	Moderate return	solid
+2020-09-11	mod_5	43218	41746	Normal (pre-intervention)	solid
+2020-09-11	mod_6	4023	24281	Cautious return	solid
+2020-09-12	mod_2	20310	362144	Soc. Dist. + Travel Ban	solid
+2020-09-12	mod_3	49883	25499	No Intervention	solid
+2020-09-12	mod_4	17668	385832	Moderate return	solid
+2020-09-12	mod_5	42562	46414	Normal (pre-intervention)	solid
+2020-09-12	mod_6	4080	27106	Cautious return	solid
+2020-09-13	mod_2	20252	349394	Soc. Dist. + Travel Ban	solid
+2020-09-13	mod_3	49112	13691	No Intervention	solid
+2020-09-13	mod_4	17685	374730	Moderate return	solid
+2020-09-13	mod_5	41879	20706	Normal (pre-intervention)	solid
+2020-09-13	mod_6	4143	26848	Cautious return	solid
+2020-09-14	mod_2	20222	343412	Soc. Dist. + Travel Ban	solid
+2020-09-14	mod_3	48307	15511	No Intervention	solid
+2020-09-14	mod_4	17607	348220	Moderate return	solid
+2020-09-14	mod_5	41267	29782	Normal (pre-intervention)	solid
+2020-09-14	mod_6	4197	26124	Cautious return	solid
+2020-09-15	mod_2	20164	339638	Soc. Dist. + Travel Ban	solid
+2020-09-15	mod_3	47571	25533	No Intervention	solid
+2020-09-15	mod_4	17654	350904	Moderate return	solid
+2020-09-15	mod_5	40632	16864	Normal (pre-intervention)	solid
+2020-09-15	mod_6	4228	29728	Cautious return	solid
+2020-09-16	mod_2	20113	324708	Soc. Dist. + Travel Ban	solid
+2020-09-16	mod_3	46799	5974	No Intervention	solid
+2020-09-16	mod_4	17594	373406	Moderate return	solid
+2020-09-16	mod_5	39933	29975	Normal (pre-intervention)	solid
+2020-09-16	mod_6	4309	32585	Cautious return	solid
+2020-09-17	mod_2	20082	315534	Soc. Dist. + Travel Ban	solid
+2020-09-17	mod_3	46059	4471	No Intervention	solid
+2020-09-17	mod_4	17557	336232	Moderate return	solid
+2020-09-17	mod_5	39333	17808	Normal (pre-intervention)	solid
+2020-09-17	mod_6	4351	30522	Cautious return	solid
+2020-09-18	mod_2	19997	307167	Soc. Dist. + Travel Ban	solid
+2020-09-18	mod_3	45388	9540	No Intervention	solid
+2020-09-18	mod_4	17538	360106	Moderate return	solid
+2020-09-18	mod_5	38684	13995	Normal (pre-intervention)	solid
+2020-09-18	mod_6	4376	32730	Cautious return	solid
+2020-09-19	mod_2	19878	288909	Soc. Dist. + Travel Ban	solid
+2020-09-19	mod_3	44638	7285	No Intervention	solid
+2020-09-19	mod_4	17498	311131	Moderate return	solid
+2020-09-19	mod_5	38087	21565	Normal (pre-intervention)	solid
+2020-09-19	mod_6	4447	34051	Cautious return	solid
+2020-09-20	mod_2	19837	255798	Soc. Dist. + Travel Ban	solid
+2020-09-20	mod_3	43948	15816	No Intervention	solid
+2020-09-20	mod_4	17417	340603	Moderate return	solid
+2020-09-20	mod_5	37446	19309	Normal (pre-intervention)	solid
+2020-09-20	mod_6	4485	35540	Cautious return	solid
+2020-09-21	mod_2	19758	285983	Soc. Dist. + Travel Ban	solid
+2020-09-21	mod_3	43183	5559	No Intervention	solid
+2020-09-21	mod_4	17373	319889	Moderate return	solid
+2020-09-21	mod_5	36804	9468	Normal (pre-intervention)	solid
+2020-09-21	mod_6	4522	36644	Cautious return	solid
+2020-09-22	mod_2	19645	245219	Soc. Dist. + Travel Ban	solid
+2020-09-22	mod_3	42521	-3846	No Intervention	solid
+2020-09-22	mod_4	17318	320093	Moderate return	solid
+2020-09-22	mod_5	36234	10940	Normal (pre-intervention)	solid
+2020-09-22	mod_6	4581	36400	Cautious return	solid
+2020-09-23	mod_2	19571	243986	Soc. Dist. + Travel Ban	solid
+2020-09-23	mod_3	41767	5140	No Intervention	solid
+2020-09-23	mod_4	17282	302868	Moderate return	solid
+2020-09-23	mod_5	35598	2163	Normal (pre-intervention)	solid
+2020-09-23	mod_6	4614	41829	Cautious return	solid
+2020-09-24	mod_2	19462	234470	Soc. Dist. + Travel Ban	solid
+2020-09-24	mod_3	41102	2773	No Intervention	solid
+2020-09-24	mod_4	17165	267707	Moderate return	solid
+2020-09-24	mod_5	35060	-7212	Normal (pre-intervention)	solid
+2020-09-24	mod_6	4651	38106	Cautious return	solid
+2020-09-25	mod_2	19390	250617	Soc. Dist. + Travel Ban	solid
+2020-09-25	mod_3	40356	-11384	No Intervention	solid
+2020-09-25	mod_4	17119	285996	Moderate return	solid
+2020-09-25	mod_5	34435	-490	Normal (pre-intervention)	solid
+2020-09-25	mod_6	4687	41162	Cautious return	solid
+2020-09-26	mod_2	19263	222067	Soc. Dist. + Travel Ban	solid
+2020-09-26	mod_3	39722	-4313	No Intervention	solid
+2020-09-26	mod_4	17028	272809	Moderate return	solid
+2020-09-26	mod_5	33872	-7199	Normal (pre-intervention)	solid
+2020-09-26	mod_6	4716	46656	Cautious return	solid
+2020-09-27	mod_2	19140	189562	Soc. Dist. + Travel Ban	solid
+2020-09-27	mod_3	38942	-9639	No Intervention	solid
+2020-09-27	mod_4	16931	263875	Moderate return	solid
+2020-09-27	mod_5	33278	9849	Normal (pre-intervention)	solid
+2020-09-27	mod_6	4752	44366	Cautious return	solid
+2020-09-28	mod_2	19043	196408	Soc. Dist. + Travel Ban	solid
+2020-09-28	mod_3	38381	-8738	No Intervention	solid
+2020-09-28	mod_4	16865	247738	Moderate return	solid
+2020-09-28	mod_5	32749	-7025	Normal (pre-intervention)	solid
+2020-09-28	mod_6	4769	47176	Cautious return	solid
+2020-09-29	mod_2	18934	200880	Soc. Dist. + Travel Ban	solid
+2020-09-29	mod_3	37708	20879	No Intervention	solid
+2020-09-29	mod_4	16775	249288	Moderate return	solid
+2020-09-29	mod_5	32171	5766	Normal (pre-intervention)	solid
+2020-09-29	mod_6	4805	50855	Cautious return	solid
+2020-09-30	mod_2	18819	195772	Soc. Dist. + Travel Ban	solid
+2020-09-30	mod_3	37065	-11454	No Intervention	solid
+2020-09-30	mod_4	16655	241689	Moderate return	solid
+2020-09-30	mod_5	31699	2179	Normal (pre-intervention)	solid
+2020-09-30	mod_6	4838	43056	Cautious return	solid
+2020-10-01	mod_2	18673	191000	Soc. Dist. + Travel Ban	solid
+2020-10-01	mod_3	36451	-8133	No Intervention	solid
+2020-10-01	mod_4	16574	228895	Moderate return	solid
+2020-10-01	mod_5	31110	-6424	Normal (pre-intervention)	solid
+2020-10-01	mod_6	4872	50828	Cautious return	solid
+2020-10-02	mod_2	18613	173779	Soc. Dist. + Travel Ban	solid
+2020-10-02	mod_3	35819	-4673	No Intervention	solid
+2020-10-02	mod_4	16469	240887	Moderate return	solid
+2020-10-02	mod_5	30579	-7518	Normal (pre-intervention)	solid
+2020-10-02	mod_6	4906	49338	Cautious return	solid
+2020-10-03	mod_2	18450	165247	Soc. Dist. + Travel Ban	solid
+2020-10-03	mod_3	35223	-10273	No Intervention	solid
+2020-10-03	mod_4	16350	180254	Moderate return	solid
+2020-10-03	mod_5	30034	-8712	Normal (pre-intervention)	solid
+2020-10-03	mod_6	4900	53959	Cautious return	solid
+2020-10-04	mod_2	18336	166674	Soc. Dist. + Travel Ban	solid
+2020-10-04	mod_3	34597	-11916	No Intervention	solid
+2020-10-04	mod_4	16259	214908	Moderate return	solid
+2020-10-04	mod_5	29541	-14640	Normal (pre-intervention)	solid
+2020-10-04	mod_6	4920	56193	Cautious return	solid
+2020-10-05	mod_2	18177	144600	Soc. Dist. + Travel Ban	solid
+2020-10-05	mod_3	34018	-13961	No Intervention	solid
+2020-10-05	mod_4	16144	188224	Moderate return	solid
+2020-10-05	mod_5	29066	-7936	Normal (pre-intervention)	solid
+2020-10-05	mod_6	4948	54430	Cautious return	solid
+2020-10-06	mod_2	18016	123059	Soc. Dist. + Travel Ban	solid
+2020-10-06	mod_3	33421	-19520	No Intervention	solid
+2020-10-06	mod_4	16025	187981	Moderate return	solid
+2020-10-06	mod_5	28486	-3362	Normal (pre-intervention)	solid
+2020-10-06	mod_6	4968	53588	Cautious return	solid
+2020-10-07	mod_2	17930	160995	Soc. Dist. + Travel Ban	solid
+2020-10-07	mod_3	32901	-16253	No Intervention	solid
+2020-10-07	mod_4	15922	184569	Moderate return	solid
+2020-10-07	mod_5	28063	-12200	Normal (pre-intervention)	solid
+2020-10-07	mod_6	4996	62952	Cautious return	solid
+2020-10-08	mod_2	17756	117140	Soc. Dist. + Travel Ban	solid
+2020-10-08	mod_3	32294	-3303	No Intervention	solid
+2020-10-08	mod_4	15808	149156	Moderate return	solid
+2020-10-08	mod_5	27523	-3100	Normal (pre-intervention)	solid
+2020-10-08	mod_6	4989	61743	Cautious return	solid
+2020-10-09	mod_2	17608	133286	Soc. Dist. + Travel Ban	solid
+2020-10-09	mod_3	31743	-16607	No Intervention	solid
+2020-10-09	mod_4	15719	188972	Moderate return	solid
+2020-10-09	mod_5	27091	-5969	Normal (pre-intervention)	solid
+2020-10-09	mod_6	5040	63049	Cautious return	solid
+2020-10-10	mod_2	17454	123786	Soc. Dist. + Travel Ban	solid
+2020-10-10	mod_3	31199	-15288	No Intervention	solid
+2020-10-10	mod_4	15561	152231	Moderate return	solid
+2020-10-10	mod_5	26529	2118	Normal (pre-intervention)	solid
+2020-10-10	mod_6	5027	60935	Cautious return	solid
+2020-10-11	mod_2	17332	118083	Soc. Dist. + Travel Ban	solid
+2020-10-11	mod_3	30668	-7409	No Intervention	solid
+2020-10-11	mod_4	15469	165293	Moderate return	solid
+2020-10-11	mod_5	26125	-12192	Normal (pre-intervention)	solid
+2020-10-11	mod_6	5043	75494	Cautious return	solid
+2020-10-12	mod_2	17188	124290	Soc. Dist. + Travel Ban	solid
+2020-10-12	mod_3	30132	-17540	No Intervention	solid
+2020-10-12	mod_4	15350	137913	Moderate return	solid
+2020-10-12	mod_5	25641	-12106	Normal (pre-intervention)	solid
+2020-10-12	mod_6	5053	62012	Cautious return	solid
+2020-10-13	mod_2	17092	105146	Soc. Dist. + Travel Ban	solid
+2020-10-13	mod_3	29691	-20063	No Intervention	solid
+2020-10-13	mod_4	15244	124902	Moderate return	solid
+2020-10-13	mod_5	25261	-19935	Normal (pre-intervention)	solid
+2020-10-13	mod_6	5032	69446	Cautious return	solid
+2020-10-14	mod_2	16948	96202	Soc. Dist. + Travel Ban	solid
+2020-10-14	mod_3	29083	-20673	No Intervention	solid
+2020-10-14	mod_4	15099	148381	Moderate return	solid
+2020-10-14	mod_5	24789	-20434	Normal (pre-intervention)	solid
+2020-10-14	mod_6	5091	62030	Cautious return	solid
+2020-10-15	mod_2	16732	101677	Soc. Dist. + Travel Ban	solid
+2020-10-15	mod_3	28614	-11291	No Intervention	solid
+2020-10-15	mod_4	14991	127036	Moderate return	solid
+2020-10-15	mod_5	24295	-12894	Normal (pre-intervention)	solid
+2020-10-15	mod_6	5074	75580	Cautious return	solid
+2020-10-16	mod_2	16609	74425	Soc. Dist. + Travel Ban	solid
+2020-10-16	mod_3	28075	-22090	No Intervention	solid
+2020-10-16	mod_4	14859	115255	Moderate return	solid
+2020-10-16	mod_5	23928	-3426	Normal (pre-intervention)	solid
+2020-10-16	mod_6	5079	74811	Cautious return	solid
+2020-10-17	mod_2	16434	106972	Soc. Dist. + Travel Ban	solid
+2020-10-17	mod_3	27603	-8592	No Intervention	solid
+2020-10-17	mod_4	14739	133492	Moderate return	solid
+2020-10-17	mod_5	23497	-20841	Normal (pre-intervention)	solid
+2020-10-17	mod_6	5074	64985	Cautious return	solid
+2020-10-18	mod_2	16326	87054	Soc. Dist. + Travel Ban	solid
+2020-10-18	mod_3	27141	-11382	No Intervention	solid
+2020-10-18	mod_4	14582	105898	Moderate return	solid
+2020-10-18	mod_5	23095	-19516	Normal (pre-intervention)	solid
+2020-10-18	mod_6	5099	78977	Cautious return	solid
+2020-10-19	mod_2	16202	98626	Soc. Dist. + Travel Ban	solid
+2020-10-19	mod_3	26741	-13876	No Intervention	solid
+2020-10-19	mod_4	14450	119158	Moderate return	solid
+2020-10-19	mod_5	22711	-11775	Normal (pre-intervention)	solid
+2020-10-19	mod_6	5087	83940	Cautious return	solid
+2020-10-20	mod_2	16014	92150	Soc. Dist. + Travel Ban	solid
+2020-10-20	mod_3	26241	-18697	No Intervention	solid
+2020-10-20	mod_4	14351	107253	Moderate return	solid
+2020-10-20	mod_5	22298	-6807	Normal (pre-intervention)	solid
+2020-10-20	mod_6	5085	90211	Cautious return	solid
 2020-10-21	mod_2	NA	NA	Soc. Dist. + Travel Ban	solid
 2020-10-21	mod_3	NA	NA	No Intervention	solid
 2020-10-21	mod_4	NA	NA	Moderate return	solid
